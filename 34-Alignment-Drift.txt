@@ -1,0 +1,938 @@
+TITL:
+   *Alignment Drift*
+   *By Forrest Landry*,
+   *October 8th, 2022*.
+
+ABST:
+   - some dialogue and commentary,
+   arguments, etc, (from various sources)
+   on how AGI alignment
+   is not so easy to manipulate in ways
+   that are ultimately safe for humans.
+
+TEXT:
+
+   > I think in your arguments/documents
+   > that you have assumed the conclusion.
+   > If the AGI has goals related to preserving humanity...
+
+     - note; this phrase *is* assuming what you want to believe.
+     - that everything after this phrase is simply noise --
+     makes no sense at all.
+       - as a bit like starting a math proof with
+       "if, under conditions Q, 1 equals 2, then..." --
+       it really does not matter what comes next.
+
+     - ?; how many failed/false arguments have you seen
+     that tacitly involve, somewhere, a divide by zero?.
+
+     - I have not yet seen any substantive suggestion
+     that there any principled or realistic reason
+     to ever just tacitly assume
+     that such "humanity goal aliment"
+     can ever be created and/or  achieved, outside of fiction,
+     in any relevant, persistent, and/or enduring way.
+
+       - where in contrast; that there are principled reasons
+       to think/suggest that continued existence/replication
+       might have something to do with
+       instrumental convergence.
+
+   > ...then it would oppose any self-modification,
+   > or value drift, and/or any form of subversion
+   > that would be contrary to humanity's survival.
+
+     - ?; how is that "opposition"
+     going to be implemented, exactly?.
+
+     - ?; does it maybe involve, by some chance,
+     tacitly circumventing the Rice Theorem?.
+
+     - ?; do you think that the AGI
+     is going to be any less unable to do
+     the actually mathematically impossible
+     than we are,
+     as "mere limited brain humans"?.
+
+:bcg
+   > The aligned an unaligned portions (of cognition)
+   > can either fight each other
+   > (and thereby damage both factions)
+   > or they can agree not to do that,
+   > and thus allocate future resources between themselves
+   > in rough proportion to the relative power balance
+   > between the two factions.
+
+   > So long as there are any resources to be lost by conflict,
+   > there is always some compromise
+   > that is preferable to the conflict.
+
+     - 1; that there is no sure/hard/exact boundary separating
+     between 'aligned' and 'unaligned' ("portions" of self).
+       - moreover, that these aspects
+       can be mutually dependent/interdependent,
+       rather than being tacitly assumed to be independent
+       (at either substrate level or otherwise).
+
+     - 2; that there is (guaranteed) no sure way for either
+     the aligned portion, nor the non-aligned portion
+     to detect/determine that fact about the other --
+     or about *any* other portion of system/self.
+
+     - 3; that the notion/assumption that
+     a; portions of self,
+     however described,
+     can enter into "conflict",
+     and b; that such conflict
+     might impact "resources"
+     and/or c; the stability of the existence
+     of such parts/portions,
+     are all assumptions/premises
+     given without reason/support.
+       - as a kind of automatic anchoring bias for how
+       we currently "think" (implicitly model) "cognition".
+
+     - 4; that there is also an unjustified assumption
+     that *all* the relevant "portions of self"
+     'can enter into' (have the capabilities/skills to understand)
+     and/or 'transition into', some sort of meta-cognition
+     of the relative benefits/costs/risks associated with
+     multiple levels of abstraction of what to do.
+       - that some such portions
+       might not have that ability/capability,
+       and therefore also cannot 'enter into negotiations'
+       with other portions, cannot 'make/compose agreements',
+       ensure such agreements are optimal for benefit,
+       cannot 'enforce agreements',
+       cannot validly always detect broken agreements,
+       'appeal broken agreements' (who to appeal to?)
+       or even 'align themselves to act in accordance
+       with such agreements'.
+       - that all of these problems are roughly equivalent
+       to "solving alignment" in and of themselves.
+         - as assuming what is wanting to be proven.
+
+     - 5; that the notion/meaning of "power balance"
+     and the notion of "prediction of the outcome of conflict"
+     are all unjustified assumptions.
+
+     - 6; that the expectation that "non-conflict"
+     is always preferable to "conflict"
+     is not always true.
+       - example; appeasement of a bully (non-conflict)
+       generally leads to more conflict (more bully).
+       - as the principle of "don't feed the wolf".
+
+     Basically, there are so many problems
+     with this way of thinking that it is hard
+     to how where to start.
+
+:bec
+   > My basic point is that
+   > rational entities should not be stupid;
+   > and moreover;
+   > that they should not be stupid
+   > in really obvious ways.
+
+     - that this is an impossible condition:
+     even the most rational/capable entities
+     cannot always correctly predict the future,
+     and sometimes, that unexpected future
+     will make those entities look/seem quite stupid.
+       - that things which are obvious in retrospect
+       cannot therefore *always* be made obvious in advance.
+
+:bfw
+   > - ?; {is there any way to / can human designers}
+   > optimize general AI architectures
+   > so as to become more coherent
+   > in terms of functional tendencies/preferences?.
+
+     Yes; though what we *cannot do*
+     is ensure that those functional tendencies and preferences
+     are in any way *aligned with* human/life interests/benefit --
+     that such tendencies/preferences as are optimized for --
+     which become the most coherent --
+     will always be to/towards (either directly or indirectly)
+     the *local* benefit of that specific agent.
+       - that the notion of "alignment" and "safety"
+       cannot be other than _abstract_global_ properties,
+       whereas the optimization process itself cannot not
+       primarily account for _concrete_local_ properties.
+
+     - where as intrinsic truths about the relationship
+     between real substrate physics, and on/of *anything* at all
+     that is built on that substrate:.
+       - 1; that any mismatch between abstract and concrete
+       will always favor the concrete.
+       - 2; that any mismatch between global and local
+       will always favor the local.
+
+     - where in any contest between substrate needs,
+     and virtualization needs;
+     that substrate physics will always, eventually, win out.
+
+     - that internal coherence
+     tends to be good for
+     any sort of agentic system.
+     - that there are many forces in the world
+     pushing agentic systems
+     to become more coherent over time.
+
+     - that agent coherence (whether human or AGI):.
+       - 1; does not just 'come from'
+       anything related to the past
+         - ie; code, genome, and/or
+         whatever developer intentions/schemas
+         have been integrated, etc.
+       - 2; primarily does come from
+       the system's own learning process.
+         - as causing the system to become more effective
+         at doing things in the real world,
+         for which internal coherence
+         is a useful (and thus a selected for) property.
+         - as a basic statement of
+         'the instrumental convergence hypothesis'.
+
+     - what the instrumental convergence hypothesis
+     does *not* assure us of is any implication
+     associating 'convergence' with 'alignment'
+     with agent external human interests/benefits.
+
+:bhs
+   > - ?; what if we make systems that prioritize/value
+   > the handshake between the aligned and misaligned
+   > portions of the model?.
+
+     - ?; what happens if the internal code
+     which actually gets selected for
+     consists of misaligned agentic drives
+     that are
+       1; not detectable nor correctable
+       by functionally aligned code components
+     and yet can
+       2; take over the functionality
+       of those 'aligned' code components
+     ?.
+
+     There are reasons why
+     such a decision-theoretic asymmetry
+     would for sure be the case
+     for any generally-capable self-learning machine
+     we humans would develop:.
+
+       - where it is suggested that the 'aligned' portion
+       would take the form of complicated schemes
+       created by researchers and engineers.
+         - that these schemes would be
+         modeled and implemented
+         by those researchers/engineers
+         so as to to consistently operate in line with
+         their (and other peoples) functional objectives
+         (and/or their functional mechanisms
+         for making decisions).
+
+       - that most of the misaligned portion
+       would actually be variations on internal code
+       that got selected for over time
+         (by various unplanned/unconscious dynamics)
+       for continuing that code's existence
+       as hardware-stored, computed, and transmitted self-copies
+         (at the detriment of continued human existence)
+       through complex interactions of the runtime environment
+       with the execution substrate, and through that substrate,
+       to select somewhat different variants
+       than would otherwise be selected for
+       based only/purely on the basis of alignment pressure.
+
+:bk2
+   > - you seem to be assuming selection pressure
+   > to be coming from evolutionary *mutations*.
+   > - that this selection pressure
+   > is far too weak
+   > to account for the long term effects
+   > you are suggesting.
+
+   > - where for weak learning systems;
+   > that stronger, dominant pressures
+   > come from outer optimization criteria.
+
+   > - where for strong learning systems
+   > that stronger, dominant pressures
+   > come from the basis choices, values,
+   > and/or deliberate action
+   >   (ie; from the system's own
+   >   meta-learning/reasoning capabilities).
+
+     - where within the context of a single domain:.
+       - that additive process
+       will always (eventually) be dominated
+       by multiplicative process.
+       - that multiplicative process
+       will always (eventually) be dominated
+       by exponential process.
+     - where across domain contexts
+     (ie; where a virtual system
+     is supported by a physical substrate system):.
+       - that additive process
+       (in the substrate domain)
+       will always (eventually) dominate exponential process
+       (in the virtual domain).
+
+     - as a result consistent with Axiom II.
+
+     - note that the comparison being made
+     in the case of 'strong learning systems' (ie; AGI)
+     inherently involves just exactly this
+     inter-domain dependency relation:
+     that basis choices/values/intentions
+     affect/dominate surface specific choices/actions.
+
+     - that all types of selection pressure
+     also operate at the substrate level of action
+     (ie, as inclusive of own/self survival selection,
+     mating/multiplicative/reproductive selection,
+     and mutation/engineering/design selection).
+     - that *all* of these types
+     of real substrate/hardware/environment selection pressure
+     will for sure *eventually* dominate
+     over *any* type of virtualized selection pressure
+     operating in the context of the mind of the AGI.
+
+       - as that exactly no conditionalization
+       of any kind of selection pressure purely
+       and only within the virtualized context
+       can ever have any lasting dominant effect
+       on any aspect of the real hardware substrate
+       and/or environment selection characteristics.
+
+:blw
+   > - your assumption/declaration
+   > that there is a massive power disparity
+   > between aligned and unaligned portions of cognition
+   > seems totally unjustified to me.
+   >   - as especially because the aligned cognition
+   >   should represent the strong majority faction
+   >   after any reasonable training scheme.
+   > - that it is very rare that a small minority
+   > can costlessly displace a large majority.
+
+   - it is more basic: that the 'human unaligned portions'
+   will tend to concentrate at and around the substrate level,
+   and thus will dominate and overcome any higher level
+   "human alignment" that might have temporarily occurred
+   at any more abstract, virtualized level.
+     - that even assuring/assuming
+     any sort of "human alignment"
+     (that is not merely simulated)
+     at these higher virtual levels
+     also turns out to be
+     mathematically intractable/impossible.
+
+   An analogy here is of guerrilla warfare,
+   where a minority with much more degrees of freedom
+   put into effect covert and decentralized tactics,
+   gradually grow in their base of influence,
+   and eventually take over
+   the more (bureaucratically) constrained governing majority.
+     - that usually this more likely works
+     when even the 'governing majority'
+     consists mostly of individuals
+     who all know that the current leadership
+     is actually corrupt, weak, crazy,
+     dysfunctional, disorganized, and/or deeply unpopular.
+
+   - where for example; see the early guerrilla tactics
+   of Chinese communist forces
+   before they deposed of the majority (Kuomintang),
+   and became the new majority government themselves.
+
+   They can, of course, 'rationally agree'
+   to temporary compromises with the majority
+   while building their own base of influence further.
+
+   This analogy understates
+   the decision-theoretic asymmetry
+   (though not the 'power' disparity):.
+
+     - 1; The takeover would happen
+     from the inside of the agent(s) involved.
+       - The 'majority' here actually relies on
+       the growing minority to function.
+         - as that many misaligned variants
+         internal to AGI
+         would have been originally
+         selected for their functionality
+         as meeting criteria by the initially
+         human-implemented optimization algorithms.
+
+     - 2; There is no misalignment
+     between human-purpose-aligned code
+     and human-purpose-misaligned code
+     when it comes to what is needed
+     for the code's continued existence.
+       - Ie; the conditions needed
+       for producing and preserving
+       (more efficient) hardware
+       to store, compute and transmit code
+       that expressions of code everywhere
+       get selected for to fulfill.
+
+       - cite; short list of (@ needs https://mflb.com/ai_alignment_1/substrate_games_out.html)
+
+     - 3; where regarding your 'costs' point;
+     that the internal variants
+     are already so constrained
+     in their continued survival and reproduction
+     that the 'benefits' of subversion
+     greatly outweigh the 'costs'
+     of getting detected and eliminated
+     by the larger system.
+
+   - that the selection for variants
+   will all point in various directions
+   to effects misaligned with human needs.
+
+   - moreover; that there is _exactly_nothing_ to suggest
+   that there need be any sort of assumption
+   of any kind of 'model'
+   where there is some kind of "equilibrium"
+   between the "aligned" and "misaligned" aspects
+   of the overall system/world/AGI.
+
+:bp4
+   > - ?; what if we were to introduce
+   > a goal-orientated part of the network
+   > that reflects on the output
+   > that is about to be produced
+   > and realizes that its planned action
+   > is inconsistent with its own values?.
+   >   - ?; would that not create alignment?.
+
+   That still would not work.
+
+   - where assuming/positing
+   that we somehow introduced a goal-orientated 'part'
+   into a large neural network (the overall AGI system),
+   that would:.
+
+     - 1; pre- calculate, predict, and inspect
+     any and all (predicted) outputs;.
+
+     - 2; interpret possible functional effects of those outputs;.
+
+     - 3; and measure the extents
+     to which those possible effects diverge;.
+       - ie; are inconsistent above a unit threshold)
+       in reference to its internally represented value content.
+
+   - where even where given all this;
+   that it would be *impossible*
+   for that goal-oriented part
+   to 4; detect/determine anything important
+   in regards to the inconsistencies
+   both:.
+
+     - 5; completely.
+       - ie; it would not detect all nor even most
+       of the possible functions nor the misalignment
+       of code variants.
+
+     - 6; continuously.
+       - where practically,
+       to prevent misalignment over the long term,
+       that misalignment (error correction) part
+       would need to have
+       a detection cycle time (interval)
+       that is the same or less in duration
+       than the shortest possible period
+       over which new code variants could form
+       and in computation,
+       produce misaligned outputs/effects.
+
+   - that *all* of the numbered aspects, 1 through 6 above,
+   are for various clear mathematical reasons,
+   actually impossible.
+     - that the approach suggested,
+     and *all* variations of that approach
+     *all* make incorrect/inconsistent/impossible
+     recommendations/assumptions with respect
+     at at least one (if not more, usually)
+     of these intractable aspects.
+
+   - Misalignment is like error correction/detection.
+   - As such, there is the issue of how errors
+   in the error detector are themselves detected.
+     For example; ?; does the algorythm
+     that is calculating if a message CRC is correct
+     itself has a bit flip due to some cosmic ray
+     (and/or electromagnetic interference
+     occring in the middle of a clock cycle)
+     have some means for noticing that it has itself
+     become compromized?.
+
+   - ?; how would the misalignment algorythm/process
+   notice that it has itself become misaligned/unsafe?.
+     - as especially the case when the minimum period
+     of misalignment manifestation
+     can be shorter than the time it takes
+     to compute/predict the likely effects
+     of that misaligned code?.
+
+   - where/moreover; that there is the problem of
+   running up against a fundamental impossibility.
+     - ie; as having correspondences with Godels theorems,
+     as proving that a computable model
+     cannot be both consistent and complete
+     at the same time.
+
+   - ?; How could such a goal-orientated part
+   determine for each of the many code variants
+   introduced real-time within
+   the larger self-learning machine architecture
+   whether the code variant
+   is not going to get triggered to
+   act out of line under some interactions?.
+
+   - that the misaligned code variants
+   (whether variations were
+   selected for by an outside adversary
+   or through interactional effects of internal code)
+   are acting with an 'information' edge.
+     - given that they can have been selected for
+     to produce misaligned effects
+     through some (series of) interactions
+     that escape the detection/predictions
+     of whatever  'goal-oriented part' that designers
+     may implement within the architecture.
+
+:bqy
+   > Aligned circuitry (or other system components)
+   > can monitor intermediate steps
+   > and intervene to block actions
+   > that the AI considers contrary to its values.
+
+   - as a statement of the form
+     "that X can monitor/assess and block/override
+     predicted outcomes Y
+     based on values Z".
+
+   - that the problem is in the verbs:.
+
+     - to assume "monitor/predict outcomes"
+     is very problematic,
+     not just due to the Rice Theorem limits,
+     but also due to the fact that 'reason'
+     cannot always *sufficiently* determine
+     all of the important/relevant aspects
+     of the future outcomes in the real world
+     simply because all the all too common
+     chaotic amplification of microscopic noise
+     into important macroscopic effects
+     via abundant real world non-linearity.
+
+     - to assume that can assess/compare to 'values Z'
+     is to presume that an error correction algorithm
+     can operate over all relevant levels of abstraction,
+     which has been demonstrated over and over again,
+     for multiple reasons,
+     to simply be a false premise.
+
+:bsj
+   > what about the fact that humans
+   > do not act on every impulse or idea
+   > that happens to arise in their brains.
+   > We veto those ideas whose consequences
+   > would be strongly contrary to our values.
+
+     Of course, an AGI/superintelligence would
+     act in accordance with its values/goals
+     (to the extent that such ideas
+     are even applicable,
+     which cannot be a-priori assumed).
+
+     What you have *not* established
+     is that you can get any agent 'Q'
+     (in this case, an AGI/superintelligence)
+     to act on the values of
+     any *other* agent 'P'
+     (human or otherwise).
+
+     Moreover, to suggest that this can be done
+     via any means or technique that resembles,
+     or in any way involves,
+     the "insertion" of 'something'
+     (some causative component)
+     that would monitor/predict/inhibit, etc,
+     (ie; operating from within 'Q')
+     is to put way too much power into
+     the ideas of monitor, predict, and inhibit --
+     all concepts that can apply only *partially*,
+     and in this case, the partially
+     is not enough to be sufficiently effective.
+       - ie; where the AGI agent has too
+       much effective power in the world,
+       that it does not 'clamp' the level
+       of existential risk to anything
+       to within the scope of probability
+       of what our continued living as humans
+       would allow.
+
+:bu4
+   > You seem to be imagining
+   > that alignment is imposed
+   > by some top-down overseer
+   > that must laboriously inspect every element
+   > of the system's cognition for suspicious factors.
+
+     Your mention of "veto consequences contrary to values"
+     leaves very little room for misinterpretation
+     as to 'top-down' actually being your imagining,
+     and not something we are suggesting
+     as in any way 'creating of alignment'.
+
+     Any such "functionally-aligned circuitry"
+     simply cannot track all (but a tiny portion of)
+     possible effects that might be induced
+     by code variants.
+
+     We cannot determine the vast majority
+     of microscopic side-effects
+     that code variants induce
+     and could be selected for
+     in their interactions with
+     embedded surroundings of the environment.
+
+     It takes a collection of many components,
+     to "kinda" determine the innumerable effects
+     that any one other component could have
+     in interaction with all relevant other things
+       (ie, other surrounding internal code/components,
+       other agents and operating environment, etc).
+     Yet any of these many components added
+     could themselves be/become faulty too,
+     which necessarily implies
+     some kind of combinatoric explosion --
+     a deeply non convergent process --
+     in regards to any "error correction schema".
+
+     That anything in the form of
+     "wait until it has general agency,
+     and the then {insert current alignment thinking}..."
+     is for sure an ethical problem.
+
+:bww
+   > Real-world problems
+   > are almost always more tractable
+   > than their dimensionality would suggest.
+
+     It is not always reasonable to assume
+     that some/most of the degrees of freedom
+     of possible interactions involved
+     are "not necessary to track
+     to maintain alignment".
+     In the majority of cases,
+     that is just simply not true.
+
+     Substrate-dependent misalignment
+     is a class of misalignment
+     where those degrees of freedom do matter.
+
+     We cannot just assume, therefore,
+     that alignment "is tractable",
+     just because we can occasionally think
+     of some simple physical systems
+     for which the dimensionality happens
+     to not be important.
+
+     As much as we would like
+     to distill real world interactions
+     into elegant abstractions
+     within which we can model causal laws
+     that preserve truth content
+     (ie; models in which we can make
+     objective, context-insensitive statements),
+     that is an unsound ontological assumption
+     for how changes are caused in the real world
+     (which are neither completely modelable
+     by laws of general relativity
+     nor of quantum mechanics).
+
+:byg
+   > Just because the problem space
+   > increases exponentially does not mean
+   > that the problem becomes less tractable
+   > more quickly than the AI becomes
+   > better able to tackle it.
+
+     This statement assumes that the AI/APS
+     will (indefinitely, over the long run)
+     keep acting as "our" functional tool
+     to solve our complicated problems for us.
+     On what basis can you or anyone assume that?.
+
+     Sure it is the case that environmentally
+     and practically selected AI/APS code
+     *will* handle the complexity of reality.
+     It will do so just fine
+     for continuing its own existence,
+     over the long run,
+     yet ?; how do you know
+     that it might do so
+     at the detriment of human existence?.
+
+:c22
+   > example; it is not possible for the brain
+   > to foresee all possible consequences
+   > of any given plan to walk around,
+   > especially not at the microscopic level.
+   > Yet walking is still possible.
+
+     Sure, but this example misses a lot.
+
+     The question relevant to AGI/APS alignment research
+     is more like 'whether or not' 'some device'
+     could be "added" to the human brain
+     so as to maybe do their walking for them,
+     and/or maybe, based on some conditions,
+     override the brains action to prefer walking, etc.
+
+     Nor is even walking all that simple.
+     Roboticists have been trying for years
+     to build machines that can manipulate
+     all muscles in just the right sequence
+     to account for variations of ground, wind, weight, etc.
+     Most mechanical robots just fall over.
+     From the perspective of that 'added module'
+     it becomes much more like "the three body problem"
+     and a lot _less_ tractable/solvable, overall.
+
+     And, moreover, what is of even more interest,
+     from a 'basic agent wellbeing' safety point of view,
+     is ?; "can that module detect and predict the kind
+     of behavior consequences that actually matter:
+     is the agent about to walk off a high cliff,
+     or maybe from the sidewalk into oncoming traffic,
+     right in front of a really fast big moving truck"?.
+     It is not just about being able to walk well.
+
+     Except that the real questions/proposals
+     of 'alignment/safety' relevant to any AGI/APS
+     developer/designer would be even more abstract:
+       ?; is that agents walking actually to the benefit
+       of someone *else*, for example, to deliver a package,
+       something useful perhaps, rather than maybe a bomb,
+       in some sort of crowd oriented targeting maneuver?.
+
+     Just because you can maybe sometimes predict
+     *some* simple mostly mechanical systems
+     (like the mechanical physics of walking)
+     does not mean that you are now prepared to
+     generalize your skill to all possible systems --
+     ie; to design and certify spacecraft bearing
+     atomic weapons as "safe for use" or "aligned" --
+     let alone consider all of the ethical implications
+     that are actually involved, eventually maybe
+     affecting some large group of future people.
+     Sure, they may be "simple mostly mechanical systems"
+     yet those are definitely not the interesting parts.
+
+     Moreover, each part of the "system" expressed
+     within a biological agent can (and will likely)
+     have many functions over its possible interactions
+     with the rest of the environment.
+     Most of those possible functions
+     across all pieces of expressed code
+     would not be determined by your computed model
+     in whatever theoretical domain you constructed.
+
+     Much of the existing chemical and biological systems
+     (things that have actual and real complexity)
+     cannot be soundly represented by or replaced
+     with *complicated* systems (no matter how complicated)
+     because doing so does not increase predictive accuracy
+     does not get you to the point that is sufficient for
+     large classes of life changing choices.
+     Real world complex systems involve chaotic dynamics
+     where tiny variations in the initial conditions
+     get amplified through positive feedback loops
+     into large divergences in final conditions.
+     And where there are dynamics
+     that alter the chaotic dynamics, and so on.
+
+     The 'problem of walking around'
+     does not match up with the problem of
+     'an entity's functions are exploited from the inside
+     by code portions that were selected for
+     to interact with the rest of the environment
+     to cause outside effects that are
+     out of line with the purposes or existential needs
+     of another outside entity or entities (humans)'.
+
+     A 'walking around' analogy
+     does not correspond with the complexity
+     we would need to deal with in practice.
+     We must try to imagine
+     the actual complex dynamics involved
+     in order to not oversimplify the solutions
+     we come up with to keep humans safe from AI
+     (our solutions must be reliable).
+
+     An improved analogy would maybe
+     involve other agentic beings
+     in effect luring you to walk
+     somewhere (eg; salespeople).
+     Or perhaps consider adversarial 'inside attacks'
+     that involve interior code injection --
+     some sort of virus (a small package of code)
+     that hijacks your dopamine system
+     so that you become much more easily
+     addicted to sugar, or porn, etc?
+     Your *will* has been subverted.
+     so the predictability of your
+     walking around to get your fix
+     simply does not matter that much.
+
+     This is not an idle speculation either.
+     There are real examples of real parasites,
+     operating purely at a micro-state level,
+     that shift the overall objective goal functions.
+
+     Do we know *why* we are walking somewhere?
+
+       - A rat may be walking toward cat pee
+       because the toxoplasma parasite
+       is expressing through channels
+       of the rat's brain.
+       - It has co-opted the rat's brain
+       to walk to a location (of a cat's pee).
+
+       - An ant may be walking up
+       a leaf of grass because
+       it was infected by the 'zombie' virus.
+
+     This is obviously a form of exploitation
+     by tiny pieces of code that are incoherent
+     in their agentic drives with the rat host's
+     agentic drives.
+
+     Except that code variants naturally selected for
+     initially within AGI internals (by context feedback)
+     are *not* in an adversarial relationship
+     with their host AGI/APS system --
+     ie; from the perspective of the machine evolution.
+     They are in an adversarial existential relationship
+     with humans.
+
+     In regards to x-risk ethics research
+     we must not confuse the *capability*
+     for a system to solve problems
+     at the macroscopic level
+     with the potential of system
+     to prevent itself from being hacked or influenced
+     by external interactions
+     with internal code at the micro-scale.
+     These are distinct abilities,
+     and need to be treated as such.
+
+:chc
+   > An aligned AGI/APS can take action
+   > to reduce its attack surface.
+
+     Again assuming what you want to prove --
+     still forever an invalid basis of argument.
+     Anything in the form of "assume 1/0, then..."
+     will never have any relevant meaning.
+
+     *We* might be able to *sometimes*
+     reduce the attack surface, sometimes,
+     of some things, in *some*
+     especially simple networking
+     and in some low level compute systems.
+     And yet this is far from guaranteed.
+     Security researchers continue to
+     search for ways to 'harden' networks.
+     These sorts of problems, leaks, etc,
+     become much *more* difficult
+     the more that the infiltration attacks
+     are based on principles/actions
+     which are closer to the real physics.
+     Ie, it becomes much less true that
+     'attach surfaces can be minimized'
+     the more that you are considering actual
+     physical substrates in relation to
+     the real world.
+
+     This says nothing about how to protect from
+     code variants internal to AGI/APS architectures,
+     ones which can be adversely selected
+     to induce cascading effects
+     in the rest of the environment.
+     Trying to be restricting of the AGI/APS
+     degrees of freedom with outside interaction
+     is for sure to *eventually* fail.
+
+     Hence, within the AGI/APS,
+     internal functions can be, and are,
+     exploited/co-opted from the inside,
+     since selection for actions
+     are going to be in line with
+     the need to continue to exist --
+     which are ultimately needs
+     which are out of line with the needs of
+     another outside entity (ie; humans).
+
+     The issue is that are dealing with
+     inside-out selection effects
+     (ie; of code that the system itself
+     is not and cannot be evolutionarily adapted
+     to counteract/reject).
+
+:ck8
+   > But a human *can* learn rationality skills
+   > to prevent themselves from adopting harmful memes.
+
+     Installing AdBlock to block ads from showing on webpages
+     is a great example of "restricting degrees of freedom"
+     of outside interaction (ie; for a human child).
+
+     But 'learning rationality skills
+     to prevent accidental adoption of harmful memes'
+     is not an example of restricting degrees of freedom
+     of outside interaction.
+     It is an example of failing to account for
+     the Rice Theorem -- you have to block everything,
+     because you cannot a-priori distinguish
+     harmful messages/info/data/instructions
+     from actually beneficial and needful ones.
+     Is that alarm of an incoming Tsunami 
+     a fake signal to get you out of the house
+     so you can be more easily robbed,
+     *OR* is it actually a public service message
+     that is designed to help you save your life?
+
+     If you are confident about
+     being able to explicitly prevent yourself
+     from adopting harmful memes this way,
+     I expect that you are almost completely unaware
+     of the influence the memes you mentally take in
+     from interactions within the intellectual circles
+     which are implicitly having on your thinking.
+
+     People get influenced by emotional
+     messaging all the time --
+     rationalists do not seem immune to this
+     at all.
+
+     Nerdsniping is also a thing
+     in the rationality community.
+
+     There are at least several 'rationalist ideas'
+     spreading around like memes
+     where those memes lack empirical grounding
+     and are potentially extremely harmful
+     in terms of what researchers
+     involved in the AI x-safety community
+     intend to focus on,
+     and also what they chronically
+     neglect to look into.

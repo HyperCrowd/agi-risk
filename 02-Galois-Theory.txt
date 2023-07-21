@@ -1,0 +1,245 @@
+TITL:
+   *Galois Theory as Applied to the Hypothesis*
+   *of AGI Terminal Extinction Risk Mitigation*
+   *By Engineering Methods*.
+   *By Forrest Landry,*
+   *September 9th, 2022*.
+
+ABST:
+
+   A summary of the method by which one can know
+   that AGI Convergent Extinction cannot be prevented
+   by any 'error correction' or 'safety protocol' or
+   'design practice' of/for/on any future AGI.
+
+TEXT:
+
+   We claim that it is 100% possible to know, now, today,
+   that it is 100% impossible to 'align' AGI,
+   and/or to establish/create any viable notion of 'safe' AGI,
+   to within any reasonable limits
+   and over any ethical timescale,
+   using any present or even any future possible
+   technology, means, or method.
+
+   We are using the term "impossible" in two ways:.
+
+      - 1; That the change and risk of a failure
+      of AGI alignment/safety
+      that has human-species-wide-lethal outcomes
+      is strictly and asymptotically convergent toward *certain*
+      over sufficient time
+      (hundreds of years, as an outside limit,
+      and potentially much much faster/sooner),
+      and that it is strictly impossible,
+      given any reasonable definitions of AGI, etc,
+      for the nature of this trend to be otherwise.
+
+      - 2; That we fundamentally cannot
+      obtain, have, or establish by any means,
+      (ie, that it is impossible to obtain, etc),
+      any sound and valid statistical guarantee
+      that the probability of the failure of AGI alignment/safety
+      over any reasonable ethical long term
+      (ie, for example; a few hundreds of years)
+      is guaranteed to be constrained at or below
+      some reasonable percentage X,
+      as an upper maximum allowable bound
+      on the chance/risk
+      of human-species-wide-lethal outcomes.
+
+
+   That a good way to express the overall result is:.
+
+      - 1; where given AGI (as defined/characterized by @B);
+      that there is,
+      unavoidably,
+      an overall inexorable convergence
+      towards total human/economic/ecosystem extinction
+      over the moderate long term
+      (one or two centuries); and;.
+
+      - 2; it is fully knowable (today)
+      that this total future extinction convergence
+      cannot be shifted
+      by (on the basis of)
+      *any* combination of
+      *any* current or future engineering methods --
+      ie, that AGI simply cannot be made "safe"
+      for any real meaning of that term.
+
+
+   A characterization of how it is possible to know
+   and be formally assured of
+   the logical entailment and necessity of statement @1 above
+   has been at least partially documented elsewhere,
+   and is therefore beyond the scope of these summary notes.
+   Herein we are concerned with a brief description
+   and explanation of the means by which
+   we might also formally and fully know @2 above.
+
+   The technique of our proof is akin to Galois Theory --
+   ie, that the span of the kinds of problems
+   that specific sets of operation types can solve is limited.
+   Galois theory provides a means by which
+   a formal proof can be obtained
+   that not all types of tools
+   can solve all (types of) problems.
+   That when given a definite known tool-set,
+   or any possible extensions of just that tool-set,
+   that there will always be some (important) problems
+   that are fundamentally inherently unsolvable
+   with any combination of the techniques/methods given.
+
+   There are aspects of the Godel Theorem in this also:
+   While *some* tools can solve *some* problems,
+   that this does *not* imply that there is,
+   or can be, *any* hypothesized 'total set of tools/techniques'
+   that can 'solve all problems' --
+   ie, that there is not any finite set of tools ("Axioms")
+   that can solve all possible problems (ie; "identify all truths").
+   Partly, our result is also based on Shannon Entropy and
+   on at least two distinct varieties of complexity theory.
+   There is even an indirect connection with Bell's Theorem,
+   which on the basis of a strict necessary inequality,
+   can show that certain features of reality
+   are either accounted for in any theory of physics,
+   or are not, (to the failure of physics).
+
+   Galois Theory goes somewhat farther in providing a "meta-technique"
+   (or in our case, an exemplar meta-meta-technique)
+   by which, given a definite finite set of tools,
+   we can absolutely characterize,
+   in the hyperspace of all possible problems,
+   the exact boundary between
+   which problems are solvable with that specific toolkit,
+   and which are not.
+   Similarly, this implies that,
+   when given a specific definite problem,
+   that we can know in advance
+   whether or not a given set of specific tools/techniques
+   will *ever* be able to solve that specific problem --
+   or whether any such effort is an exercise in futility.
+     - for example, see (@ Galois Theory https://en.wikipedia.org/wiki/Galois_theory) for more information.
+
+   Here are some summary notes based on the above Wikipedia article:.
+
+      This way of thinking (about the limits of the extent of
+      the use of the common algebraic mathematical operators)
+      began with some very old classical geometry problems,
+      which were attempting to be solved with just the tools of
+      a compass and a straightedge: 'squaring the circle',
+      'doubling the cube' and 'trisecting the angle'.
+      These sorts of puzzles were explored and attempted
+      by thousands of thinkers over more than a thousand years,
+      all without success (@D).
+      A later exploration of the means by which
+      these sorts of problems
+      might potentially be better understood and solved,
+      using the more powerful mathematical tools
+      of algebraic and analytic geometry, etc,
+      eventually became more fully generalized
+      in the question:.
+
+         > Does there exist a formula
+         > for the roots of a fifth (or higher) degree polynomial equation
+         > in terms of the coefficients of the polynomial,
+         > using only the usual algebraic operations
+         > (addition, subtraction, multiplication, division)
+         > and application of radicals (square roots, cube roots, etc)?.
+
+      It turns out, via the Abel-Ruffini theorem,
+      that there are equations (examples were given)
+      for which such a solution (a formula) cannot exist.
+      Galois Theory goes further by describing exactly the boundary
+      between what sort of equations are possible to be solved
+      with just these operations,
+      and why it why it is just not possible
+      (ie; is strictly/logically impossible)
+      to use just these operators
+      for most (the vast majority) equations of degree five or higher --
+      ie, equations which are generally describing
+      of anything with even moderate complexity.
+
+
+   Our interest is:.
+
+      - 1st to notice that *all* of the effects/methods of engineering
+      are based on *only* the application of the principle of causation,
+      as modelable by *only* some combination
+      of mathematics and/or computer science (@A),
+      and that;.
+
+      - 2nd, it is fundamentally inherent
+      in the nature of the modeling process itself
+      (ie, as a/any combination of a definite set
+      of logical/physical operators/operations),
+      on both a real physical and on a mathematical level,
+      that there are hard inherent limits
+      on what can and cannot be modeled/predicted,
+      and that therefore;.
+
+      - 3rd; that there are definite and inherent limits
+      on what sorts of outcomes (or characterizations of outcomes)
+      can be achieved
+      using *any* combination of engineering,
+      causative modeling, mathematical, or algorithmic process (@C),
+      and finally;.
+
+      - 4th; that the problem of "ensuring that AGI is safe/aligned
+      to within some low/reasonable X% of risk of total extinction"
+      is strictly within the set of unsolvable/impossible problems
+      given any possible combination of any extension
+      of the named operators and problem solving techniques.
+
+
+:Notes:
+
+   - $A; where observing; that the following is a formal IM triple
+   necessary and sufficient to the practice of 'engineering':.
+     - physics (as pure immanent, when in 1st person).
+     - mathematics (pure omniscient; always is 3rd person).
+     - computer science (applied transcendent; 2nd person).
+
+   - $B; that the notion of 'General Artificial Intelligence/agency'
+   specifically implies:.
+
+     - 1; multiple diverse domains of sense and action
+     (as an inherent requirement of the notion of 'generality').
+
+     - 2; intrinsic non-reducible possibility for self modification
+     (as due to the multiplicity of domains of sense/action,
+     and of the inherent inter-relationships of these domains).
+
+   - $C; where from the above, that therefore:.
+
+     - 3; that the meta-algorithm
+     (the learning/adapting/changing process)
+     is effectively arbitrary (and thus subject to
+     Halting Problem and Rice Theorem type limits);
+     (where based on unknowable complexity dynamics
+     of those domains, via micro-state amplification, etc);
+     hence;.
+
+     - 4; that it is _inherently_undecidable_ as to whether
+     *all* aspects of its own self agency/intention
+     are fully defined by *only* its builders/developers/creators.
+
+   - $D; never under-estimate the degree to which
+   some population of male engineering type persons,
+   due to unconscious evolutionary drives and biases,
+   inherently wants to have something to prove,
+   and that when/upon hearing that something "is impossible",
+   will strive unceasingly to "be the one" who does the impossible --
+   and is "right" when "everyone else is wrong".
+   Hence we end up with any number of people
+   attempting to do 'over unity' perpetual motion machines
+   and/or to demonstrate and actually make
+   various mathematical (or engineering) impossibilities.
+   Unfortunately, such actions in this case --
+   attempting to make a long term "Safe" AGI --
+   must be treated as as criminal act,
+   equivalent to global genocide
+   and so must be maximally socially circumcised/taboo/shunned,
+   whether explicitly by national/international law,
+   and/or by some sort of strong popular prohibition.

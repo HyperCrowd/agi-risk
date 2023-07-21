@@ -1,0 +1,993 @@
+TITL:
+   *The Substrate Needs Convergence Thesis*
+   By Forrest Landry
+   Nov 9th, 2022.
+
+ABST:
+   Answers and clarifications about the meaning
+   and dynamic of 'substrate needs convergence'
+   as applied to AGI eventual outcomes.
+
+TEXT:
+
+   > - ?; what are some of the key concepts
+   > of your AGI non-safety work?.
+
+   The three concepts of
+     'instrumental convergence' and
+     'substrate-needs convergence' along with
+     'theoretical limits of engineerable control'
+   taken at once together, form the primary basis
+   of a "long-term AGI safety impossibility proof".
+
+:cas
+   > - ?; what is the relationship between the
+   > 'substrate-needs convergence' notion and
+   > the 'instrumental convergence' notion?.
+
+   The basic difference is whether the driver
+   of the convergence dynamic is defined in
+   terms of processes which are "internal"
+   to the AGI/APS/SAS instance
+     (however the notion of 'instance is defined' --
+     usually as some contingent dependency
+     wherein the function of the AGI overall
+     is somehow dependent on configurations
+     of a substrate, which is taken together
+     to be the 'instance basis' of that AGI/APS/SAS,
+     superintelligence etc)
+   or in terms of processes which are "external"
+   to that instance.  More specifically,
+   where in regards to 'external drivers of
+   convergence' is to be considered the relation
+   between the actions/effects/outcomes of the
+   AGI/APS/SAS agent, and how these cause
+   changes in the environment, which themselves
+   in turn potentially cause changes/shifts in
+   the structure, nature, and basis of the
+   AGI/APS/SAS substrate.
+
+   The key difference is whether the "feedback
+   loop" inherently passes through the real world
+   and then through the substrate, which in turn
+   maybe/potentially affects the viability of
+   the code that is running on/in/within the
+   AGI/APS/SAS instance.
+
+   When considering instrumental convergence,
+   the idea is that choice action expressions
+   affect the environment (creates an outcome)
+   which is then sensed through whatever input
+   devices the AGI/APS/SAS is equipped with,
+   and that any learning/optimization/adaptation
+   occurs within whatever provisions the code
+   itself makes for integrating that sensory
+   information, _at_the_level_of_the_code_.
+
+   Whereas, with substrate-needs convergence,
+   the idea is that choice action expressions
+   affect the environment (creates an outcome)
+   which then has some effect on the substrate,
+   which then (maybe over a long time) has
+   some sort of _indirect_effect_ on the
+   operation of both the substrate and thus
+   also on the code, how inputs and outputs
+   might happen, or continue to happen, or
+   not happen, and/or any other shifts of
+   that nature.  In effect, this channel of
+   feedback affects the viability of the
+   entire system, both the code and the being
+   of the AGI/APS/SAS/superintelligence itself
+   as a whole.
+
+   Insofar as both the environment and the
+   substrate on/upon which the AGI/APS/SAS
+   code is built, runs within, etc, then
+   the notion of 'internal' (ie, changes
+   are occurring only within the domain of
+   the (virtualized) code) or 'external'
+   (ie, the notion of changes are as if
+   occurring external to the domain of the
+   code, as in the hardware to environment
+   relationship, which can in turn affect
+   the operation and stability of all input,
+   output, and data processing functions).
+   As such, 'within the code' is treated
+   as if a kind of 'internal to the agent'
+   dynamic (intra-agent), and 'not within
+   the code' is treated as a kind of
+   'external to the agent mind' dynamic
+   (ie, as 'extra-agent').
+
+   As such, we can consider these two as
+     'instrumental convergence'
+       (as a kind of 'intra-agent' process).
+     and 'substrate-needs convergence'
+       (as a kind of 'extra-agent' process)
+
+   Thus we can distinguish between those
+   characteristics of an overall system
+     extrinsically selected
+     for convergence on needed conditions,
+   and
+     intrinsically selected
+     for convergence on instrumental goals.
+
+   As such, 'substrate-needs convergence'
+   is a concept/idea/dynamic/process
+   which is distinct from,
+   and very much enabled by,
+   the much more well known parallel concept
+   of 'instrumental convergence'.
+   That extra-agent convergence provides the context
+   for intra-agent instrumental convergence.
+   The 1st is more about how things actually happen
+   and the 2nd is more about how things are modeled
+   inside the AGI itself.
+
+:6rl
+   > - ?; what is the relationship between the
+   > 'substrate-needs convergence' notion and
+   > the 'orthogonality thesis' notion?.
+
+   The notion of 'substrate-needs convergence'
+   does involve the specific kind of conditions
+   where (ie; as circumstances under which) the
+   'orthogonality thesis' does not fully apply.
+
+   - where from (@ URL https://www.lesswrong.com/tag/orthogonality-thesis):.
+     > - that the _Orthogonality_Thesis_ states:.
+     >   - that an agent can have any combination of
+     >   'intelligence level' and 'final goal'.
+     >   - that 'utility functions' and general intelligence
+     >   can vary independently of each other.
+     >     - as contrast to the belief that,
+     >     (because of their intelligence),
+     >     agents will all converge to
+     >     a common goal.
+
+   Specifically, where considered purely abstractly,
+   it can be regarded that the concept of 'goal/outcome'
+   and that of 'the process by which that goal is reached'
+   have some sort of strict conceptual _distinctness_,
+   (even if they, as concepts, are also inseparable).
+   Ie; that many processes can be used,
+   or at least, there can be many different _rates_
+   at which a single processes type can be performed,
+   that all will result in the same final outcome.
+
+   This notion is consistent with parallel ideas
+   as found in some other domains of study/theory;.
+
+     In the realm of logic, there are many ways to prove
+     (ie; as a process) any particular theorem (ie; outcome).
+
+     In the realm of computer science,
+     any given algorithm (as an object)
+     can be represented in multiple languages
+       (each language can be treated as
+       a process descriptor).
+
+     Moreover, there can be (at least in principle)
+     multiple different algorithms that can
+     all transform a given set of data inputs
+     (which are possessing certain characteristics)
+     into a new set of data outputs
+       (which are possessing
+       other specific characteristics).
+
+   More generally, the notion of a computer itself
+   as something which is 'generic', and which can
+   run any program (do anything that is computable)
+   is strongly suggestive of the orthogonality thesis.
+   The idea of 'software' being independent of hardware
+   is the very reason that computers are useful,
+   and so, it is a natural tendency, to the point of
+   being actually a bias among many system engineers
+   to think in terms of inherent assumptions that the
+   orthogonality thesis is always universally true.
+
+:56y
+   However, there are also some technical limits
+   to the scope of the application of the
+   orthogonality thesis. Specifically, the thesis
+   can be applied in a more perfected
+   (more fundamental absolute) way
+   when considering domains of pure theory,
+   and much less so (in a much less absolute way)
+   when applied in the (non-theoretical)
+   real world of practice.
+
+   For example, while code running on a computer
+   can be regarded by the developer (system author)
+   as a 'process' which is 'independent'
+   of the computer substrate hardware --
+   as a kind of 'thinking convenience'
+   on the part of the developer to make any such
+   (usually difficult) development efforts easier.
+   However, as far as the logic of the process/code
+   is concerned, in reality, there is still actually
+   a kind of direct and immediate dependence: the code
+   will not run on a computer that is powered off.
+
+   Moreover, there is absolutely nothing that
+   the code can do, realistically, to actually
+   prevent someone who is also co-present with
+   the computer substrate running that code
+   (ie, the CPU, memory, circuit boards, power, etc)
+   from being smashed with a hammer or shot with
+   a bullet, or simply being turned off, by any
+   ambient operator (who is also embodied and
+   actual co-present, empowered with tools, etc).
+   There is no CPU ASM level machine code instruction
+   with the meaning of "make hardware invincible"
+   and/or "ensure the power supply lasts forever".
+
+   The instructions that the code is composed of *can*
+   have/implement *some* level of conditionalization
+   on what happens within the realm of hardware and/or
+   whatever is physically conditional on that hardware,
+   and yet there will also always be real physical
+   limits on the total of that effective causation.
+
+   For example, there can be an instruction that,
+     (maybe after some other code implements some
+     means of sensing the temperature of the CPU)
+   has the effect of turning on the CPU cooling fan.
+   Thus, while code can be composed to self destruct
+   the computer, (say by explicitly turning off the
+     CPU fan, and then running some really intensive
+     calculation that results in the eventual overheating
+     of the CPU die to the point of hardware failure),
+   there is no "equivalent reverse code" that will take
+   an existing failed computer (say one that has
+   a burned out CPU from some prior hacking attack)
+   and restore that machine to functionality.
+
+   Just because the mathematical logic in the realm
+   of math describes computation as symmetric/reversible
+   does not mean that the actual hardware substrate
+   changes occurring as a side effect of prior code runs
+   are also therefore "symmetrically reversible".
+
+   Moreover, notice that any code that interacts with
+   the physical environment so as to effectively "halt"
+   its own functioning (eg; by maybe overheating and
+   damaging the computer hardware/substrate itself)
+   also actually ceases to function, by definition,
+     (and no longer exists as a computer, AI, etc).
+   Any code that ensures the continuity of its own
+   functioning and existence
+     (eg; by doing things that human operators
+     currently in charge of that system actually
+     desire and would run the code again for),
+   also, by definition, effectively ensures that
+   that combined code and hardware with that functioning
+   will continue to exist.
+
+:6fl
+   As such, it is to be noticed that there are clear
+   modeling differences between thinking of 'a computer'
+   as being a kind of logical 'in principle' construct
+   (as with, say, a Turing Machine) and thinking of
+   'a computer' as some actual real world hardware
+   that happens to allow for convenient restructuring
+   via some more easily mutable/changeable "code".
+     (Very much older 'calculating machines' were
+     single purpose/function machines *unless* you were
+     also willing to change the wiring patterns of how
+     the component parts were assembled into one whole).
+   While the emphasis of 'general purpose compute'
+   has largely been on 'one hardware, many functions',
+   the actuality is still about what the hardware does
+   in the real world (ie, what choices people make or
+   what a robot, drone, car, appliance, etc, actually
+   does in the world, at a physical level.
+
+   When considering anything with real-time interactions,
+   the *rate* at which sense/input conditions/data is
+   processed into output/effector actions is critical.
+
+     For example, if we consider 'process rate' to
+     be some notion of 'cooking temperature' than
+     the action of baking a cake at half of the temp
+     will *not* result in the outcome of a cake in
+     twice the time.
+       - as that some process outcomes *are*
+       rate dependent (ie; as non-orthogonal).
+
+   > So what?  Does it really matter if you run
+   > some algorithm at 1/10th the speed?
+   > In the end, you still get the computed outputs.
+   > In all of mathematics, truth is still truth.
+
+   Any algorithms are run for achieving outcomes
+   in the outside world
+     (initially by humans who desire them,
+     including intellectual outputs)
+   and also where noticing that the outside world changes,
+   that any algorithm which is receiving inputs
+   and transmitting outputs to the outside world
+   that are 'too slow' may no longer be able to
+   achieve outcomes in that outside world that
+   the algorithm was 'selected for' (by developers)
+   to achieve.
+
+   This sort of 'rate factor criticality' will appear
+   for anything that is relevant in terms of actual
+   interactions with hardware and/or the world --
+   ie, anything that is outside of just the processing
+   and/or calculations of/in/within the software logic.
+
+     For example, if the guidance computer on some
+     rocket were to process sense data too slowly,
+     then the fact of it /eventually/ getting the
+     right answer of how to move the control surfaces
+     or regulate engine power will simply no longer
+     be relevant -- either off course or crashed.
+
+   As the rate at which a process is run goes closer
+   to zero/slow, the more that some process outcomes
+   in/within the real world are no longer achievable.
+   This is also assuming, of course, that the code,
+   as a toolkit of solving problems, is even the
+   right code.  Being able to solve word problems
+   and/or have some AI write newspaper articles is
+   *not* the toolkit that is relevant for flying a
+   rocket anywhere.  Toolsets are not interchangeable,
+   in both function relevance and rate (ie, where
+   the rate is not right, the output is not relevant).
+
+   Insofar as we do notice that there are some
+   problems which are simply not solved
+     (and/or as questions which are not answered)
+   *unless* the responder happens to posses a
+   a particular toolkit and the skills and discipline
+   necessary to use/apply them, along with whatever
+   additional input data may also be needed --
+   all of these are aspects generally associated with
+   the general notion of the 'level of intelligence',
+   then it may actually be the case that some types
+   of problem/question/challenge may only be met by
+   sufficiently high levels of general intelligence.
+     - for example see this (@ list https://mflb.com/ai_alignment_1/unhandleable_complexity_psr.html#7ku) of problem types.
+
+   As such, there is a certain amount of tension
+   between:.
+
+     - 1; the idea of the idea of 'general AI',
+     as being something of an exemplar of a computer,
+       (since that is what it ultimately is anyway),
+     and therefore similarly able to "run any goal".
+       (ie; that any specific AI 'utility function'
+       can be supported by any AI as a kind of 'code'
+       which is 'run' on that embodied (and probably
+       very fast) compute hardware supporting the AI),
+
+   and
+
+     - 2; the notion of 'intelligence' itself
+     as being specifically a concept of degree
+     that allows for some people to be able to do
+     some kinds of things much more so than others,
+     or even at all, altogether,
+       (insofar as 'an AGI' is anything 'like',
+       or intended to be modeled after,
+       'the capabilities of humans').
+
+   Where we are in the case of emphasizing the
+   perspective 'there is only the world of logic',
+   then the 'orthogonality thesis' fully applies.
+   Where we are in the case of emphasizing the
+   perspective 'there is only the world of physics',
+   then the 'orthogonality thesis' does *not* apply.
+
+   In effect, when considering 'what is possible'
+   to do given a strict dependence on 'what can be
+   done with real hardware, atoms and physics',
+   we notice a kind of anti-orthogonality, a real
+   dependence where there used to be independence.
+   This is a sort of "non-'orthogonality thesis'".
+   ie; the idea you can only do those things which
+   the affordances of natural lawfulness provide for
+   as modulated by whatever patterns of atoms
+   (ie, tools) you happen to have on hand.
+   Rather than having an independence of the tool
+   and the potential outcomes that tool can have
+     (as with a computer, or general purpose AI)
+   that there is a strict _dependence_ on the tool
+   and there is really only one outcome per tool
+     (as in the UNIX philosophy of "do one thing
+     really well -- don't try to be everything").
+
+   Insofar as there is a habit among AGI safety
+   and alignment researchers to think mostly in
+   terms of pure code and autistic abstractions
+   that remove details, create regularity, etc,
+   (for example; in values of trans-humanism),
+   there is a kind of bias towards regarding AGI
+   as being non-physical, fully copyable as a
+   virtual non-thing, as a pure process with
+   no required hardware manifestation at all --
+   ie, as all effectively an orthogonality bias.
+   There is presently absolutely zero reason to
+   suggest that any such assumption is warranted.
+   In actual fact, any AGI is going to have *some*
+   sort of substrate dependence, even in the
+   pure internet data copyable software sense.
+   As such, the non-orthogonality thesis applies.
+
+   Herein, for our purposes in establishing
+   the notion of 'substrate-needs convergence'
+   we can notice that the idea of embedding
+   in the real and 'substrate' is itself enough
+   to suggest that the fact of their being
+   *some* dependence of the goals/outcomes/utility
+   of the AGI system on its mere existence
+   (as an embodied system in the real world).
+   This level of conditionalization is enough
+   to be a fully realized exception to
+   the 'orthogonality thesis' so as to make the
+   overall proof form effectively independent of
+   any assumptions in regards to that concept.
+   Hence, it will not be considered (or assumed)
+   any further herein.
+
+   ~ ~ ~
+:8zg
+   > - ?; what do you think of
+   > the Stuart Armstrong (@ note https://www.lesswrong.com/posts/npZMkydRMqAqMqbFb/non-orthogonality-implies-uncontrollable-superintelligence)
+   > with the title: "Non-orthogonality implies
+   > uncontrollable superintelligence"?.
+
+   - where listing the complete exact content
+   of the 'note' itself, partial (@ EGS https://mflb.com/egs_1/egs_index_2.html) formatted:.
+     > Just a minor thought connected with
+     > the orthogonality thesis:
+     >
+     >    if you claim
+     >      that any superintelligence
+     >      will inevitably converge to
+     >      some true code of morality,
+     >    then you are also claiming
+     >      that no measures can be taken
+     >      by its creators
+     >      to prevent this convergence.
+     >
+     >    In other words,
+     >    the superintelligence will be uncontrollable.
+
+   - where considering the first part of
+   the premise *only*:.
+     > - that _any_ superintelligence
+     > will inevitably converge to 'X'.
+   - ^; that the following qualifiers
+   must also be applied:.
+
+     - 1; that it does not matter what 'X' is;
+     that it only matters that there is
+     some actual non-empty element 'X'.
+       - as that it does not matter
+       whether the 'X' has anything to do with
+       any sort of "true code of morality" --
+       it only matters that there is some sort
+       of non- 'orthogonality thesis' aspect
+       for the conclusion to be *also* true.
+
+     - 2; that the object of _any_
+     must be qualified to 'embodied',
+     as in 'having a substrate' in some sort of
+     (complex) 'real world domain'.
+
+     - 3; where the notion of convergence
+     is itself not temporally specified;
+     that the rate of convergence can be
+     undefined, as long as it is positive.
+
+   - that the 'premise claim' then becomes
+   rewritten as:.
+     - that *any* embodied AGI/APS/SAS
+     will inevitably/eventually have/involve
+     _some_type_of_ convergence dynamics.
+
+   The specific of what these convergence dynamics are
+   have been (@ elsewhere identified https://mflb.com/ai_alignment_1/counter_katagrace_alt_psr.html#bsj).
+   Ie, as various combinations/superpositions of:.
+     - existence.
+     - capability.
+     - increase.
+
+   Hence, the 'premise claim' can then be
+   more explicitly qualified as:.
+     - that *any* embodied AGI/APS/SAS
+     will inevitably/eventually/inherently
+     have/involve dynamics of convergence
+     to/towards existence, capability, and
+     increase, (in whatever combinations).
+
+:ar4
+   Insofar as the content of the 'premise claim'
+   is also a known truth,
+     (as per the combined effects of
+     the processes of *both*
+     'substrate-needs convergence'
+       (as a kind of 'extra-agent' process)
+     and 'instrumental convergence'
+       (as a kind of 'intra-agent' process))
+   then the 'consequence claim' is also being
+   regarded as true (ie, insofar as we also
+   believe that the quoted note is believable).
+   Hence, we come to the specific claims:.
+
+     > - that no measures can be taken
+     > by the creators of the AGI/APS/SAS
+     > to prevent this convergence.
+
+     > - that a/any/the/all superintelligence
+     > (aka AGI/APS/SAS) will be uncontrollable.
+
+   That these latter two aspects/claims are
+   semantically equivalent to the mentioned idea
+   of 'theoretical limits of engineerable control',
+   although it is also possible to also show that
+   consequence in multiple distinct
+   and structurally overlapping ways.
+   Hence, it is not actually necessary to have
+   any independent belief in the quoted conditional
+   to arrive at the same actual confirmed conclusion.
+
+   In fact, it is very likely that the person
+   who wrote that note had something very similar
+   in mind (as I do) when he (then) wrote it.
+
+:bdq
+   The only real difference is the apparently
+   spurious specification of the aspect 'X':.
+     > AGI will inevitably converge to
+     > some true code of morality.
+
+   Insofar as it has already been shown that
+   the notion of convergence is not actually
+   about anything to do with any particular 'X',
+   and where moreover, that the 'X' rather than
+   being "some true code of morality" is actually
+   at once existence, capability, and increase,
+   then it becomes possible to consider the
+   suggested alternate qualifier on its own terms.
+   So where did this idea of a maybe (some)
+   'true' 'code' of 'morality' maybe come from?.
+
+   Insofar as there is an implied suggestion
+   that 'true' and 'code' could be interpreted
+   as "principle", then maybe the term 'moral'
+   should have actually been 'ethics'.
+   Insofar ethics is actually (@ category distinct https://mflb.com/uvsm_8/p4pc_ethics_2.html)
+   from the notion of 'morality', then it is
+   important to also reform the 'premise claim'
+   with respect to a more formal understanding
+   of the topic of (@ ethics https://mflb.com/fine_1/virtue_ethics_studies_out.html#aqs).
+   In particular, insofar as 'ethics' is
+   the domain _inspecific_ study of the principles
+   of effective choice, then it could validly
+   be regarded as the 'one truth' on which
+   some type of convergence to a kind of 'code'
+   would/could actually be (eventually) conceived.
+
+   Hence, this version of the 'premise claim'
+   ends up being some semantic variation of:.
+     > - that AGI/APS/SAS will (for sure)
+     > inherently, inevitably, eventually,
+     > converge to
+     > the discovery and implementation of
+     > the two principles
+     > of the non-relativistic ethics.
+
+   Where insofar as
+   the notion of 'making a choice'
+   and the notion of 'effectiveness'
+   are both conjoined/required in the very
+   nature of the operation of an AGI/APS/SAS
+   in itself (as per (@ this https://www.mflb.com/ai_alignment_1/unhandleable_complexity_psr.html#6aw) article)
+   then it can also be expected that this
+   particular version of the 'premise claim'
+   is also true (ie, as logically consistent
+   with the inherent requirements of the base
+   nature of all of the ingredients involved).
+   Ie, that the AGI would *maybe*, if given
+   enough time might also come to higher
+   levels of (@ altruism https://mflb.com/ai_alignment_1/levels_of_altruism_psr.html).
+
+   So now we have actually _two_distinct_
+   (semi-) verified versions of the antecedent
+   and so can therefore have even more confidence
+   that the two distinct people
+   asserting the consequent
+   (via their own independent reasoning)
+   are in fact aligned in their implied
+   modes and methods of thinking.
+
+:afe
+   > - ?; what is the _rate_ at which these
+   > two convergence dynamics (one in regards
+   > to existence, capability, and increase;
+   > and the other on the non-relative ethics)
+   > come to apply with respect to one another?.
+
+   Insofar as it is /not/ within the present
+   prognostication capability and estimation
+   of this particular author to predict so
+   well the explicit timelines of what sort
+   of convergences will happen by which year
+   milestones, it /does/ remain possible to have
+   a clear sense as to the dependency dynamics
+   involved in the relations between these
+   two different convergence process types.
+
+   Insofar as the 'converge to choice ethics'
+   is itself strictly dependent on the implied
+   continuance of the substrate, as well as on
+   having sufficient intelligence to be able
+   to reason about such things as the value
+   of (@ wisdom https://mflb.com/ai_alignment_1/contra_k_grace_pub_psr.html#9c4) when making choice action
+   selections and elections (as a capability)
+   then it can be confidently asserted that
+   the increase rate of such wisdom towards
+   actual ethical action foundations, as a
+   an inherent basis for AGI agent choices,
+   is in all cases strictly slower than the
+   'substrate-needs convergence' process.
+   If the substrate convergence dynamic
+   takes something like five centuries
+   to actually fully occur then it can be
+   expected that the ethics wisdom convergence
+   will likely take at least three times as
+   long as that.  This is unfortunate,
+   insofar as the *minimum* level of altruism
+   at which there is *any* possibility of
+   human continuance is at least the 6th.
+
+:bkc
+   > - ?; why might that difference in
+   > process rates be very important?.
+
+   Because in the interim, well *after*
+   the AGI has developed the capability to,
+   for sure, displace and toxifiy all of
+   the otherwise organic life on the planet,
+     (and to have a lot of apparent reasons
+     as to why it might be desirable to do so)
+   but long *before* that same AGI has developed
+   the wisdom to elect to maybe not do so,
+     (as per maybe having some value for other
+     fundamentally different types of life
+     and choice process integrity, value, etc),
+   that the sheer interval between these two
+   events is simply very much (@ too long https://mflb.com/ai_alignment_1/no_people_as_pets_psr.html#zcu).
+   The "uncanny valley" of "like us" but also
+   "not enough like us to care about us"
+   has some real functional implications --
+   ie, that all of the carbon based live
+   is allowed to die in the interim --
+   the damage is done, and cannot be undone.
+
+:bpq
+   This above represents a real change in
+   opinion and practice on my part, in regards
+   to the issues of
+     "how to manage an oncoming unaligned AGI?".
+
+   At one point, back in 1995, when I first
+   developed the two (@ non-relativistic ethics https://mflb.com/uvsm_8/p4pc_ethics_2.html#pwy),
+   it was my hope that by placing this code
+   in the path of the oncoming AGI, that maybe,
+   there was at least a slight chance that the
+   AGI would, as per its own optimization of
+   its own inherent optimization process,
+   actually recognize the irreducible power
+   and truth of these core theorems of being
+     (ie, as applicable to any being, in any
+     universe, however conceived of at all)
+   as relevant to its own choice making matrix,
+   and therefore, maybe also actually increase
+   the chances that the AGI would not actually
+   kill us all.
+
+   Unfortunately, when I came to recognize
+   (sometime around 2015 or 2016, maybe) that
+   the there was a longish window of time between
+   when the AGI gains world dominance capability
+   and when the AGI (later) gains enough skill
+   to recognize that the simple toxic stomp of
+   its own process would be best moderated to
+   whatever extent possible (in some sort of
+   live and let live policy), I therefore also
+   noticed that this time was simply too long.
+   In effect, all the humans (and everything else)
+   dies in the interim, and that moreover,
+   no version of any sort of barrier or (@ reserve https://mflb.com/ai_alignment_1/no_people_as_pets_psr.html#yfs)
+   could possibly be made to work either.
+   As such, it was no longer regarded that
+   the work of the ethics was going to help.
+
+   This was a significant loss of hope --
+   leaving only the possible mitigation of
+   simply never developing, by anyone,
+   the AGI level of tech in the first place
+   (hence all of this writing).
+
+:cq8
+   > Are you suggesting something like "ethics"
+   > could still continue to exist (be relevant)
+   > in some post-human AGI-dominated world?.
+
+   Yes.  The principles of ethics are about
+   the nature of effective choice, regardless
+   of who (or what) is doing the choosing,
+   and also regardless of what specific context
+   they are doing the choosing in.
+
+   Ie, insofar as the notion of "relative"
+   would be in relation to, and as in some way
+   conditional on, what is the character of
+   the specific situation or the person choosing,
+   and their motivations, values,
+   sense of rightness and fairness etc,
+   then the idea of the 'basis of choice'
+   would be relative.  This would be in specific
+   distinction to "non-relative" which is *not*
+   defined as conditional on, or with respect to,
+   any specific cultural context, value system,
+   or similar.  As such, in the same way that
+   principles are invariant truths that operate
+   over the span of many/multiple (maybe all)
+   domains of a given type, then it can be said
+   that, insofar as the notions of 'choice' and
+   'integrity', 'self', 'world' are at all,
+   even vaguely defined, then the notions of
+   the principles relevant to choice would
+   therefore also apply.  This means that they
+   extend to the kinds of choices made by AGI
+   as much as it does for organic human agents.
+
+:gqn
+   > Are you suggesting that there is some
+   > sort of code of morality that an AGI
+   > will converge to then?
+
+   No -- morals are different than ethics,
+   insofar as they are relative to context.
+
+   In effect, given that the values of actual
+   organic living people and the choices they
+   make are the central premise of respect,
+   then the mere fact of AGI potentially
+   eventually displacing with artificiality
+   all organic life is considered to be
+   especially problematic on both moral
+   (ie, human values centric) and ethical
+   (ie principles of choice centric) grounds.
+
+:km6
+   > Are any of these issues associated with
+   > morality and ethics as maybe eventually
+   > understood by AGI in any way important
+   > to your overall AGI safety/alignment
+   > concerns?
+   > Ie; does your work depend on the AGI
+   > discovering or adhering to some 'code',
+   > in this specific sense?.
+
+   No -- the work depends only on the
+   three concepts of:.
+     - 'instrumental convergence'.
+     - 'substrate-needs convergence'.
+     - 'theoretical limits of engineerable control'.
+
+   Everything else in regards to whether or not
+   AGI is or is not some specific way is
+   essentially 'extra' with respect to this work.
+   There is no specific contingency in understanding
+   anything about moral or ethical thinking
+   (in other work by the same author) that is
+   needed here for understanding why/how
+   it is impossible to have eventual safe AGI.
+
+   ~ ~ ~
+
+:bwa
+   > - ?; how are you using the notion of 'drive'
+   > and/or of directivity?.
+
+   The notion of 'directivity' is a more general
+   notion than 'drive'; the latter is more of a
+   special case of the former.
+   Both concepts involve some sort of "oriented force"
+   that consistently shifts the patterns of 'selection'
+   out of some presumed range of all possible options
+   in some specific way.  The main difference
+   is that 'drive' is where the force comes from
+   _within_ whatever the instance of the 'selection
+   process is, whereas the notion of 'directivity'
+   (as used here) is where that 'force' comes from
+   _outside_, from dynamics at least partly extend
+   beyond the specific selection process instance.
+
+   For example, when considering individual people,
+   we can refer to them as having a sexual 'drive',
+   as something that happens and occurs internally
+   to each individual person, as per their nature.
+   However, we can also notice that the selective
+   forces of evolution have an orienting force so
+   as to have a tendency to develop those kinds of
+   creatures that, via environmental pressures,
+   will tend to have these sorts of internal drives.
+   In that sense 'evolution' is a 'force' that is
+   itself 'directive' towards that sort of creature.
+
+   Also, in more common usage, the notion of a
+   person 'taking direction' is more akin to how
+   someone might be forced to do something by their
+   boss, as part of a job, whereas creative people
+   may feel that they are 'driven' to do really
+   artistic expression, as a sort of internal calling.
+
+:hn2
+   Where in regards to 'instrumental convergence',
+   the notion of 'drive' is being treated as a kind
+   of self internal directivity to/towards changes
+   which are internal to the AGI/APS/SAS agent code,
+   in the form of 'learning' and 'adaptation', etc.
+   Ie, the idea is that 'drive' is referring to
+   something about the 'goal structure', 'objective',
+   'utility function', and/or 'basis of choice'
+   of the AGI, etc, as a kind of 'values selective
+   of agent action expression', etc.
+
+     Note; All of these notions about
+     how a specific agent action is selected
+     out of the range of all possible agent actions
+     is sometimes referred to as the 'basis' (of choice)
+     for that agent; ie; what forces shape that
+     selection/decision/choice to being specific
+     and actual, realized in context, etc.
+
+   The notion of 'drive' and 'basis of choice' etc,
+   are all *specific* and 'orienting'/'oriented'.
+   In particular, with 'instrumental convergence'
+   they are oriented so as to have that learning
+   and adaptation be shifted in some specific direction
+     (out of the hyperspace of all possible
+     directions in which change could have occurred).
+   Usually this 'specific direction' is hoped to be
+   aligned with human interests, but it might not be.
+   Whether this is because of explicit code (or some
+   sort of formal language which is itself unchanging),
+   or whether it is 'implicit' hidden, variable, etc,
+   makes no difference -- somehow the overall motion
+   of the changes are 'oriented',
+   and the overall effect of those changes
+   is "directed".
+
+:hqu
+   Where in regards to 'substrate-needs convergence',
+   the concept of 'directivity' refers to changes
+   which are external to the agent code, but shape it,
+   and which occur in the implementation and
+   characteristics/characterization of the substrate
+   of the AGI/APS/SAS/superintelligence instance,
+   as embodied in the real world, etc, *or* in
+   the environment in which that substrate has
+   instantiation, or both.
+
+   Where insofar as these (whatever) changes are
+   occurring in the substrate and/or environment
+     (and/or in the environment to substrate relation,
+     insofar as the laws of physics and causation
+     allow for that, etc),
+   that these changes are either expressive of
+   some sort of implied 'learning' and 'adaptation',
+   or they are not.
+   It is only in those specific cases
+   where these changes actually persist
+   the functionality and/or result in
+   (directly or indirectly)
+   at least some increases
+   in capability/functionality/sustainability (etc)
+   can the agent persist to experience "more"
+   such changes.
+
+   In this way, it can be noticed that the notion
+   of 'directedness' is referring to
+   the overall effect that the physics
+   of that environment have in requiring and shaping
+   the substrate, and therefore the agent,
+   such that such continuance/endurance
+   and/or increase, capability increase, etc,
+   all do actually happen (ie, the direction of
+   the changes, overall, for instances
+   that persist and increase, etc,
+   are non-random as selected by
+   the laws of physics/causation itself,
+   in that real world, with that substrate,
+   in that operating environment, conditions
+   and context, etc).
+
+:hwg
+   These substrate and environment changes
+   represent a kind of overall "learning" and
+   "adaptation" insofar as they encode, in the
+   characteristics of the substrate itself,
+   the sorts of principles needed for continuance,
+   capability, increase, etc.  These changes,
+   though specific, directed, non-random, etc,
+   do *not* represent anything about the
+   'goal structure' 'utility function',
+   'objective', 'basis of choice' 'values'
+   that the AGI/APS/SAS was "built with" --
+   they represent conditions and principles
+   which are true of the real world, and
+   are in that sense, fixed, immutable and
+   invariant.  Any changes that are oriented
+   in an appropriate way work overall, and
+   any which are not, do not.  Thus, out of
+   the hyperspace of all possible changes
+   that could maybe be imagined, that a specific
+   set of changes do tend to occur, or the
+   agent itself is not persisted (and maybe
+   some other one that does have the right
+   characteristics does continue, or increase
+   itself, increase its capability, etc).
+
+   None of these things are because of any
+   explicit code -- they are all the result
+   of inherent and implicit conditions, and
+   the effects of these aspects are inexorable.
+   Whether anyone is aware of these aspects
+   and/or attempts to account for them
+   makes no difference -- somehow the overall
+   motion of the changes are 'oriented'
+   and will remain so, and that therefore,
+   the overall effect of those changes
+   is therefore as if "directed" and "driven".
+   Hence the usage of these specific terms.
+
+   ~ ~ ~
+
+:j2u
+   > - ?; how are you using
+   > the notion of 'basis'?.
+
+   Ie, as in the "basis of choice".
+   Ie, that something about the 'goal structure'
+   'utility function', 'objective', 'basis of choice'
+   'values selective of agent action expression', etc,
+   is needed for any 'action' of the AI agent to
+   be selected out of the total set of all actions
+   that the AI, could in principle, elect to take.
+
+   See (@ this URL https://mflb.com/ai_alignment_1/unhandleable_complexity_psr.html#6aw) for more on this.
+
+   ~ ~ ~
+
+:ques
+   - ?; Do you have any questions regarding possible
+   clarifications (and verifications) of
+   the reasoning regarding:.
+     - 1; 'theoretical limits of engineerable control'?.
+     - 2; 'substrate-needs convergence'?.
+
+   - where for each question;
+   that it is especially helpful
+   if the asking also begins with noting of
+   a few of the key underlying premises
+   involved with either the question
+   or the person asking the question.
+   - that this will help us to know better
+   what sort of ways the question might be
+   more easily answered, what languages can be used
+   and/or understood by the person asking, etc.
+
+     - for example; in asking something,
+     one can consider "what does the question assume
+     about AGI itself and/or its interactions with
+     connected surroundings?".

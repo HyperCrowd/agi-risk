@@ -1,0 +1,107 @@
+TITL:
+   *The Great Horse Manure Crisis of 1894*
+   by Ben Johnson
+
+ABST:
+   Gives an example of how widely deployed solutions
+   at one time can be the source/cause of
+   many new future downstream problems.
+
+PREF:
+
+   > that some potentially/currently unknown/unseen influence
+   > could end up being really important.
+
+   Agreed; and we see this all the time with technology.
+   There is no such thing as a 'neutral technology'.
+   We learn about some unintended consequence
+   long after the "good idea" has been widely deployed.
+
+   As a nice example, see the story copied inline below
+     About the ambient environmental effects of horse usage,
+     as now replaced by the pollution issues associated with
+     cars (lead, global warming, piles of tires, toxins, etc).
+
+TEXT:
+
+   By the late 1800s, large cities all around the world were
+   'drowning in horse manure'.
+   In order for these cities to function,
+   they were dependent on thousands of horses
+   for the transport of both people and goods.
+
+   In 1900, there were over 11,000 hansom cabs
+   on the streets of London alone.
+   There were also several thousand horse-drawn buses,
+   each needing 12 horses per day,
+   making a staggering total of over 50,000 horses
+   transporting people around the city each day.
+
+   To add to this,
+   there were yet more horse-drawn carts and drays
+   delivering goods around what was then
+   the largest city in the world.
+
+   This huge number of horses created major problems.
+   The main concern was the large amount of manure
+   left behind on the streets.
+   On average a horse will produce between 15 and 35 pounds
+   of manure per day,
+   so you can imagine the sheer scale of the problem.
+   The manure on London's streets also attracted
+   huge numbers of flies
+   which then spread typhoid fever and other diseases.
+
+   Each horse also produced around 2 pints of urine per day
+   and to make things worse,
+   the average life expectancy for a working horse
+   was only around 3 years.
+   Horse carcasses therefore also had to be removed
+   from the streets.
+   The bodies were often left to putrefy
+   so the corpses could be more easily sawn into pieces
+   for removal.
+
+   The streets of London were beginning to poison its people.
+
+   But this wasn't just a British crisis:
+   New York had a population of 100,000 horses
+   producing around 2.5m pounds of manure a day.
+
+   This problem came to a head when in 1894,
+   The Times newspaper predicted:
+     "In 50 years, every street in London
+     will be buried under nine feet of manure".
+
+   This became known as the 'Great Horse Manure Crisis of 1894'.
+
+   The terrible situation was debated in 1898
+   at the world's first international urban planning conference
+   in New York,
+   but no solution could be found.
+   It seemed urban civilization was doomed.
+
+   However, necessity is the mother of invention,
+   and the invention in this case was that of motor transport.
+   Henry Ford came up with a process of building motor cars
+   at affordable prices.
+   Electric trams and motor buses appeared on the streets,
+   replacing the horse-drawn buses.
+
+   By 1912, this seemingly insurmountable problem
+   had been resolved; in cities all around the globe,
+   horses had been replaced
+   and now motorized vehicles
+   were the main source of transport and carriage.
+
+   Even today, in the face of a problem with no apparent solution,
+   people often quote 'The Great Horse Manure Crisis of 1894',
+   urging people not to despair, something will turn up!
+
+      > note added: Ie; so many people still somehow believe
+      > that technology created and curated by transactional markets
+      > will (eventually) solve all of our (human/humanity) problems.
+      > How quaint!.
+
+ATTR:
+   - that the above content is as found at (@ URL https://www.historic-uk.com/HistoryUK/HistoryofBritain/Great-Horse-Manure-Crisis-of-1894/).

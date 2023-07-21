@@ -1,0 +1,582 @@
+TITL:
+   *The Monoclivity Bias*
+   By Forrest Landry
+   on February 17th, 2022.
+
+ABST:
+   Concepts of monism and pluralism,
+   define the notion of monoclivity,
+   and some question/answer on same.
+
+TEXT:
+   > - ?; what does the term 'monoclivity' mean?.
+   > - ?; how is it defined?.
+
+   It is a neologism that combines "mono", as 'single'
+   and "clivity", as in 'inclination'.
+
+   That the term "monoclivity" refers to the degree,
+   over a 'hypothesis continuum',
+   there is a (usually unconscious) tendency
+   to make assumptions about whether a given 'thing'
+   (or 'model' or 'process', is all of a same/similar
+   semi-regular type, class, etc.
+
+:mb8
+   > - ?; with the term "monoclivity",
+   > are you *not* referring to
+   > the tendency of people
+   > to think in 'monist' terms?.
+   >   (ie; from the perspective
+   >   of the consolidated and independent
+   >   agentic individual).
+
+   Not so much "from the perspective of",
+   but to implicitly "have the assumption of".
+
+   It is the tendency to think in monist terms
+   _and_ also, to implicitly make monist assumptions.
+
+     In the above sentence, it is the "and" keyword,
+     along with the also implicit assumption aspect
+     that is more the specific emphasis of the term
+     'monoclivity', as distinguished from 'monism'.
+
+   Everywhere people ask for 'simplicity',
+   they are also making some kind of monist assumption
+   /usually/ without realizing they are doing so.
+   It is the implied background tendency of people
+   to make such assumptions that I am specifically
+   drawing attention to with the term 'monoclivity'.
+
+:n3l
+   > - ?; you are referring to a neglect of
+   > the fluidity of reality,
+   > through the tendency to impose
+   > singular classifications
+   >   (inclining toward interpretations
+   >   of 'one existence')?.
+
+   Yes.
+   And moreover, as including even plural classifications
+   that have or tacitly imply a _single_top-down_approach_
+   by mapping the classification onto lower-level perceptions
+   across the board.
+   This might seem, on one level, to imply diversity,
+   but that 'diversity' is contained within a singular
+   classification schema.  Hence, even making claims
+   that one is inclining toward interpretations
+   of 'an infinite diversity of existence' can be
+   implicitly problematic.
+
+   The main issue is not just 'that there are various
+   kinds of X assumptions',
+   it is that the assumptions are not noticed/known,
+   and that the effects/limits of those assumptions
+   are also/therefore not noticed,
+   not properly accounted for, etc.
+
+
+   > - ?; is there an assumed rigidity of the boundaries
+   > that make up recognized/represented entities?.
+
+   Yes.  On what basis can we make any such assumption?
+   If none, better to not make that assumption,
+   else important causative conditions are overlooked.
+
+   Too much monoclivity also constrains
+   cognitive recognition and representation
+   of higher-level processes.
+
+
+:se2
+   > People can easily run into the mental trap
+   > of post-modernist thought of the kind:.
+   >   "everyone has their own subjective interpretations;
+   >   there is no common 'objective' underlying truth
+   >   can legitimately tracked by all".
+
+   Right and agreed that this is best avoided.
+   "Post modern" is mostly just critique --
+   no actual theory is advanced,
+   it is all negative, no positive to speak of.
+   It is a social "risk free" remark system.
+   So, nothing ventured, nothing gained.
+
+
+   ~ ~ ~
+:e9w
+   > - ?; what do you think about Technological Pluralism?.
+
+   - where considering some found descriptive writings on
+   (@ Technological Pluralism https://www.radicalxchange.org/media/blog/why-i-am-a-pluralist/):.
+
+     > We create/promote organizational, cultural, and
+     > civilizational forms for:.
+     >   - increasing human and ecosystem thriving; and;.
+     >   - cooperation across all manner of diversity.
+
+     > that cultural and social structural pluralism
+     > we are proposing/considering is in contrast with
+     > a broad range of current common social philosophies
+     > which can be described as 'monist' and "ALONE"
+     >   (Atomized Liberalism and Objectivist Naive Epistemology).
+
+     > Monist philosophies tend to focus either on
+     > isolated individuals and/or
+     > on a unitary/universal (institutional)
+     > structure (firms/schools/groups)
+     > in which these individuals reside.
+     > The anatomist/separatist (divide and conquer) ideology
+     >   (predicated on the isolated individual)
+     > is often used to justify capitalism (and socialism,
+     > and all manner of other things).
+
+     > That groups of people
+     > are not mere vehicles for individual interests
+     > but are of a fundamentally public interest.
+
+     > A centralist ideology
+     >   (predicated on a unitary or universal structure)
+     > is often used to justify populist statism and nationalism.
+     > In contrast, cultural and social structural pluralism
+     > denies the centrality of any one group/collective,
+     > such as the nation state, global humanity, etc.
+
+   Overall, I like the mission statement --
+   it matches with what I am also working on.
+   I also appreciate the implied unity and diversity
+   in right relationship (process, etc).
+
+   I also distinguish between 'institution' and 'community',
+   and can therefore often, frequently reject the former
+   in favor of the latter,
+   for various specific and important reasons,
+   for certain classes of critical problems.
+
+:e7e
+   > - ?; what do you think about 'epistemic pluralism'?.
+
+   - where considering some found descriptive writings on
+   Epistemic pluralism:.
+
+      > _Epistemic pluralism_ is in contrast to the traditions
+      > of philosophy that seek out a single unitary,
+      > total commensurable way of knowing.
+
+   Ie; There is no universal language, no single body
+   of mathematics, or of physics (no grand unified theory),
+   no correct notion that "all the universe is computational",
+   no (correct/valid) holodeck simulation argument, etc.
+
+   I agree that the Incommensuration Theorem is real, and
+   that the unitary nature of the metaphysics itself
+   is only possible because it applies to only to domain
+   foundations, not superstructures, etc.
+
+
+      > Epistemic pluralism denies that any single
+      > rational logic or meritocratic scheme
+      > can select for optimal social ordering.
+
+   Beyond natural scales, even the very notion (concept) of
+   'consistent' social ordering is (internally) problematic.
+   Social ordering is relevant at some scales,
+   and not at all others.
+
+   Unfortunately, even the application of the notion of
+   'epistemic process' to 'social ordering' is *itself*
+   an example of the very kinds of monoclivity I was
+   mentioning earlier.  Levels of action are conflated,
+   some types of embeddings are invalidly assumed, etc.
+
+
+      > "Epistemic pluralism" emphasizes
+      > the importance of a diverse range
+      > of incommensurable collective entities
+      > and cultures of knowledge
+      > that intersect and collaborate.
+
+   While I can affirm the intuition and idea direction,
+   the literal *statement* as given is unclear/confused.
+
+   The necessary relationship between concepts moderately
+   basic as 'singular' and 'plural' is itself conflated
+   with the much more primal concept of 'epistemology'.
+   None of the base concepts are being held to their own
+   levels, insofar as these ungrounded/undefined concepts
+   are assumed (without noticing) to be comparable enough
+   to even be used in the "same" (singular) linguistic context.
+
+:dma
+   > When people think about the plurality of languages,
+   > many look back with mourning at the story of Babel,
+   > and they imagine a day when all will speak a common,
+   > universal and 'rational' language.
+
+   Yes, this is another example of the monoclivity bias.
+   A single universal language/culture will never happen,
+   for sure, for reasons they do not even mention.
+   This is an example of when applying evolutionary psych
+   (or just abstract evolution theory) is the tool that is needed.
+
+   The universe is (inherently) just as much irrational
+   as it is rational, and when in actual deep understanding
+   it is noticed to be even *more* irrational than rational.
+   The class of the unpredictable is strictly of a whole
+   order of largeness more than that which is predictable.
+
+   Of course, this reality makes a lot of people uncomfortable.
+
+   Fortunately, it is not all bad.  Not all is suffering.
+   Some forms of irrationality are actually quite good!
+
+
+   > When considering the absence of academic plurality,
+   > notice that "interdisciplinary agendas" will often
+   > veer into aspirations to 'theories of everything' --
+   > theories that will 'reduce economics to psychology'
+   > and/or will replace special relativity and quantum mechanics
+   > with some 'even greater theory', etc.
+
+   These are all examples of delusions of monoclivity.
+
+   Nearly *all* forms of reductionism (domain embedding)
+   are categorically invalid.
+   This has been found out to apply to
+   even very most basic classical exemplars:
+
+     Chemistry, taken as a total field of study,
+     has not actually been, (and never will be),
+     fully reduced to *any* total form of physics.
+     The total span of the explanatory power of QM
+     is simply insufficient to cover the already identified
+     scope of known chemistry laws.
+
+   So even the basic case of reductionism
+   does not actually 'reduce',
+   and any philosophy or policy that assumes otherwise
+   is simply misguided/invalid --
+   they have been taken in by the 'hard' sciences hype.
+
+   ~ ~ ~
+:7fs
+   > - ?; how does the notion of monoclivity --
+   > why would the issue of monoclivity --
+   > apply to AGI research?.
+
+   For example, we can consider the degree
+   to which some concept of AGI
+   can be conceived of as 'a being'
+   from 'lives as a single distributed being' (in one time)
+   vs 'a colony or ecosystem of near peers' (co-occurring),
+   taken as some kind of 'ecosystem', 'culture' or 'market'.
+   A 'winner takes all' situation has high monoclivity.
+
+   Most "singulartarians" would likely/implicitly suggest
+   that the 'outcome' is a "single massive brain"
+   that knows everything about everything
+   and affects/controls everything
+     (taken to the limit, after a bad hard takeoff, etc).
+   Rather than just focusing on the degree
+   to which the 'everything' markers is "maybe true",
+   we can also assess the reasonableness of both
+   the 'single brain' aspect of the narrative *and*
+   the notion of 'single outcome'.
+   The 'singulartarian narrative' overall
+   has a high degree of monoclivity,
+   and in a surprising number of distinct ways,
+   whereas the overall observation
+   that this is so (ie; self referentially)
+   has low monoclivity.
+
+   Similarly, we can describe
+     "theories about AGI alignment"
+   as being,
+   at any specific level of territory description,
+   as either 'singular'
+     (only one theory seemingly needed
+     to cover all relevant aspects of interest)
+   or somehow 'plural'
+     (multiple competing/complementary theories are needed).
+
+   When talking about overall large scale,
+   long duration effects
+   of multiple interactions of *maybe* multiple beings
+   via various kinds of possible iterative effects
+     (evolution, machines designing machines, etc),
+   it become very important
+   to keep track of all sorts of monoclivity assumptions
+   across all sorts of theoretical levels --
+   else we risk making very dangerous mistakes --
+   overlooked critical issues.
+
+   Unless I see thinking
+   that somehow also takes into account
+   the fact that 'the boundary of self process'
+   can be a *variable*,
+   and that even the very notion of embedding itself
+   can be a *variable*,
+   with any number of cross interacting levels of abstraction,
+   across space, time, and possibility,
+   over fairly broad reaches of (also)
+   space, time and possibility,
+   I do not feel that any real assessments
+   of the real *probability*
+     (predicting future events in terms of actual forces,
+     or structural/existential properties),
+   can be at all reliable.
+
+   In general, high levels of monoclivity,
+     (without some especially strong and clear/real
+     epistemic grounding)
+   usually means *shockingly* low levels
+   of actual real life trustworthiness,
+   although this is also usually not noticed/conscious --
+   until far too late.
+   It is a bit like (@ catastrophe theory https://www.exploratorium.edu/complexity/CompLexicon/catastrophe.html):
+     you are well over the supported cliff edge
+     before you notice that the entire face
+     is about to give way.
+     Civil planners make these mistakes all the time.
+
+   Ideally, what we want is to have multiple overlapping
+   epistemic methods/grounds for a given result,
+   all of which can be sufficiently alignable in themselves,
+   and in multiple ways,
+   so as to support an overall conclusion.
+   Ie, that the methods of tracking and assuring
+   good/reliable *soundness* (in an argument form)
+   are very much completely different than
+   the methods used to establish *validity*.
+   I notice that nearly everyone seems to make mistakes here.
+   It it very hard to do right.
+   Occasionally I notice myself even making mistakes here.
+
+   The inner/outer alignment framework has, seems to me,
+   failed to track at least several
+   distinct types of "mono" assumption,
+   and does not have anywhere near
+   the level of epistemic grounding/strength
+   to come any close to being able to actually support
+   those (probably unconscious) claims/biases
+   as both "correct" and "applicable to what matters".
+   For sure not anywhere close to
+   the level of capability that nature (not politics)
+   will actually demand as a "pass" for our continuance.
+
+   Unfortunately, forwarding these sorts of critiques
+   is probably not at all helpful,
+   as it makes the whole discussion
+   *much* more complex, multi-leveled, etc,
+   requiring yet a whole other level of discipline
+   on the conversational participants,
+   to keep track of even more levels
+   of conversational process, etc.
+   Without the metaphysics,
+   this can get really complex really fast.
+
+:ahw
+   > AI is a profoundly centralizing and monistic vision.
+
+   As are most of the alignment arguments,
+   languages, terms, etc.
+   Way too much monoclivity.
+
+
+   > Current concepts of development (of AGI,
+   > or of anything 'X', of models, tools, etc,
+   > within instutions) all focus on the capacity
+   > to replace and exceed human abilities,
+   > rather than on systems that facilitate
+   > human communication and collaboration,
+   > (ie; for relationships for their own sake).
+
+   Right. Nearly everyone, nearly every human
+   relationship has suffered at the hands of
+   another human, using such developed things
+   as sold to them, for such use, by instutions.
+   People have also suffered due to the actions
+   of nearly every business and institution,
+   due to the direct use of such tools, and/or
+   through the development of such tools, AGI, etc.
+
+   The buisness executives notice that "humans
+   are expensive, unreliable, problematic,
+   a liability...", etc, and/or where that instution
+   wants 'efficiency' (for profits)
+   and 'capability' (to control humans) (for power),
+   or to extract value/benefit/resource from humans,
+   and nature, etc, will all have very strong
+   motivations to develop AGI, tools, models, etc,
+   that disadvantage humans, natural relationships,
+   organic life, etc.  Clearly that which does
+   not sustain life will not continue to live.
+
+     - ?; So how can we build a world
+     made of/by/for humans, when we are everywhere
+     and in nearly every way, mostly assuming
+     that the humans themselves are "mostly bad"?.
+
+   One key insight is that the quality of
+   humans relating to other humans
+   can have (be of) a better quality
+   then the humans who are being so related.
+   Products are greater than sums,
+   and moreover,
+   that exponents are not bi-symmetric.
+
+:rs2
+   > There are assumed underlying inside-outside interactions
+   > across the assumed underlying boundaries
+   > of the referred-to entities.
+
+   Yes.
+
+
+   > That naive interpretation (the false assessment)
+   > of the existence of a limited set
+   > of underlying entity-defining dimensions
+   > (between/across which choice/causation may take place)
+   > (seemingly!) implies that "also" the number
+   > of underlying expressive/causal pathways
+   > is (apparently/seemingly) limited
+   > in proportion to the dimensions of
+   > higher-level relational abstractions.
+
+   Yes.  Due to their unexamined biological character,
+   their flexibility of imagination is insufficient to
+   notice the failure modes that occur outside of their
+   ability to model them.  There is no calibration of
+   the necessary range of imagination when considering
+   whether a model is 'useful', 'applicable', complete, etc,
+   when assessed with respect to unknown self values, etc.
+
+   Their inability to imagine the true character of an AGI
+   (by definition) is a real indicator of their inability
+   to correctly/rightly calibrate their imagination
+   with respect to the AGI alignment problem impossibility.
+
+
+   > ...the assumption of which
+   > allows AGI alignment researchers
+   > to falsely conclude
+   > that keeping AGI values
+   > in line with human values
+   > is technically feasible
+   >   (when it is NOT!).
+
+   Correct.
+   The generally unexamined assumptions/biases
+   that tend to be built-in
+   by their own unexamined/unknown biological processes
+   (particularly for the kinds of people who become
+   machine intelligence researchers, engineers, techs, etc)
+   have the overall net effect
+   so as to made make the illusion of AGI alignment
+   seem much more tractable/solvable
+   than it actually is.
+
+   This, as much as anything, is the danger.
+
+:tfg
+   > That a way to counter the dimensional-narrowing
+   > and self-centralizing assumption
+   > is to assume that --
+   > although one's self
+   > has certain relational abstractions available
+   > at one's mental disposal --
+   > that across diverse beings
+   > an infinitude of different, yet self-relevant,
+   > higher-level relational abstractions
+   > are available.
+
+   Yes and no; It is not a 'free for all'.
+   There are some limits to imagination that
+   have noting to do with biological limits.
+   Not all limits are of the same kind, or
+   come from the same basis.  For this, it is
+   important to know which are which.  However,
+   to do that, you need to have similar absolute
+   clarity as to the nature of the epistemic foundations
+   upon which such "knowing" could even occur.
+
+:ep2
+   > - ?; where does the inner/outer framework fall short?.
+
+   The language (term set) and the methods of define
+   seem to me to be making some
+   (very likely unwarranted)
+   assumptions about the degree to which
+   there is some 'stable boundary'
+   in which 'alignment' is happening.
+
+   These unconsciously assumed 'process boundary conditions'
+   are being applied in both time, space, and possibility,
+   and on a number of modeling levels at once.
+   This significantly compromises the level of confidence
+   that one can have
+   in many/most of the/a/any/all positively specified claims
+   seemingly available from the theorems of this term set.
+
+:8j6
+   > - ?; what do/did you mean with
+   > "the boundary of self process
+   > can be a variable"?.
+
+   An AGI could add or remove self components,
+   with no felt sense of automatic built in resistance
+   (due to absent self identity concept attachment)
+   as easily as a robot could add or remove tooling
+   from their arm.
+
+   People have a hard time imagining such things,
+   and so tend to make key reasoning mistakes.
+
+
+   > that recognition/representation and choice/causation
+   > happen *simultaneously* at many levels
+
+   Yes.  Best to never do anything for just one reason.
+
+:t8w
+   > The fact that we as humans,
+   > with packed brains in single bodies,
+   > are unable to take on,
+   > consciously or unconsciously,
+   > that many perspectives at the same time
+   > is the product of our physically-constrained
+   >   (with respect to the perceived larger environment)
+   > yet remarkable ability to relate with and generalize
+   > aspects across the environment we are part of.
+
+   Correct.
+   And if we limit our thinking to just what we imagine,
+   AGI will for sure eat our lunch.
+
+   It will just go on doing what it wants,
+   which we cannot even begin to imagine,
+   because we never even attempted to calibrate our capacity,
+   let alone calibrate our capacity to know our values, etc.
+   In every aspect, the notion of "alignment"
+   is a complete farce.
+
+
+   > That kind of thinking reliably falls short,
+   > particularly when attempting to model lifeforms
+   > that evolving higher-level arrangements
+   > of continuously-expressible properties ('code')
+   > through interactions between diverging
+   > lower-level substrate properties
+   > and surrounding embedded aspects
+   > to come to 'exist'
+   > as more broadly distributed 'beings'
+   > across an ecosystem of economic transactions
+   > between agentic beings with evolved predispositions
+   > towards the expression of internalized incentives
+
+   > And that kind of thinking is dangerous
+   > when it represents itself as representing
+   > the totality of all thinking.
+
+   Yep.

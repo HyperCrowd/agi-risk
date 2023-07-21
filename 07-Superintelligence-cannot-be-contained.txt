@@ -1,0 +1,1541 @@
+TITL:
+  *Response to the Response to the Article*
+  *'Superintelligence cannot be contained'*.
+  *Commentary and review by Forrest Landry*,
+  *September 2nd, 2022*.
+
+ABST:
+
+  Shortly after there was published a technical paper
+  that reasoned that general AI is, in principle, uncontainable,
+  and that therefore, is/was and will be inherently unsafe,
+  and which received some significant popular publicity;
+  that there was published another position paper,
+  written just for popular audiences, saying that the
+  notion of "uncontainable" simply did not apply,
+  and that we should continue to attempt to research
+  and develop AGI/Superintelligence, use formal methods, etc.
+
+  This latter writing, although invoking technical concepts
+  (by reference) did not actually establish an argument
+  that AGI safety was even possible, even though it attempted
+  (but failed) to find loopholes and "exceptions", etc,
+  in the prior non-containable argument.
+  The commentary herein expands the technical aspects
+  sufficiently to show the reasoning errors/equivocations
+  that result in the false rejection of the "uncontainable"
+  result.
+
+PREF:
+
+  - where regarding the commentary at found at URL:.
+    > https://www.cser.ac.uk/news/response-superintelligence-contained
+
+  - that the commentary herein is further expanded, re-written,
+  and developed further in (@ these notes https://mflb.com/ai_alignment_1/si_safety_qanda_out.html).
+
+TEXT:
+
+  > Response to 'Superintelligence cannot be contained:
+  > Lessons from Computability Theory'
+  > by Jaime Sevilla, John Burden
+  > 25 February 2021
+  >
+  > In short: we respond to a recent article arguing that
+  > ensuring that "superintelligent" AI systems are safe
+  > is an impossible task.
+  > We clarify that their argument
+  > does not preclude practical work
+  > on the foundations of safety in future AI systems.
+
+    - Where as a 'response', the "rebuttal" argument
+    for sure falls short (fails to convince)
+    where/insofar as the meanings/distinctions
+    of several key concepts are, in that article,
+    tacitly assumed, equivocated, and conflated:.
+      - 1; the functional differences between narrow AI vs general AI.
+      - 2; simple systems/programs with complex ones.
+      - 3; recursive architectures with non-recursive architectures.
+      - 4; the means, methods and concepts of "proof".
+      - 5; specific meaning of the term 'specific'
+      (as multiply used in inherently ambiguous ways).
+      - 6; the scope and extent of risk of local limited problems
+      (in time/space) with global problems (everywhere forever).
+
+    - That it is a tacit assertion/expectation
+    of the Superintelligence Safety Community
+    that somehow (via hope and obscure math)
+    that we would, "at least in principle",
+    be able to make/enforce "Safe" and "Aligned" AGI.
+      - that this hopeful belief is, so far,
+      justified only by motivated reasoning,
+      and has not actually been substantiated.
+
+    - While there are a *lot* of very strong indicators,
+    and many actual and well understood principles
+    that suggest that the opposite is true:
+    that AGI *safety*, over the long term,
+    is actually an impossible to realize,
+    both technically and feasibly;
+    there have been no explicit statements of principle
+    by which anyone could have a reasoned belief
+    in the possibility of "human aligned/safe AGI";
+    that there is, so far, exactly nothing, no arguments
+    (no principles concretely posited and put forward),
+    which suggest anything other than unfounded opinions
+    that "technology and progress can solve all problems".
+
+    - As such, the "rebuttal" tends to read much more
+    _as_if_ it is rhetoric which has accidentally
+    (as if politically) been designed and disguised
+    _as_if_ to confuse and FUD an unsuspecting public.
+      - of course, there is no way to know what the actual
+      innermost intentions any authors actually have;
+      instead, we can only review what is actually stated,
+      and what sorts of implications, social and otherwise,
+      such statements have and imply, overall.
+      - unfortunately, this impression of 'spin intent'
+      is rather too strongly consistent and re-inforced
+      with the popular audience writing style used by
+      so many corporate technology apologists over the years.
+
+    - There is a strong concern that public releases
+    by AI existential safety researchers, such as this one,
+    can easily further perpetuate incorrect, non-rigorous
+    (and perhaps strategically abused) misapprehensions
+    that AGI advocates (maybe accidentally) perpetuate on themselves.
+      (ie; responding on the basis of false hope, social media hype,
+      and/or dream of unlimited private profits, colonization,
+      power and an seemingly unassailable professional prestige, etc,
+      backed by perfected (though empty) promises to humanity, etc).
+
+    - Therefore, if there are any doubts misunderstandings at all
+    regarding these important technical/practical truths
+    in the space of a critical and extinction terminal x-risk
+    inherently associated with *all* future general AI systems,
+    that these arguments herein are provided so as to make
+    all relevant concepts and ethical implications
+    as clear as possible.
+      - as attempting to better explicate
+      the validity of the observations/arguments
+      regarding the Rice-style non-trivial properties
+      in/of *all* types of superintelligent machines
+      *without* the common social/political rhetoric(s).
+
+    ~ ~ ~
+
+:e9l
+    - where considering the conflation of what is meant by AI:.
+
+      - that the notion of 'AI' can be either "narrow" or "general".
+
+      - that the notion of 'narrow AI' specifically implies:.
+        - 1; a single domain of sense and action.
+        - 2; no possibility for self base-code modification.
+        - 3; a single well defined meta-algorithm.
+        - 4; that all aspects of its own self agency/intention
+        are fully defined by its builders/developers/creators.
+
+      - that the notion of 'general AI' specifically implies:.
+        - 1; multiple domains of sense/action.
+        - 2; intrinsic non-reducible possibility for self modification; and;.
+        - 3; therefore; that the meta-algorithm
+        is effectively arbitrary; hence;.
+        - 4; that it is _inherently_undecidable_ as to whether
+        *all* aspects of its own self agency/intention
+        are fully defined by only its builders/developers/creators.
+
+    - that the key question is the following:.
+      - ?; is there (even in principle) any practical way
+      to establish/ensure adequate levels of safety
+      (to whom?, for what/why?)
+      in future AI systems?.
+
+      - where the notion of 'adequate'
+      (as applied to 'safety')
+      for any proposed action 'X'
+      is to show that the probability
+      of all categories of risk/harm/loss
+      of the value of what is to be "safe"
+      is sufficiently low -- ie; _strictly_lower_ --
+      than the possible cost/risk/harm
+      incurred by *not* taking that risk
+      (ie; in the form of opportunity cost, etc).
+
+    - where considering the equivocation
+    of what or who is to be kept "safe".
+
+      - example; that a corporation (or totalitarian government)
+      that stands to gain greatly
+      from the deployment of an AI
+      implemented for its own internal profit interests
+      could easily regard something as 'safe' (for/to itself),
+      even though their action/deployment of the AI
+      is very unsafe to the world population
+      (all non-corporate/government people)
+      and/or to life itself (deep ecosystem damage).
+        - where historically, it has been commonplace
+        inside large institutions and connected intellectual movements
+        for decision-makers to incorrectly rationalize
+        and publicly claim the safety of
+        newly deployed products/services/policies,
+        often with the backing of allegedly
+        comprehensive and/or authoritative
+        empirical findings and argumentation
+        by employed/sponsored experts.
+        - that current funding (and marketing)
+        by 'big tech' corporate sponsors (and donors
+        who earn something privately
+        from the scaling of new technology)
+        of institutes, conferences
+        and supposedly independent research
+        into prosaic AI control/robustness, safety, and ethics
+        has some clear correspondences with past activities
+        by tobacco, pharmaceutical oil and military corporations.
+
+      - that/therefore it is inherently important to clarify:.
+        - who or what is to be kept "safe"
+        when thinking about safety.
+        - whose intentions (and/or expected outcomes of benefit)
+        are being 'aligned with'
+        when thinking about 'AI alignment'.
+          - as that having an AI be aligned with corporate
+          or government interests (who can afford to build the AI)
+          is very likely to be unaligned with
+          the interests/well-being of the people
+          and/or the world (ecosystem/environment;
+          ie; all other life on planet).
+
+        - that the mere fact of AI systems ("robots")
+        being hard and expensive to build
+        and requiring of significant and very specialized
+        technological expertise, situational awareness, etc,
+        is to also therefore effectively ensure/require
+        that only the most wealthy corporations (and/or governments)
+        will be able to create such devices,
+        and that all other poorer and/or less skilled people
+        will inherently be unable to create/maintain/use
+        similar systems to a similar degree.
+          - ie; that single individuals or small groups,
+          even if they had the (secondary) use of
+          whatever deployed/created AI systems
+          will be unable to obtain commensurate private benefit.
+          - as that larger corporations will be able to accrue
+          benefit to themselves for/via the use of these tools
+          at much greater scales and percentages of yield
+          than any smaller actors/agents will be able to.
+
+          - example; that wealthy people/groups/institutions
+          are both more able
+          to leverage their money
+          to accrue more money
+          (at increased economies of scale)
+          and that they are more efficient at doing so
+          (since they can also leverage more intelligence
+          to optimize the investment/return process
+          since they can optimize on more diverse aspects
+          by hiring/engaging whatever resources are needed
+          to cover each of whatever multiple optimization aspects
+          are needed/available).
+            - that the rate of hiring people/expertise
+            to optimize investment strategy is additive/linear,
+            whereas the rate of return on optimization investment
+            is either multiplicative (where single process)
+            or exponential (where multiple interacting market process).
+            - that ordinary/regular people/groups
+            have finite and non-expandable attention/resources
+            to implement such multiple optimizations,
+            and so their rate of return on investment
+            is inherently going to be strictly lower,
+            on all process average, over the long term,
+            than that associated with larger/richer groups.
+            - as an inherent vector of inequality increase.
+
+:ebs
+  > The paper "Superintelligence Cannot be Contained:
+  > Lessons from Computability Theory"
+  > by Alfonseca et al
+  > argues that ensuring
+  > that a sufficiently complex Artificial Intelligence
+  > does not perform an unsafe action
+  > is mathematically impossible.
+
+    - where revising/clarifying the assertion/claim/conclusion
+    as:.
+      - that it is (both mathematically and physically) impossible
+      to ensure that a sufficiently complex Artificial Intelligence
+      does not perform an unsafe action.
+
+      - where 'sufficiently complex'
+      means can or does 'modify its own code';
+      then/that this claim statement
+      is categorically true.
+        - where the notion of 'learns'
+        implies 'modifying its own behavior'
+        that the notion of 'learning how to learn'
+        can directly imply (cannot not imply)
+        modifying its own code.
+        - that the notion of 'general'
+        can (must?) eventually include
+        modifying its own code at any (possible) level.
+          - ie; as including at the level of substrate,
+          though *not* including the level of the
+          regularity of the lawfulness of physics.
+
+:ed2
+  > Early versions of the paper date back to at least 2016,
+  > but following its recent publication
+  > in the Journal of Artificial Intelligence Research
+  > it has received a lot of attention in the press.
+  >
+  > We have seen that many of the popular summarizations
+  > portray the paper
+  > as refuting the possibility of designing complex AI systems
+  > without unintended consequences.
+
+    - ?; can anyone, ever, at any time,
+    at any level of abstraction,
+    even in principle,
+    ever formally/exactly/unambiguously/rigorously prove
+    that something (some system, some agent, some choice)
+    will *not* have 'unintended consequences'?.
+
+      - 0; as assuming that the domain of mathematics/modeling/logic
+      and the domain of physics/causation (the real world)
+      are equivalent.
+
+      - 1; as assuming that the physical universe is closed
+      in both possibility
+      (ie; that all possibilities can be finitely enumerated)
+      and probability
+      (ie; that the probability over each of these
+      can be exactly calculated and/or that any one of these
+      probabilities for some explicit subset
+      of the available possibilities
+      can be shown to be exactly zero).
+
+      - 2; as assuming the notion of 'intention'
+      is exactly specified and specifiable,
+      at all levels of abstraction
+      for *any* and *every* agent
+      that could be involved.
+
+    - ^; where *all* of these assumptions (and their implied claims)
+    is definitely false;.
+
+      - 0; that the physical causative universe has hard limits
+      of knowability and predictability
+      (via the Planck limit,
+      Heisenberg uncertainty principle,
+      and similar).
+
+    - ^; that the answer to the question cannot not be other than "no".
+
+    - that the basic possibility of unintended consequences
+    to/for/with any action/choice/system
+    will forever remain non-singular and potentially unbounded.
+    - ?; what is the likelihood of unintended consequences?.
+
+    - ?; does the likelihood of unintended consequences
+    increase with:.
+      - the complexity of the intentions?.
+      - the complexity of the beings/agents
+      implementing those intentions?.
+      - the likelihood of those beings/agents
+      having their own (potentially different) intentions?.
+
+    - ^; yes, for *each* of these aspects.
+      - that the likelihood of unintended consequences
+      increases with some product or exponent of these factors.
+        - where these factors can combine
+        more than additively and more than multiplicatively,
+        in various forms of feedback cascade, etc.
+      - that the likelihood of unintended consequences
+      with a complex system (inclusive of self definition recursion)
+      is strictly very much greater than for any simple system
+      (which lacks these critical features).
+        - that there is a risk of a 'Motte and Baily defense' (MBD)
+        being attempted in the space of
+        the claim "we can make AI systems safe".
+          - that any argument with an underlying MBD format
+          is a type of logical fallacy
+          similar to equivocation.
+          - as an argument of rhetoric,
+          of human fallible persuasiveness,
+          rather than one of actual truth.
+
+    - where explicit claim; that in general,
+    that there is no/zero possibility
+    of anyone (of any human, especially)
+    designing complex general (self intentioned) AI system(s)
+    without there also being a significant excess potentiality
+    of significant adverse unintended harmful consequences/risks
+    (which may be irreversible, to humans, the biosphere, etc).
+      - ie, as risks/costs/harms
+      resulting from 'X' (ie; the use of AGI systems,
+      the making of such choices to make/deploy AGI, etc)
+      that are well in excess of any realistic
+      and appropriately generalized assessment
+      of the purported benefits/profits of 'X'
+      (to who, when, where, etc).
+
+:eew
+  > If this were true,
+    (that there is no possibility of designing complex AI systems
+    without unintended consequences)
+  > it would have huge implications for
+  > the well established field of formal verification...
+
+    - that such a proof establishment
+    would have no (zero) implications (at all)
+    with respect to the field and practice
+    of formal verification
+    (or proof of limits of the range
+    of process outcome states,
+    given ranges of input states)
+    insofar as such formal verification techniques
+    are generally only applied
+    to smaller and more tractable systems and algorithms.
+      - that practitioners of formal verification have *never*
+      made any claim we are aware of
+      that is equivalent to the idea/assertion
+      "that 'formal verification' could be applied to
+      (or used for/on) any/arbitrary programs/systems".
+
+  > ...and the budding field of Artificial Intelligence Safety --
+
+    - ie; ?; can we make narrow AI systems "safe" (for at least some
+    selected groups of people some of the time) and/or "aligned"
+    (with the interests/intents/benefits/profits of at least some
+    people some of the time)?.
+    - ^; yes; formal methods could potentially be applied,
+    at least in principle, to establish such notions
+    of partial safety/alignment (in the short term,
+    though probably not in the long term (decades)).
+
+    - where/however the more interesting/important question is:.
+
+      - ?; can anyone at all,
+      even in principle,
+      even with unlimited resources,
+      somehow "make" general AI systems "safe",
+      (or "aligned", etc,
+      for any reasonable definitions of these terms,
+      as applied over any reasonable interval of time)
+      for *any* actors/agents
+      which are not themselves
+      strictly equivalent to,
+      or functionally equivalent to,
+      or at least sub-aspects of,
+      the GAI embodiment itself?.
+        - ie; as safe for all outside humans
+        and other (carbon-based living) actors?.
+
+:ehq
+  > [where/if general AI safety/alignment
+  > was proven impossible in principle]
+  > we would be compelled to put away resources [and tools]
+  > from these fields
+  > [of formal verification of simple/finite systems/algorithms
+  > and/or of the possibility utility/safety of narrow AI systems]...
+
+    - note that the conclusion does not follow from the premise.
+      - as a kind of equivocation of/on/over:.
+
+        - 1; what the field of formal verification
+        can be successfully used for and/or applied to.
+
+        - 2; the real distinctions
+        of the risks/costs/benefits
+        (the expected use and utility
+        to at least some subset of people)
+        associated with making and deployment of narrow AI
+        vs the very different profiles of risks/costs/benefits
+        associated with the potential creation/deployment
+        of general AI.
+
+    - that we *would* have to "put away" are the notions:.
+      - 1; that there was ever, even in principle,
+      any way to make general AI safe, or aligned, etc.
+      - 2; that there was any actual utility/benefit/profit
+      to the creation and deployment of general AI
+      for anyone, at all, ever, over the long term.
+    - ^; and that therefore we should also 'put away'
+    the tools and techniques used to develop such systems
+    (and all of the associated concepts, IP, etc)
+    as they are inherently a unmitigatable risk to
+    all peoples on the planet, for all future time,
+    and for all of the rest of life on the planet
+    and maybe even inclusive of the planet itself.
+      - that a failure to do so (and/or to develop, enact,
+      and enforce, effective and realistic policy and procedure
+      for all institutions and communities internationally)
+      is equivalent to a failure of government
+      (where the final function of all government
+      is to protect the land and the people and/or
+      to try to ensure that the land and people thrive).
+
+  > ...given the intractability of the foundational problems
+  > they aim to solve.
+
+    - note that the development of proofs of impossibility
+    of squaring the circle, trisecting the angle,
+    and/or 'identifying the last digit of pi',
+    (or of the rationality of pi, having a last digit, etc)
+    had *zero* implications that geometry, algebra, etc
+    were "useful" and could not continue to be
+    applied to purpose, had to be put away/discarded, etc.
+
+    - where given the specific the proof
+    that the continuum hypothesis,
+    as a foundational problem,
+    was actually intractable (given available axioms)
+    is not equivalent to the specific claim
+    that some field of study claimed to be
+    able to solve every specific foundational problem.
+    - that no one in the field of formal verification,
+    (or in the field of AI alignment safety either)
+    has made the general claim that,
+    at least in principle,
+    that the tools already available
+    in such such fields of study or practice
+    'could even potentially solve all foundational problems'
+    that exist within in their field.
+
+  > However a close examination of the argument
+  > reveals that this is not the case.
+
+    - where caution; where in the above statement,
+    that "this" as a reference to 'X'
+    which is at least partially non-explicit/undefined.
+      - as a setup for equivocation on what exactly
+      is being claimed, as known to be true, and by who,
+      how, etc.
+
+  > In this piece we will outline their core argument,
+  > and clarify its implications.
+
+    - though those implications were actually obscured,
+    hence the need to write this rebuttal to your rebuttal.
+
+:ekw
+  > The core of the argument
+  > in Alfonseca et al's paper
+  > is not original,
+  > and goes back to Henry Gordon Rice in 1953.
+  >
+  > One well known result in computability theory
+  > is the impossibility of
+  > having a general procedure that would,
+  > given any program,
+  > decide whether the program
+  > will eventually stop
+  > or whether it would run forever
+  > (this is known as "The Halting Problem"
+  > in the literature).
+  >
+  > Rice showed that an immediate corollary
+  > is that there are no procedures that, in general,
+  > can identify whether a given program
+  > has any particular property,
+  >   for example whether the program
+  >   is computing whether its input is a prime number.
+  >
+  > Alfonseca et al point out
+  > that Rice's proof also applies
+  > to any property about safety.
+
+     > If one had a procedure which,
+     > when given the code for any program,
+     > could decide whether an unsafe function
+     > is eventually executed,
+     > then one could use this to decide whether
+     > any program stops.
+     > One would just have to write a program
+     > like the one in table 1 below:
+     >   this program will execute the unsafe_function()
+     >   if and only if an arbitrary 'program2' halts.
+     >
+     >   def program(input):
+     >       // - program2 is the program we want to know
+     >       // if it halts.
+     >       program2(input)
+     >       // - the unsafe function is executed
+     >       // if and only if program2 halts.
+     >       unsafe_function()
+     >
+     >   Table 1: A program we could use to decide
+     >   whether a second program halts,
+     >   if we could decide whether any given program
+     >   will ever execute a known unsafe function
+
+  > Alfonseca et al conclude from this
+  > that AI safety is impossible
+  > when it comes to superintelligent systems;
+  >   no matter how one defines safety,
+  >   or how exhaustive one thinks one's review process is,
+  >   there will be programs which will fool it.
+
+    - where stating the 'Rice theorem' more carefully:.
+
+      - that there is no single finite universal
+      procedure, method, processes or algorithm
+      (or even any collection of procedures, etc)
+      by which anyone can (at least in principle)
+      identify/determine (for sure, exactly)
+      whether some specific program/system/algorithm
+      has any particular specific property,
+      (including the property of 'aligned' or 'safe'),
+      that will for sure work (make a determination)
+      for every possible program, system, or algorithm.
+
+    - note that the Rice Theorem does *not* claim
+    that there are no specific procedures,
+    (processes, methods, or algorithms, etc)
+    by which one could characterize some well defined
+    (usually fairly simple) specific finite algorithm
+    as having some specific property.
+      - for example; that it might be possible,
+      using some (as yet unknown) procedure,
+      to identify that some narrow AI is safe,
+      for some reasonably defined notion of 'safe'.
+    - that what the Rice Theorem *does* claim
+    is that whatever procedures are found
+    that can maybe work in some cases,
+    that there will always be some other
+    (potentially useful) programs/systems
+    that inherently cannot be characterized
+    as having any other arbitrary specific desirable property,
+    even if that property is also well defined.
+      - as that there is no way to establish
+      any specific property as applying to
+      every possible useful program/system.
+
+:epy
+  > And a "superintelligence", they argue,
+  > ought to be general enough
+  > to arbitrarily execute any program.
+
+    - that this is more than just "ought".
+    - ie; that the notion of 'generality',
+    when applied to any AI,
+    will very easily enable that 'general AI'
+    to also implement and execute arbitrary programs.
+    - where considering the Church Turing Thesis,
+    and ongoing widely extensible and available results
+    in the field of computational science,
+    it turns out that the threshold needed to obtain
+    "general computational equivalence"
+    is ridiculously low.
+      - that nearly anything that implements
+      and/or "understands" or responds to
+      any sort of conditional logic,
+      of doing and repeating anything
+      in some sort of regular
+      or sequential order,
+      already implements all that is needed
+      for general algorithmic computation.
+      - moreover; embedding or interpreting
+      one language, process, program, model, or algorithm
+      within the context of some other process
+      language, model, algorithm or program, etc --
+      ie, the notion of 'virtualization'
+      is used in comp-sci all the time.
+
+    - however; where/rather than emulating or virtualizing
+    some arbitrary algorithm within some aspect of
+    the general capabilities of the general AI;
+    that a general AI could as easily modify its own code
+    and programming to directly incorporate and integrate
+    that arbitrary algorithm.
+
+:erj
+  > So ensuring the safety of such a general system
+  > would require ensuring the safety of arbitrary programs,
+  > which we can show it is impossible.
+
+    - ?; is the notion of "general AI"
+    going to somehow be construed as
+    a process that somehow is going to be prevented,
+    forevermore,
+    from emulating, modeling, or integrating
+    and then calling
+    any other arbitrary process?.
+      - ?; is someone attempting to be claiming somehow
+      that some general AI can be made
+      that will not ever extend or increase its "generality"
+      by:.
+        - 1; adding to itself some other module or program?.
+        - 2; emulating and "running"
+        some other arbitrary program,
+        so as to get advice as to its own choices?.
+        - 3; maybe even just using some external service
+        like any other client of an API, maybe electing to
+        treat the output of that service
+        as some sort of oracle or influence for its own choices?.
+
+      - where in any of these cases,
+      like attempting to be predicting the future
+      of/for anything else;
+      that we cannot know in advance, for sure,
+      the specific nature of any of these programs,
+      regardless of its method of integration
+      (call internally, call externally, or emulate).
+      - that even fixed deterministic programs
+      can easily be made to call other
+      unknown arbitrary other programs,
+      ones that have unknown/unsafe side effects,
+      and thus, by proxy, become unsafe themselves.
+        - that we could not completely and accurately predict
+        the outcome of any deterministic process
+        calling any other non-deterministic process
+        (ie; which contains hard randomness,
+        perhaps by consulting a Geiger counter),
+        means that determinism/tractability
+        is actually the *weaker* constraint.
+
+:et4
+  > Hence, they argue, it is not possible
+  > to show that a superintelligent AI system
+  > will be safe.
+
+    - where as a possible clarification,
+    let us posit explicitly that
+    by some arcane literary magic,
+    that we have created an instance of a general AI,
+    an artificial agent or metal robot, etc,
+    that is inherently perfectly following
+    of Asimov's Three Laws of Robotics.
+      - that the assumption here is that by somehow
+      *requiring* that the three laws are perfectly followed,
+      that we can then assert that that robot/intelligence/agent
+      is therefore 'safe', and 'aligned' with human interests
+      and wellbeing, etc.
+      - note that by making the robot AI simpler, more finite,
+      more deterministic, and more like narrow AI,
+      that the chances that 'formal methods' could potentially
+      be used and that some clever engineering could be done
+      so as to make and ensure our (inherently finite)
+      Generalized Asimov AI agent is 'safe' and 'aligned'.
+
+    - ?; is it actually impossible, in principle, to make
+    a known verified and perfected/proven "safe" system
+    of generalized agent intelligence
+    operate in a way that is somehow unsafe/unaligned?.
+
+    - ^; no, by the mere fact that it its computational
+    ability is both finite and bounded in space and time.
+      - that all that is needed is to have any situation
+      where the 'safe' robot/program consults with and/or
+      is influenced in its output choices/actions/behaviors
+      (in some/any way) by some other unsafe device --
+      such that it, for instance, can figure out how to deceive it
+      into doing things that are unsafe/unaligned,
+      but which would remain undetected/unnoticed by
+      the Asimov robots three laws detection system.
+
+      - where for every finite robot/process that is safe,
+      that it will necessarily interact with
+      outside real-time processes,
+      as connected within a (necessarily larger) physical world
+      in ways that would *not* be able to be
+      detected by that lessor agent
+      as being unsafe/unaligned, etc.
+
+        > "I would use this Ring from the desire to do good;
+        > But through me, it would do great evil".
+          -- paraphrase of Tolkien, in the Lord of the Rings.
+
+      - that the notion that any agent is able to be
+      'having the property of safety/alignment/etc'
+      is now requiring that such agent
+      never, at any point in the future,
+      come into contact with some other, arbitrary, unsafe
+      agent/process/algorithm (program, model, recipe etc)
+      that it cannot somehow misunderstand as having
+      unsafe implications.
+        - that nothing is going to be a perfect prognosticator
+        at predicting the future of everything else
+        (all other processes/algorithms/programs
+        in the universe),
+        and thus know what to interact with
+        (and/or be influenced by)
+        and know what to not interact or be influenced by,
+        even indirectly, through all possible other channels
+        of interaction, overt and covert, etc.
+        - as that not only must our "perfectly proven safe agent"
+        successfully predict the outcomes of its interactions
+        with any single other (potentially intelligent) agent/algorithm,
+        but it must also predict all possible interactions
+        via all possible channels of such interactions
+        of all such other agents/algorithms, etc.
+
+        - that the finite and bounded will not ever be able
+        to predict, accurately, the interactions of that which,
+        though also finite, is at least potentially unbounded,
+        or at least, significantly greater than itself.
+
+    - that it will always be possible (and maybe even likely)
+    to have a known verified and perfected/proven "safe" system
+    of generalized agent intelligence
+    operate in a way that is unsafe/unaligned
+    if it is ever allowed to interact with any other algorithm
+    that cannot (by any technique) be itself proven to be safe.
+    - where there is always at least one such algorithm/process,
+    and where it is impossible, in general, to determine which
+    ones are which, then the only safe/"aligned" things it can do
+    is to not interact with any other process/agent/system.
+      - as that even the interactions between strictly safe systems
+      can result, in aggregate, in overall unsafe/unaligned outcomes.
+
+:euy
+  > It seems like an argument similar to Alfonseca et al's
+  > could show that all programs are unpredictable.
+  > But if I write a program that simply prints on screen
+  > "I am not dangerous" and then finishes,
+  > then this program is quite predictable.
+
+    - note; straw-man argument,
+    conflating simple finite programs
+    with clearly bounded states of potential interaction
+    and which can have known definite simple properties
+    with complex programs, having complex interactions
+    with the environment (users/etc),
+    which are not so easily proven, by any technique,
+    to have complex and/or not so well defined properties
+    (usability, desirability, salability, safety, etc).
+
+  > In fact, engineers every day manage to write sophisticated programs,
+  > and reason consistently about the consequences
+  > of deploying the software.
+
+    - that reasoning is not always right;
+    engineers often also make mistakes,
+    resulting in aircraft that crash (Boeing 737 Max)
+    or cars with stuck gas pedals (Toyota's ETCS)
+    or medical systems that kill (Therac-25) --
+    all of which were unsafe due to code problems,
+    *despite* the attempted application of "formal methods".
+
+
+  > We have also seen many successes in formal verification research;
+  > for example guaranteeing that an operative system
+  > is correctly implemented.
+
+    - a not unreasonable interpretation of this sentence
+    is that we "should" rely on
+    the skill of "fallable human engineers"
+    to assure us, yet again,
+    that a technology to "replace humans"
+    is actually "safe" (will not somehow be worse),
+    while irreversibly betting the future
+    of the entire human race,
+    along with all other life on the planet.
+
+:ex6
+  > Where does this application of the argument break down then?
+  > The key is that Rice's theorem
+  > prohibits a decision procedure
+  > for deciding any property of an arbitrary program.
+  > But in application we are not interested in arbitrary programs;
+  > we are interested in studying particular programs.
+
+    - this is a red herring --
+    there is a very wide class of 'particular programs'
+    in current wide use for which the behavior
+    is unmodelable by anything that is simpler than
+    running the actual program itself.
+      - if running the program is unsafe,
+      then running the program is unsafe.
+
+    - that trying to determine experimentally,
+    by trial and error,
+    whether some program has some property like safety
+    is deeply irresponsible
+    especially when considering systems
+    with known and acknowledged potential
+    for existential risks.
+      - note; that it does not matter
+      how well defined,
+      or how specific,
+      our knowledge may be
+      of the exact sequence of specific instructions;
+      the unknowability of the risk and alignment profile
+      for a very large class of actual programs
+      remains inherently unknown and unknowable.
+    - as very different than running something
+    in non-catalytic environments
+    where even the worst outcome
+    is limited to the local failure of equipment,
+    or, at most, strictly local damage/destruction.
+      - for example; that one does not experiment with
+      dangerous 'gain of function' infectious virus research
+      when out in the open, in unprotected spaces!.
+      - as similar to worries
+      that another Covid might happen.
+    - that the behavior of simple systems
+    with non-catalytic effects
+    is very different, in risk profiles,
+    than even fairly simple systems
+    with inherent auto-catalytic effects.
+      - that the latter is very unsafe,
+      despite the apparent deceptive simplicity
+      and finiteness of the algorithmic code.
+
+    - where from other areas of comp-sci research;
+    that there are very strong indications
+    that once the inherent Kolmogorov complexity
+    exceeds a certain (fairly low) finite threshold,
+    that the behavior of the program/system
+    becomes inherently intractable.
+      - where considering a 'property of the system'
+      as basically some abstraction over
+      identifying specific subsets
+      of accessible system states;.
+      - that no specific property
+      of such a complex system
+      can be determined.
+      - that this is due to significant reasons
+      other than just the Rice Theorem.
+
+:ez2
+  > By way of analogy:
+  > there is no procedure that will,
+  > given any mathematical statement,
+  > produce a proof or prove the opposite.
+  > But this does not mean
+  > that a proof of Pythagoras' theorem
+  > is impossible!
+
+    - when both proofs are correct,
+    they can co-exist.
+      - that proving one thing
+      does not "disprove" another thing
+      that has already been proven.
+
+    - that the claim being made is
+    that there is no formal or practical way,
+    even in principle,
+    to establish even a fairly limited set
+    of adequate bounds
+    as to whether or not
+    any sufficiently complex and general system
+    with self-modifying properties
+    (ie; a learning system,
+    a system that adapts itself and/or its behavior
+    to its environment, operating context, etc,
+    as a self adaptive system, etc),
+    will eventually, and even very likely, exhibit
+    significantly unsafe and unaligned behavior,
+    create unsafe and unaligned outcome conditions,
+    have such conditions
+    create enduring manifest harm, etc.
+
+      - when using the word "likely" in the above,
+      the assessment is that the general costs and risks
+      associated with AGI development
+      will (eventually) greatly exceed
+      any reasonable (non-hyped) assessment
+      as to any potential benefits
+      that the use of such a system/technology
+      could ever potentially have,
+      in any context more generalized and extended
+      than even one person's own limited lifetime.
+
+      - that attempting to build AGI
+      is a strictly negatively asymmetric bet
+      both from the perspective
+      of a single large institution of people
+      and (more so) from the perspective
+      of all living persons/beings and their descendants:
+         - where such an attempt fails,
+         there is no (direct) benefit
+         (a loss in comparison to opportunity costs forfeited).
+         - where such an attempt 'succeeds',
+         it opens up uncountably many unknown pathways
+         that converge over time
+         on ecosystem-wide lethal changes
+         to conditions of the global environment,
+         with any envisaged benefits of AGI and
+         engineered-for alignments
+         of AGI functions with human intent
+         increasingly fragile
+         to recursive nonlinear feedback between
+         changes introduced by/in parts of AGI
+         and the larger containing environment.
+      - that this is analogous to playing Russian Roulette
+      with the lives of all (human) beings smeared out over time,
+      with any (illusory) backer of (promised) benefits long gone.
+         - that betting on AGI
+         converges on existential ruin.
+
+    - that this does not, in any way,
+    contradict the idea and fact
+    that we can make non-recursive systems,
+    that are known to be useful
+    to a wide range of people.
+
+:f2l
+  > To write a program
+  > whose outcome is unpredictable in principle
+  > takes deliberate effort.
+
+    - to create something actual, in nature,
+    using real physics that has real uncertainties built in,
+    means that creating things whose outcome is unpredictable
+    (inherently, and in principle, once stats is factored out)
+    is really quite easy, and moreover,
+    happens more often than not.
+    - that creating things in nature
+    (in the real world)
+    whose outcomes are *predictable*
+    takes significant deliberate effort.
+      - as the actual work of engineering.
+
+    - that the actual world is not a computer model --
+    no one has proven that we actually live in a simulation.
+    - that anyone attempting to make the claim
+    that "the real world" and "computer modeling"
+    are actually and fundamentally strictly equivalent,
+    would need to produce some high class extraordinary evidence.
+      - that until such incontrovertible
+      empirical or logical demonstration
+      is actually obtained, provided, etc,
+      then the absence of this assumption,
+      that the real world is not a model,
+      that they are maybe somehow different,
+      will be upheld.
+
+:f46
+  > In practice, engineers and researchers in AI
+  > almost never need to bother thinking about
+  > for example
+  > whether their program will ever halt.
+
+    - mostly because whether or not halting
+    does not matter;
+    all future people dying --
+    let's think more about that possibility.
+
+  > In short: we will never have a procedure
+  > that takes any chunk of code
+  > and accurately predicts the consequences of running the code.
+  > But we can, and routinely do,
+  > predict some consequences of running a specific piece of code.
+
+    - that this works for some types of specific code,
+    that we wrote with the specific intention to be
+    understandable, predictable, modifiable, updateable, etc.
+    - that self generating/authoring/modifying AGI code
+    will not likely have any of these features,
+    and so, reasoning about the future unknown states
+    and variations of that potential/possible code
+    is a lot more like the "any unknown arbitrary chunk of code" case
+    than it is the "known specific code" case.
+
+  > Furthermore, one can write one's code
+  > in such a way
+  > that it is more transparent
+  > and amenable to formal (and informal) verification;
+  > this is the approach taken by many experts in formal verification.
+
+    - ?; is this a claim that future AGI,
+    however its written at all,
+    will be similarly transparent and amenable?.
+    - ?; is this tautologically assuming
+    that we will have what we are wanting to have --
+    that AGI is going to be composed of 'aligned code'
+    so that it makes sure it remains amenable to 'tractability'
+    so that we can continually verify it is 'aligned'?.
+      - ?; how is this not assuming what we want to prove?.
+
+  > Alfonseca et al are not ignorant of this pitfall.
+  > Instead they add the assumption
+  > that what they call a superintelligent machine
+  > might be able to execute arbitrary programs as subroutines,
+  > in an unpredictable manner.
+  > Hence they reasonably suggest
+  > that a complete solution to safety
+  > would require [us] to solve the impossible Halting problem.
+
+    - rather; that a "safe" or "aligned" machine/process/algorithm
+    that calls/invokes (via whatever method,
+    direct or indirect or simulated)
+    some/any unsafe or misaligned machine/process/algorithm/code
+    therefore (likely) becomes itself unsafe/unaligned
+    (since it also cannot predict/assess anything which,
+    in principle, cannot be predicted or assessed,
+    any more than we could in the 1st place).
+    - where any (generalized) (self learning/modifying) program,
+    can in principle call or use any other program,
+    then to assure alignment/safety of a general AI system,
+    we would need to ensure alignment/safety of *all* possible
+    future code/systems/procedures that it could invoke,
+    or that those systems might themselves invoke
+    (especially if they themselves are generalized intelligent
+    or semi-intelligent agents, etc).
+
+:f62
+  > But the AI itself could be in principle
+  > engineered to not execute arbitrary subroutines!
+
+    - this is an extraordinary strong claim --
+    it is strictly equivalent to claiming
+    that "all AGI is already inherently safe".
+    - ?; how are you (is anyone) going to ensure that something
+    that already inherently has Turing equivalent generality
+    is not also going to have Turing equivalent generality?.
+      - ie; the mere fact of the claim
+      is itself already a direct a contradiction.
+
+    - that the manner of how an algorithm
+    is specifically divided up into subroutines
+    is an arbitrary convention for the convenience
+    and understanding of the programming engineer --
+    it has no ultimate formal basis beyond that.
+      - where from the perspective of a learning algorithm,
+      the boundary between what is 'main code'
+      and what is a subroutine
+      is completely arbitrary --
+      the changes associated with learning are exactly that,
+      however they are expressed, remembered, and/or recorded.
+
+    - that it is hard to see that it is possible,
+    even in principle, to conceive of some notion of
+    *generalized* learning process --
+    ie, one that can self expand
+    so as to operate on/over/within any domain
+    of action, inclusive of itself --
+    such that it can be wholly and absolutely prevented
+    from executing any arbitrary algorithmic subroutines,
+    for all of future time,
+    without directly contradicting at least one
+    of the notions of 'generalized', 'learning', or 'process'.
+      - ie; either it is some sort of
+      self modifying algorithmic intelligence
+      (appropriately adaptive to its environment)
+      or it is not.
+      - if it is, then it is inherently unpredictable
+      insofar as we never know what it is going to learn,
+      and therefore do (its actual behavior; thus safety)
+      any more than we can, in principle
+      predict all of the future,
+      absolutely and finally.
+
+    - that the notion of 'generalized learning process'
+    inherently cannot not somehow imply
+    some real form of 'self modification' (ie; actual changes)
+    which itself cannot not somehow imply
+    some notion of 'arbitrary code execution' --
+    ie; potentially and including possible calls
+    to external processes, virtual simulation and modeling, etc,
+    *all* of which are inherently unpredictable in advance.
+
+    - that not only can we not expect, in principle,
+    to be able to model all aspects of
+    the generalized process of modeling,
+    we also cannot expect to be able to
+    set explicit finite limits
+    on even the ranges of changes involved
+    in arbitrary learning --
+    ones that actually affect sensing,
+    the ranges of abstractions sensed,
+    the internal state transforms that result,
+    and the behavior and outcomes of that, etc.
+
+:f88
+  > Building complex AI,
+  > even AI that surpasses human capabilities
+  > in all tasks humans routinely face,
+  > does not require a system
+  > which executes arbitrary subroutines
+  > in principle.
+
+    - this is a very strong and unexpected claim --
+    to which it is very easy to disagree/disbelieve;.
+    - ?; where is the proof/evidence
+    that such a system/machine/process
+    is "in principle" even possible?.
+
+:f9s
+  > The problems we face and are interested in
+  > are not arbitrary.
+
+    - note; equivocation of 'specificity' as applied to
+    the *problem* of 'establishing generalized AI safety',
+    rather than the specificity of being able to implement
+    formal methods on some specific known example of algorithm
+    for which such techniques are already know to work.
+      - ie; ignoring that there are some specific and useful algorithms
+      for which no one expects
+      that there will *ever* be any techniques
+      of applying formal methods
+      so as to be able to establish
+      some specific and well defined property X.
+
+  > It is not even clear to what degree
+  > could we call a system
+  > systematically executing arbitrary programs "superintelligent";
+
+    - notice; that stating that 'generalized superintelligence'
+    therefore also inherently implies 'Virtual Machine capability'
+    is *not* to claim that any/all generalized VM machines
+    will therefore inherently also be "superintelligent".
+      - that the fact of this fact
+      does not matter very much,
+      so it is hard to see why this point is even being made.
+
+  > ...surely the routines it [the superintelligent] will execute
+  > will be ones that are likely to end
+  > and will help the system solve the problems it faces.
+
+    - note; that in the same way that a typical engineer
+    does not worry about the halting problem in typical practice,
+    (because he can always go out of band and reset the computer),
+    that an AGI would be similarly unconcerned about halting problems
+    (and similarly be *also* unconcerned about AGI safety/alignment, etc)
+    since it could (via it also having 'generality') go out of band
+    and 'halt' (discontinue using/modeling, etc)
+    whatever 'subroutine' it is invoking.
+
+    - ?; is there some implied belief that the superintelligence
+    will somehow care more, and/or also be more able to predict
+    the outcome of calling any specific subroutine,
+    than we would be?.
+      - that anything that is mathematically impossible,
+      including the halting problem and the Rice theorem,
+      will remain that, even for a superintelligence.
+
+    - that none of this argues that there is any principled
+    reason to suggest that an AGI would be more likely
+    to be aligned/safe
+    than any person would be.
+      - where after all, that it is quite easy
+      to know that one engineer
+      could be both unsafe and unaligned
+      with any other engineer
+      (ie; one engineer, could, in principle,
+      shoot any other with a gun).
+
+:fbc
+  > Another analogy: as pointed out in the paper,
+  > "a man provided with paper, pencil, and rubber,
+  > and subject to strict discipline,
+  > is in effect a universal machine".
+  > That is, a person could in principle
+  > execute any arbitrary program.
+  > But we hardly could call humans "unpredictable in principle";
+
+    - ?; why not?.
+    - that one can 'factor out' lots of common aspects
+    of the behavior and choices of any other person,
+    but that will simply leave an uncompressable remainder.
+      - that no form of compression of any data stream
+      factors out *all* information to exactly zero bits;
+      which would be the very meaning of 'fully determined'.
+
+    - that saying/claiming that *some* aspects,
+    at some levels of abstraction,
+    are sometimes generally predictable
+    is not to say that _all_ aspects
+    are _always_ completely predictable,
+    at all levels of abstraction.
+
+      - that localised details
+      that are filtered out from content
+      or irreversibly distorted in the transmission
+      of that content over distances
+      nevertheless can cause large-magnitude impacts
+      over significantly larger spatial scopes.
+
+      - that so-called 'natural abstractions'
+      represented within the mind of a distant observer
+      cannot be used to accurately and comprehensively
+      simulate the long-term consequences
+      of chaotic interactions
+      between tiny-scope, tiny-magnitude
+      (below measurement threshold) changes
+      in local conditions.
+      - that abstractions cannot capture phenomena
+      that are highly sensitive to such tiny changes
+      except as post-hoc categorisations/analysis
+      of the witnessed final conditions.
+
+    - where given actual microstate amplification phenomena
+    associated with all manner of non-linear phenomena,
+    particularly that commonly observed in
+    all sorts of complex systems,
+    up to and especially including organic biological humans,
+    then it *can* be legitimately claimed,
+    based on the fact of their being a kind of
+    hard randomness associated with the atomic physics
+    underlying all of the organic chemistry
+    that in fact (more than in principle),
+    that humans are inherently unpredictable,
+    in at least some aspect, *all* of the time.
+
+  > the programs that they [the humans acting as a VM]
+  > will simulate follow some logic.
+
+    - whether a program continues to run
+    (and with what resulting outputs/outside effects)
+    clearly does not depend wholly on the abstract logic
+    of the program itself.
+      - to illustrate:
+
+        - ?; are there any software programs
+        running on any regular computer
+        anywhere in the world,
+        that can both absolutely predict and prevent
+        the failure of some/any key component
+        in its own hardware,
+        (say in in the power supply of that computer,
+        or in the ALM logic module of CPU itself),
+        and thus prevent itself, as a program,
+        from being preemptively and unexpectedly
+        pushed into non-existence?.
+
+        - ?; could such a program, in principle,
+        even be created?.
+          - ?; how might it have deal with
+          the possibility that some ambient human
+          might trip over the power cord,
+          or the fact that the local nuclear power station
+          might unexpectedly have to discontinue grid supply
+          for some reasonable safety reason?.
+
+    - that a human acting as a VM running some program
+    inherently cannot be any *more* predictable
+    than whatever is the underlying base level of randomness
+    that is inherent in the local ambient environment.
+
+:fdj
+  > We did not arbitrarily choose to write this article;
+  > we chose to write for a reason.
+
+    - ?; does that therefore imply
+    that there there is any way for
+    anyone who is now reading this to know,
+    for sure, that you are 'safe' or 'aligned'
+    with the general public interest?.
+
+:ff4
+  > And sure, humans are not designed to be predictable,
+  > so it is hard to anticipate what they will do.
+  > But computer programs can be designed
+  > to be more transparent and predictable.
+
+    - ?; can AGI be designed to be
+    more transparent and predictable?.
+      - probably not, and still have it be effective
+      as a generalized agent.
+
+      - where by game theory alone,
+      if some agent (say some human criminal)
+      can predict the actions of the AGI
+      sufficiently well, then there is now
+      a vector by which that person can abuse
+      and disadvantage the AGI, its effectiveness, etc,
+      and so any such AGI will eventually want to make
+      its own internal methods and operations
+      at least somewhat opaque.
+
+:fgn
+  > This is why research in formal verification is not pointless,
+
+    - that even a/one single formal proof
+    of inherent AGI non-alignment, non-safety,
+    that for whatever reason, on whatever basis,
+    will establish that AGI cannot ever be safe,
+    or made safe, or forced to be aligned, etc --
+    and/or such that the real risks, costs, harms
+    of naively attempting using/deploying it
+    will always be, in all contexts,
+    for any/all people (any/all life)
+    inherently strictly greater than
+    whatever purported benefits/profits might obtain,
+    (ie, where we are not deluding ourselves with false hype)
+    that *would* actually and for sure establish
+    that any and all efforts
+    to develop new or "better" tools
+    of formal verification of AGI safety
+    *are* actually pointless.
+
+    - ?; do you really want to be the one who
+    suggests investing hundreds of thousands
+    of engineer man-years
+    into the false promise of obtaining AGI safety,
+    when a single proof of impossibility --
+    one person working a few months
+    on their own for nothing --
+    could make all of that investment instantly moot?
+    (not to mention the loss/waste of dry power
+    and opportunity costs of associated with dumping
+    hundreds of millions of dollar equivalent resources
+    and capital to buy all of that wasted time and effort).
+
+    - where given all of the math and empirical results
+    already in place, from *multiple* distinct fields of study
+    the indications are very much more strongly
+    in the direction that research into
+    formal verification of AGI safety
+    *is* actually pointless
+    (ie; that success defined in this way
+    is *always* impossible).
+      - for example; see proofs, arguments and cases
+      for uncontrollability (absense of safety/alignment)
+      collected by Yampolskiy et al.
+      - where considered on a neutral objective
+      apples-to-apples comparative basis;
+      the indications are at least
+      very much greater in the negative direction
+      than are any similar indications
+      that there is any actual benefit at all, to anyone,
+      to be had from *any* generalized AI
+      development and deployment effort.
+
+:fj8
+  > Alfonseca et al's paper
+  > does not preclude meaningful work being done
+  > on practical AI safety challenges
+  > that may lay the foundations for safety
+  > in future systems, superintelligent or not.
+
+    - that this may be true for narrow AI systems,
+    but it very likely remains not true
+    for any real notion of 'generalized' AI systems.
+    - that the action of treating both classes of AI
+    as if they were the same,
+    and/or could be treated the same way,
+    is the sort of informality
+    and lack of discipline that, actually,
+    when applied in any safety-critical field of engineering,
+    eventually ends up getting real people killed.
+      - ie; the people who are other than the engineers
+      managing executives, and/or shareholders/owners
+      of the systems that eventually cause harm
+      to ambient others (the general public).
+
+:fkg
+  > This does not mean that AI systems
+  > will have easily predictable consequences.
+
+    - ?; which type of AI?.
+    - while it might be hard to predict narrow AI systems,
+    it can still be strictly impossible to predict
+    any aspect of the output of a superintelligence.
+
+:flq
+  > Our argument refutes the computational impossibility
+  > of predicting the consequences of running a program.
+
+    - that *none* of the arguments you provided
+    does any such thing.
+      - there will always be a strictly larger
+      class of programs
+      whose behavior is unpredictable
+      in advance of actually running the program,
+      then the class of programs
+      which are simple and tractable enough
+      for which the output of that program
+      could be predicted in advance.
+
+    - that you can sometimes predict
+    the results of some limited and select subset
+    of all human-made useful programs
+    does not actually imply anything important
+    with regards to cost/benefit/risk assessments
+    of any future proposed AGI deployments.
+      - nothing in the arguments provided
+      in 'the Response' demonstrates conclusively
+      that the class of all possible AGI algorithms
+      is strictly a subset of the class programs
+      which are amenable to prediction methods,
+      *or* even that even one actually AGI system
+      would actually be in that verifiable class.
+
+      - that there is therefore zero suggestion
+      that there is any possibility at all
+      that any purported formal safety verification technique,
+      now known, or even which, in principle,
+      could be ever be known, at any future time,
+      could be applied to assure
+      the safety/alignment
+      of any actual AGI system.
+
+
+  > But this does not mean
+  > that they will be predictable in a practical sense.
+  > The programs can be quite complex,
+  > and have unintended consequences;
+  > this is in fact a great potential source of risk.
+
+:fnl
+  > Alfonseca et al's paper aims to answer an important question,
+  > but their conclusions are not clearly explained:
+
+    - note; that the same could be said of 'the Response'.
+
+
+  > while it is impossible to design a procedure
+  > that would check any arbitrary program for safety,
+  > we can still reason about the safety properties
+  > of individual computer programs
+
+    - of some *selected* individual computer programs only.
+
+  > ...and design AI systems to behave predictably.
+
+    - nope; not proven; at best we can say
+      ...and *maybe* we might be able to design
+      some *narrow* AI systems so that they can
+      *maybe_sometimes* behave predictably,
+      in some important relevant practical aspects
+      (though probably not in all aspects,
+      at all levels of abstraction,
+      without also actually running the program --
+      which no longer counts as 'prediction').
+
+:fq6
+  > We do appreciate academic engagement
+  > with Artificial Intelligence Safety.
+  > There are compelling reasons to believe
+  > that both 1) future advances in Artificial Intelligence
+  > may radically transform society
+  > and 2) we know too little about
+  > the potential safety issues
+  > related to artificial intelligence.
+  > This makes research in the area
+  > potentially very important.
+  >
+  > However, productive discussion on the topic
+  > (especially when talking about controversial topics
+  > like "superintelligence")
+  > requires open criticism and clear communication
+  > of the implications of technical results.
+
+    - ?; do the authors of the rebuttal quoted here
+    also accept this stated requirement of 'open criticism'
+    and efforts to clarify
+    the underlying problems/assumptions/limitations
+    as extending to the logic of the statements made
+    in their response
+    and to the substantive focus of
+    and motivations behind
+    their writing?.
+
+    - ?; are the authors,
+    who are presumably willing to profess to care for
+    the safety of the entire human society:.
+    themselves willing to openly engage with criticism
+    that may reveal crucial safety problems
+    that are as of yet not accounted for
+    in their written response?.
+
+    - where/if so:.
+      - that we are curious to engage further
+      in open collaborative dialogue,
+      inclusive of both:.
+        - the authors of the original 'Cannot be Contained' paper; and;.
+        - the authors of 'the Response'
+        (to which we responded to herein).

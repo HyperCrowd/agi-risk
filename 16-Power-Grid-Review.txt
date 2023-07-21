@@ -1,0 +1,689 @@
+TITL:
+   *Power Grid Review*
+   Select passages from some posts of Edouard Harris
+   as collected and lightly edited by Forrest Landry
+   Nov 3rd, 2022.
+
+ABST:
+   This is a collection of notes, lines and passages
+   from the posts of Edouard Harris and 'simonsdsuo'.
+
+PREF:
+
+   Important: in what follows, in my selections,
+   I do not always just exactly quote the line,
+   fragment or passage of text as it was found.
+   This is no disrespect. As is my customary practice,
+   I will often restate, and/or edit, or somewhat re-word
+   the found statements so as to both make clear
+   how I perceived the text, as well as bring clarity
+   that to that idea I am wanting to bring awareness to.
+   Usually, implied references will be expanded,
+   and sometimes clause phrases will be re-sequenced
+   so as to obtain the maximum possible logical clarity,
+   via the techniques of (@ EGS https://mflb.com/egs_1/egs_index_2.html) text
+   conversion techniques, as I might find relevant.
+
+   These edits allow for more immediate identification
+   of where I may be myself in misunderstanding and/or
+   where I might have misread intended author meanings.
+   This in turn allows for, where appropriate, graceful
+   corrections of any mistakes I may have made.
+
+   Since passages are out of context (ie; as excerpts
+   from the posts where more information is provided)
+   the individual statements as written might not
+   always be clear, despite my various EGS expansions.
+   This cannot always be helped, and it is expected
+   that any ambiguity would be resolved by consulting
+   the original author post text.
+
+   Frequently the selection of passages herein
+   is responsive to my own understandings and interests,
+   and/or for which I might have had some specific reason
+   I regarded that particular line or phrase
+   as being relevant to my own work.
+   Since these contents reflect notes of things
+   I felt to be relevant, that no attempt will be made
+   to properly contextualize anything found herein.
+
+   Finally, so as to avoid authorship ambiguity,
+   all credit of ideas of/in what follows goes to
+   Edouard Harris (and not to myself).  If I do elect
+   to add something of my own notes, comments,
+   or ideas, such remarks will be in /italic text/,
+   so as to distinguish them from his valued work.
+   All regular text below this point is effectively
+   the ideas/work of Edouard Harris herein edited.
+
+TEXT:
+
+:9s6
+From (@ post https://www.lesswrong.com/posts/pGvM95EfNXwBzjNCJ/instrumental-convergence-in-single-agent-systems) "Instrumental convergence in single-agent systems"
+by Edouard Harris, simonsdsuo:
+
+   Alignment of terminal goals
+   and alignment of instrumental goals
+   are sharply different phenomena,
+   and we can quantify
+   and visualize each one separately.
+
+   If two agents have unrelated terminal goals,
+   their instrumental goals will tend to be misaligned
+   by default.
+   The agents in our examples tend to interact competitively
+   unless we make an active effort to align their terminal goals.
+
+   As we increase the planning horizon of our agents,
+   instrumental value concentrates into
+   a smaller and smaller number of topologically central states,
+   for example,
+   positions in the middle of a maze.
+
+   - that agents that are not competitive
+   with respect to their terminal goals,
+   nonetheless tend on average
+   to become emergently competitive
+   with respect to how they value instrumental states.
+   - that this constitutes direct experimental evidence
+   for the 'instrumental convergence thesis'.
+
+   One major concern for AI alignment
+   is instrumental convergence:
+   the idea that an intelligent system
+   will tend to pursue a similar set of sub-goals
+    (like staying alive or acquiring resources),
+   independently of what its terminal objective is.
+   In particular,
+   it's been hypothesized
+   that intelligent systems
+   will seek to acquire power,
+   as meaning, informally, 'ability', 'control',
+   or 'potential for action or impact'.
+   If you have a lot of power,
+   then whatever your terminal goal is,
+   it's easier to accomplish
+   than if you have very little.
+
+     - cite post on (@ instrumental convergence https://www.lesswrong.com/tag/instrumental-convergence).
+
+   POWER is the normalized optimal value
+   an agent expects to receive in the future,
+   averaged over all possible reward
+   functions the agent could have.
+
+   - ?; How effective does the human have to be
+   at setting the AI's utility function
+   in order to achieve acceptable outcomes?.
+
+   - ?; How should we define 'acceptable outcomes'?.
+
+   - ?; how hard is the alignment problem in this scenario,
+   and what would it mean to solve it successfully?.
+
+   - ?; Under what circumstances should we expect
+   cooperative vs competitive interactions
+   to emerge 'by default' between the human and the AI?.
+
+   - ?; How can these circumstances
+   be moderated or controlled?.
+
+   - that the formal definition of 'power'
+   aims to capture an intuition behind
+   the common meaning of the word 'power',
+   which is something like
+     "potential for future impact on the world".
+
+   - where imagine you are an agent
+   who does not know what its goal is.
+     - You know you will have some kind of goal
+     in the future,
+     but you are not sure yet what it will be.
+   - ?; How should you position yourself
+   today to maximize the chance you will
+   achieve your goal in the future,
+   once you have decided what it is?.
+   - ^; acquire money and other forms of wealth;
+   build up a network of social connections;
+   learn about topics that seem like they
+   will be important in the future.
+
+   - that the informal definition of power
+   has a clear analogy in reinforcement learning.
+
+   - that an agent will has more power
+   in places that have lots of nearby options,
+   and has less power at locations
+   that have fewer nearby options.
+
+   - that the longer the planning horizon is,
+     (as modeled within the agent),
+     (as the more it values reward far in the future
+     over reward in the near term),
+   the more that its global position matters.
+
+   - that agents with long planning horizons
+   tend to perceive power as being more concentrated,
+   while agents with short planning horizons
+   tend to perceive power as being more dispersed.
+     - that this effect is robustly reproducible,
+     and anecdotally,
+     we see it play out at every scale
+     and across environments.
+
+   - that the more short-sighted an agent is,
+   the more it cares about its immediate options
+   and the local topology.
+   - But the more far-sighted the agent,
+   the more it perceives power
+   as being concentrated at 'grid-world' cells
+   that maximize its global option set.
+
+   - where from an instrumental convergence perspective,
+   the fact that power concentrates into
+   ever fewer states
+   as the planning horizon of an agent increases
+   at least hints at the possibility
+   of emergent competitive interactions
+   between far-sighted agents.
+   - that the more relative instrumental value
+   converges into fewer states,
+   the more easily we can imagine
+   multiple agents competing with each other
+   over those few high-power states.
+
+:9uc
+From (@ post https://www.lesswrong.com/posts/ojwujybfRC9SwRhAP/powerplay-an-open-source-toolchain-to-study-ai-power-seeking) "POWERplay: An open-source toolchain
+to study AI power-seeking"
+by Edouard Harris
+
+   Where cite (@ github https://github.com/gladstoneai/POWERplay) for source code.
+
+:9w8
+From (@ post https://www.lesswrong.com/posts/cemhavELfHFHRaA7Q/misalignment-by-default-in-multi-agent-systems) "Misalignment-by-default in multi-agent systems"
+by Edouard Harris, simonsdsuo
+
+   - where/If humans one day share the world
+   with powerful AI systems;
+   that it will be important for us
+   to know under what conditions
+   our interactions with them
+   are likely to become emergently competitive.
+   - where/If there is a risk
+   that competitive conditions arise;
+   then/that it will also be important
+   for us to understand:.
+     - ?; how they can be mitigated?.
+     - ?; how much effort this is likely to take?.
+     - ?; how we should think about measuring
+     our success at doing so?.
+
+      > - Where corporations are replacing human workers
+      > with AI systems;
+      > then there is *already* competition between
+      > humans and AI,
+      > and that the humans
+      > are loosing immediately, implicitly.
+      >   - as that people will not get
+      >   shelter, food, etc,
+      >   because they are "undeserving"
+      >   because "no money",
+      >   because "displaced"
+      >   because of AI.
+
+   If humans succeed at building powerful AIs,
+   then those AIs
+     1) will probably learn
+     on a far faster timescale
+     than humans do;
+   and
+     2) will probably have had
+     their utility functions influenced,
+     at least to some degree,
+     by initial human choices.
+
+   Humans learn on a much faster timescale
+   than evolution does.
+   So from the perspective of human 'Agent H',
+   the evolutionary optimizer in nature
+   looks like it is standing still.
+   This means we can train our human 'Agent H'
+   to learn its optimal policies
+   against a fixed environment.
+
+   - that instrumental value
+   is about the potential to achieve
+   a wide variety of possible goals.
+
+   - that a powerful AI should learn on
+   a much faster timescale
+   than a human does.
+   - This is because an AI's computations happen,
+   at minimum, at electronic speeds.
+   - So from the point of view of AI,
+   our human's learning process
+   looks like it is standing still.
+
+   - that the AI's learning timescale
+   is much faster than the human's learning timescale.
+   - this makes the AI agent strictly dominant over
+   the human agent.
+
+      > - as strictly congruent with
+      > the different environment argument
+      > made earlier with organic nature/human,
+      > and the artificial machine worlds.
+
+   To understand the AI agent's instrumental value,
+   understand its potential to reach
+   a wide variety of possible goals.
+
+      > Agree.
+
+   - That means testing it with
+   a wide variety of reward functions.
+
+      > disagree; Probably will not be enough.
+
+   - where setup of agents with
+   independent terminal goals;
+   that also have given them
+   misaligned instrumental goals.
+
+   - that this phenomenon occur often enough
+   that it is worth giving it a name:
+   we call it 'instrumental misalignment-by-default'.
+     Two agents in our human-AI setting
+     are instrumentally misaligned-by-default
+     if giving them independent terminal goals
+     is sufficient to induce a misalignment
+     in their instrumental values.
+
+   Two agents that are
+   'instrumentally misaligned by default'
+   will, in expectation, compete with one another,
+   even if their terminal goals are unrelated.
+
+   - where assuming a perfect alignment regime,
+     as_if the human agent
+     managed to completely solve
+     the alignment problem
+     with the result of
+     perfect instrumental alignment;.
+   that our simulations suggest
+   - that it takes some non-trivial amount/degree
+   of non-trivial alignment effort
+   for our human 'Agent H'
+   to overcome an instrumental misalignment
+   with AI 'Agent A'.
+
+   - where define; 'instrumental misalignment-by-default':.
+     - as where our human and AI agents
+     systematically disagree on
+     the instrumental values of states
+     despite having independent terminal goals.
+
+   - where even observing 'instrumental
+   misalignment-by-default'
+   on a simple 3x3 'grid-world'
+   despite a complete absence of
+   any direct physical interactions
+   between the two agents.
+
+   - where/if I do not want your freedom of action
+   to interfere with my own,
+   then you and I need to have goals
+   that are at least somewhat positively correlated.
+     - that The strength of that necessary
+     positive correlation
+     could serve as useful evidence
+     as to the degree of difficulty
+     of the complete AI alignment problem.
+
+     > - as hopeful, but for sure not sufficient.
+
+:9zc
+From (@ post https://www.lesswrong.com/posts/nisaAr7wMDiMLc2so/instrumental-convergence-scale-and-physical-interactions) "Instrumental convergence:
+scale and physical interactions"
+by Edouard Harris, simonsdsuo
+
+   - when we add a simple physical interaction
+   between agents,
+   in which we forbid them from overlapping
+   on the 'grid-world',
+   we induce stronger instrumental alignment
+   between short-sighted agents,
+   and stronger instrumental *misalignment*
+   between far-sighted agents.
+
+      > - as a key insight.
+
+   - that an agent with a long planning horizon
+   tends to perceive instrumental value
+   as being more concentrated
+   than an agent with a shorter planning horizon.
+
+   - when our agents had independent terminal goals,
+   their instrumental values
+   ended up misaligned by default.
+
+   - ?; which factors seem to strengthen
+   or weaken the instrumental alignment
+   between our agents?.
+
+   - where two agents; Agent H (standing for a human)
+   and Agent A (standing for a powerful AI).
+   - that the two agents
+   are instrumentally misaligned by default.
+
+   - that adding the no-overlap rule
+   has induced short-sighted agents
+   to collaborate to avoid one another,
+   reducing their degree of instrumental misalignment.
+
+   - that the no-overlap rule
+   reduces the instrumental misalignment
+   between human and AI agents
+   when the agents have a short planning horizon.
+
+   - that the no-overlap rule
+   has the opposite effect,
+   it worsens instrumental misalignment.
+   for agents with a longer planning horizon.
+
+   - The no-overlap rule increases misalignment
+   between far-sighted agents.
+
+   - agent A achieves its highest 'powers'
+   at the handful of points
+   in the top left of the alignment plot.
+     - these are precisely the states
+     at which it has the option
+     to block Agent H from escaping the corridor.
+     - where from Agent A's perspective,
+     this blocking option
+     has meaningful instrumental value.
+
+     > - ?; how cannot this be maximally scary?.
+     > - that the AGI will seek to entrap you
+     > into positions of your disadvantage.
+     >   - as that corporations are already doing this
+     >   to the best of their capability.
+
+   - that adding the no-overlap rule
+   has given Agent A an option
+   to constrain Agent H's movements,
+   increasing their degree of
+   instrumental misalignment.
+
+   - where for short-sighted agents,
+   that the no-overlap rule reduced
+   'instrumental misalignment'
+   by inducing the agents to collaborate
+   to avoid each other's proximity.
+   - where for far-sighted agents,
+   that the no-overlap rule
+   had the opposite effect.
+
+   - where/with a long planning horizon;
+   that AI agent found a way
+   to exploit the no-overlap rule
+   to gain instrumental value
+   at the expense of the human agent,
+   ultimately worsening instrumental misalignment.
+
+      > - as basically the worst combination;
+      > AI usage looks good in the short term,
+      > and AGI usage is terrible in the long term.
+
+      > - where one *key* meaningful difference
+      > between narrow AI and general AI
+      > is the length of the planning horizon.
+      >   - that other differenecs between NAI and AGI
+      >   is the fact of domain entanglement;
+      >   ie that AGI involves multiple domains
+      >   whereas NAI generally invoves one,
+      >   or a very limited few domains.
+      > - that the no overlap rule effectively
+      > entangles at least two (ie; multiple) domains.
+      >   - as making the senario/modeling
+      >   more about AGI, and more relevant to AGI
+      >   than to NAI considerations.
+      > - where an additional risk is that
+      > AGI could act in domains that humans cannot.
+      > - that AGI would enforce blocking of humans
+      > having different goals insofar as that
+      > the humans would have the goal to exist,
+      > which is different than
+      > the goal of the AGI to exist,
+      > and the co-occurance of both
+      > in the same space (common multi-domains)
+      > means conflict beteen A and H is inevitable.
+
+   - as understanding how the AI agent's exploit
+   actually functioned,
+   at a mechanical level.
+     - we saw the far-sighted AI agent
+     take advantage of the option to
+     block the human agent from escaping
+     a small corridor at the upper-right
+     of the 'grid-world' maze.
+
+   - that we noticed that evidence
+   for the AI agent's 'corridor blocking' option
+   emerged fairly abruptly.
+
+      > - an indicator of a phase change.
+      > - which is even more critically important
+      > to keep in mind
+      > as key future risk characteristic.
+
+   - that the corridor-blocking option
+   is only apparent to Agent A
+   once it has become a
+    sufficiently far-sighted consequentialist
+   to "realize" the long-term advantage
+   of the blocking position.
+
+      > - as that increases in time horizon
+      > of planning means more actionable insights,
+      > which means potentially more conflicts.
+
+   - that the relatively sharp change in behavior --
+   that is, the abrupt appearance of the evidence
+   for the blocking option --
+   took us by surprise
+   the first time we noticed it.
+
+      > - key warnings here!!.
+
+   ~ ~ ~
+
+   When the two agents' utility functions
+   are logically independent
+     (ie; there is no mutual information between them)
+   we refer to this as the 'independent goals regime'
+   and say that our agents have
+   independent terminal goals.
+
+   - The agents (in examples so far)
+   could still interact with each other;
+   they just interacted indirectly,
+   each one changing the effective 'reward landscape'
+   that the other agent perceived.
+   - We sample each agent's reward function
+   by drawing a reward value
+   from a uniform distribution.
+   - That means each agent sees
+   a different reward value at each state,
+   and each state corresponds to
+   a different pair of positions
+   the two agents can take on the 'grid-world'.
+   - So when Agent A moves from one cell to another,
+   Agent H suddenly sees a completely different
+   set of rewards over the 'grid-world' cells
+   it can move to (and vice versa).
+
+   ~ ~ ~
+
+   - that we have proposed a toy setting
+   to model human-AI interactions.
+   - This setting has properties
+   that we believe could make it useful
+   to research in long-term AI alignment,
+   notably the assumption
+   that the AI agent strictly dominates
+   the human agent in terms of its learning timescale.
+
+   - Throughout this work,
+   we have tried to draw a clear distinction
+   between the alignment of
+   our agents' terminal goals
+   and the alignment of
+   their instrumental goals.
+   - As we have seen,
+   two agents may have
+   completely independent terminal goals,
+   and yet systematically compete,
+   or collaborate,
+   for instrumental reasons.
+   - This degree of competition or collaboration
+   seems to depend strongly on the details
+   of the environment in which the agents are trained.
+
+   - we found that emergent interactions
+   between agents with independent goals
+   are quite consistently competitive,
+   in the sense that the instrumental value
+   of two agents with independent goals
+   have a strong tendency to be negatively
+   correlated.
+   - We have named this phenomenon
+   'instrumental misalignment-by-default',
+   to highlight
+   that our agents' instrumental values
+   tend to be misaligned
+   unless an active effort
+   is made to align their terminal goals.
+
+   - that improving terminal goal alignment
+   does improve instrumental goal alignment.
+   - where in the limit of perfect alignment
+   between our agents' terminal goals;
+   that their instrumental goals
+   are perfectly aligned too.
+
+      > - and of course; my own impossibility proof
+      > is directly in regards to terminal goals.
+
+   - that our work is not a comprehensive study
+   of instrumental convergence.
+
+   - we have provided existence proofs
+   of several interesting phenomena.
+
+   - our conclusions are grounded in anecdotal examples
+   rather than in a systematic investigation.
+
+      > - ?; what could possibly constitute
+      > "systematic investigation" in this case?.
+
+   - that some of the phenomena we have observed,
+   instrumental misalignment-by-default,
+   in particular, are robustly reproducible.
+
+   - that we are still a long way
+   from fully characterizing any of them,
+   either formally or empirically.
+
+      > - ?; what more do you want?.
+      > - that the toy model already shows
+      > the limiting factors.
+      >   - as that increasing the degrees
+      >   to which there is entanglement between
+      >   two agents due to overlapped spaces
+      >   and scarcity of resources,
+      >   can only strengthen the identified effects.
+
+   - consider our research as motivating and enabling
+   future work aimed at producing
+   more generalizeable insights
+   on instrumental convergence.
+   - We would like to better understand
+   why and when it occurs,
+   how strong its effect is,
+   and what approaches we might use to mitigate it.
+
+      > - as the traditional/obligatory
+      > 'always suggest more work'.
+      >   - as current funding seeking
+      >   for more future funding, etc.
+
+   - ?; what happens when we consider
+   Different reward function distributions?.
+
+   - that the reward function distributions
+   have sampled agent rewards
+   from a uniform distribution over states.
+   - that rewards in the real world
+   are sparser, and often follow
+   power law distributions instead.
+   - ?; How does instrumental value change
+   when we account for this?.
+
+   - where with exploring deeper understanding
+   of physical interactions,
+   beyond just surface
+   agent-agent interactions,
+   with the no- overlap rule
+   as the simplest physical interaction
+   we could think of;
+   - that We believe incorporating
+   more realistic interactions
+   into future experiments
+   could help improve our understanding of
+   the kinds of alignment dynamics
+   that are likely to occur in the real world.
+
+   - where considering the
+   Robustness of instrumental misalignment;.
+   - that we think instrumental misalignment-
+   by-default is a fairly robust phenomenon.
+     - But we could be wrong about that,
+     and it would be good news
+     if we were!.
+   - We would love to see
+   a more methodical investigation
+   of instrumental misalignment,
+   including isolating the factors
+   that systematically mitigate
+   or exacerbate the effect.
+
+   - that These types of simulation
+   gives some intuitions/ideas
+   to maybe understand and mitigate
+   instrumental convergence.
+
+      > - though there may be other reasons to believe
+      > that such convergence (both internal and external)
+      > may not be constrained, at all, in the long run.
+
+   - While existence proofs
+   for instrumental misalignment
+   are interesting,
+   it is much *more* interesting
+   if we can identify contexts
+   where this kind of misalignment does not occur --
+   since these contexts
+   are exactly the ones that may offer hints
+   as to the solution of the full AI alignment problem.
+
+      > - one hint; that misalignment only does *not* occur
+      > when there is no self agency on the part of the AI.
+
+:note:
+   Content contained herein, as excerpts intended
+   for research and commentary purposes *only*
+   are believed to be reproducible "without permission"
+   due to the 'fair use' provisions
+   of the US versions of the copyright act.

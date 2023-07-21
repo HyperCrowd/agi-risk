@@ -1,0 +1,475 @@
+TITL:
+   *Academic of Industry?*
+   *Some reflections*
+   by Forrest Landry
+   Sept 7th, 2022.
+
+ABST:
+   - expressive of doubt that *any* form of institution
+   can do the things that actually matter,
+   so that others (and other institutions)
+   will not do the things
+   that are actually really dangerous
+   (that will end all persons/institutions).
+
+PREF:
+   - warning; content is "spicy"; and non-personal.
+
+TEXT:
+
+ - where remarks on content adapted from post at (@ link https://www.lesswrong.com/posts/4jFnquoHuoaTqdphu/ai-x-risk-reduction-why-i-chose-academia-over-industry).
+
+   > AI x-risk reduction: why I chose academia over industry
+   > by David Scott Krueger (formerly: capybaralet)
+
+   > - where listing the usual reasons for preferring industry:.
+   >   - 1; less non-research obligations.
+         - example; teaching, though that is a form of influence,
+         and a form of influence which increases/appreciates over time.
+   >   - 2; more resources.
+         - though the allocation those resources
+         are heavily shaped in favor of commercial profit making interests
+         (and are not shaped by what the researcher believes would be best,
+         most ethical, or most sane).
+
+:n8l
+   > - that AGI is expected to be built in industry
+   > (eg; by OpenAI, Google, or DeepMind).
+   > - where/if you're there;
+   > that you can influence the decision-making
+   > around development and deployment.
+
+     - as maybe not actually true.
+     - that 'being there' helps some,
+     yet the social forces involved in money/business/political
+     and social process (inequality increasing forces in general)
+     continue to operate,
+     and thus constrain significantly --
+     maybe to the point of actual uselessness/ineffectiveness --
+     whatever value that in person presence could have had.
+
+:nag
+   > A tenure track faculty position
+   > at a top-20 institution
+   > is higher status than
+   > a research scientist position.
+
+     - ie; that _X_ is higher status than 'Y'.
+
+     - that any argument or project
+     (ie; anything to do with AGI safety proofs)
+     that depends on any construct analogous to this
+     is very likely to fail.
+       - as having the outcome of that project
+       be based on an inherent instability
+       for which some significant fraction of the entire human race
+       has become significantly skillful at arbitrarily weaponizing
+       (for whatever ambient purpose, etc).
+
+:ne8
+   > Many academics find employees of big tech companies
+   > somewhat suspect.
+
+     - ie; that the people of _X_ institution/group
+     are viewed as somewhat suspect (by members of group/class 'Y') --
+     they have uncertain (possibly conflicted) motivations, etc.
+
+     - that this will be true for any _X_ and 'Y'
+     that are not identical.
+
+:ngq
+   > None of the tech companies
+   > has a sufficiently credible commitment
+   > to reducing AI x-risk
+   > (and knowing what steps to take to do that).
+
+     - $N; note; that there is a significant difference
+     between:.
+
+       - 1; 'having credibility'
+       that people believe you have/are _X_,
+       as a form of signaling;
+       and;.
+
+       - 2; 'having commitment' --
+       ie; actually intending to do _X_
+         (as willingness regardless of whether
+         there is also present the skill do do _X_,
+         and/or the presence/availability to do _X_,
+         as an adjacent possible to the actual);
+       and;.
+
+       - 3; 'actually (effectively/realistically)
+       doing/implementing _X_).
+         - as not only available, willing, and skillful,
+         but as actually committing resources to _X_
+         and ensuring that outcomes _X_ are real, exist,
+         are objectively consistent with intention _X_, etc.
+
+     - $Q; where/moreover; even if some institution manages
+     to establish @1 (which is a *lot* cheaper than @2,
+     which is itself orders of magnitude cheaper than @3);
+     that the mere fact of these cost differentials,
+     and the fact of their being a business institution
+     in the context of a multi-polar trap
+     on both monetary/resource, credibility/status/prestige,
+     and also on effectiveness/efficiency vectors,
+     (ie; competition for short to medium term gains
+     to shareholder investors, who could fiduciary sue, etc);
+     then/that/therefore establishing @3
+     is vanishingly unlikely in actual practice.
+       - that sub-chapter 'B' corporations
+       are only relevant in some jurisdictions,
+       and only help along a very limited number of
+       the vectors of influence already outlined.
+
+     - where/if anyone (*ever*) formally establishes
+     the impossibility of AGI safety (for humans/life);
+     that it is more than just "very unlikely"
+     that /anyone/, in any group or community
+     (any institution context; academic or business)
+     will know 'what steps to take' to 'ensure AGI safety'.
+       - $P; that the only step to take would be
+       to not develop or ever deploy AGI.
+       - as being significantly worse
+       than any form of 'gain of function' research
+       on deadly viruses.
+       - as a misguided concept/practice in principle,
+       regardless of how well you can claim "your lab"
+       can protect against accidental pathogen release.
+         - that there are so many labs, so many events,
+         that someone is going to mess up somewhere.
+
+       - that there is a significant difference between:.
+
+         - 1; procedures for the containment of a virus,
+         which is fairly (comparatively) simple
+           (though still very difficult to characterize
+           as to whether it has any given property
+           or collections of properties/functions)
+         and changes relatively/comparatively slowly
+         and which is non-agentic (non-teleological); and;.
+
+         - 2; the "containment" of an AGI,
+         which is comparatively complex,
+         is inherently impossible to characterize,
+           (ie; as having "safety" with respect to operators/owners,
+           and/or the entire reset of the human race,
+           life on planet, etc),
+         which can change internal state (intentions)
+         within a single moment (nanoseconds?),
+         and which is entirely agentic/teleological.
+
+       - where with respect to @P;
+       and where there is significant
+       (heavily marketed and misguided)
+       hype with respect to the purported "potential benefits" of AGI;
+       that implementing/suggesting any negative action,
+       as anything in the form of "let us not _X_",
+       where for any value of X,
+       will be seen as (socially/sexually/commercially) "weak",
+       and thus will be equivalent to 'social/career suicide'
+       for whomever happens to be unlucky enough
+       to actually have a coherent sense of internal ethics
+       and enough "autism spectrum characteristics"
+       to actually want to do/say 'the right thing'(tm) --
+       what is actually right for the world, for life,
+       rather than just what is right for themselves
+       (or their self chosen families, tribes, communities)
+       to win/profit/benefit locally,
+       regardless of whatever social rejection
+       that they may/likely encounter
+       through their 'adverse'/negative action.
+         - where already socially deviant/undesirable;
+         that there is simply not that much more to loose.
+
+       - moreover and where and even especially among
+       people who have such 'autism spectrum characteristics'
+       (and engineering, math, comp-sci puzzle solving types)
+       that there is a likelihood that,
+       where given any claim of "_X_ is impossible";
+       that they will be internally sufficiently motivated
+       to continue to secretly work on doing _X_,
+       if for no other reason than
+       that someone claimed that it was impossible.
+
+       - that therefore; nearly all classes of people
+       are unlikely to actually do "non action _X_".
+
+       - where with respect to @Q;
+       that people/groups are likely to
+       emphasize/do 'having credibility'
+       (virtualized virtue signaling/whitewashing)
+       strongly over 'having commitment'
+         (which is still a virtuality, not an actuality/practice)
+       rather than to implement 'actually (effectively/realistically)
+       doing not-_X_' equals not-AGI.
+
+:nny
+   > Tech companies don't support many forms of outspoken advocacy.
+
+       - ie; an example of the two masters problem --
+       cannot be effective (focused) at both _X_ and _Y_
+       at the same time.
+       - that "not doing _X_" cannot be not part
+       of their (positive action) business model.
+
+:nrs
+   > Tech companies are unlikely to support
+   > governance efforts that threaten their core business model.
+
+       ...but they will *pretend* to support those efforts,
+       or worse, actually support those sorts of efforts
+       that advantage them (as larger incumbent actors/players)
+       over any smaller, newer entrants.
+         - that the filing onerous and extensive compliance paperwork
+         ensures that smaller entities are attritioned out of existence,
+         (where at smaller numbers (less than unity and break even);
+         additive effects are stronger than multiplicative effects;
+         whereas at greater scales (established institutional entities)
+         that multiplicative effects (and exponential effects)
+         are *very* (very) much larger than any additive effects.
+           - as that large entities can process
+           amounts of compliance regulation
+           that would put all smaller entities
+           out of business/existence.
+
+         - that large entities will therefore support regulation
+         to which they know that they can comply with --
+         or which is complex enough that they can create
+         whatever level of confusion/complexity is needed
+         so as to simulate "effective compliance",
+         while still actually violating the spirit of the regulation
+         (why anyone else cared about it in the 1st place),
+         while at the same time, smaller entities
+         will not attempt to have their filings be more complex
+         (since to them complexity is a cost center,
+         rather than a strategic/tactical advantage),
+         and hence:.
+
+           - 1; government regulators/inspectors
+           will more likely adversely audit simpler
+           and less complex applications
+             (so as to show that they 'have something to do',
+             are not valueless, are doing their job, etc);
+           then they are likely to do anything adverse
+           with more complex filings.
+             - where/since simpler and more obvious inspector actions
+             have much better social signaling value
+             (to the ambient observing public;
+             and their bosses, politicians, congress, etc)
+             than inspector/regulator actions
+             with respect to complex compliance filings
+             (less understandable to anyone not already specialist,
+             and hence less value for social signaling
+             as to the need/benefit of compliance process costs.
+
+           - 2; there is a strong net benefit for larger
+           institutions to treat the costs of filing complex
+           compliance paperwork as a "moat",
+           and that therefore, they will want the regulations
+           posed by whatever local/national government
+           to be appropriately byzantine/expensive.
+             - as seeming to be useful/valuable
+             to/towards "protecting the public",
+             but really as yet another vehicle
+             redistributing wealth (that every change
+             is creating of winners and losers,
+             and bigger winners are still more likely to win,
+             and so therefore, generally favor changes).
+
+:nyn
+     - where similarly as with @N;
+     - that there is a significant difference
+     between:.
+
+       - 1; proposing regulation which seems 'credible',
+       which merely _looks_like_ it is "in the public good"
+       (while actually either being either
+       actually ineffective
+       at protecting the lands and public from harm; or;
+       actually about ambient indirect resource redistribution
+       among whatever entities/players are in the working space).
+         - as regulation that is:.
+           - more about signaling goodness,
+           (than about actually being good for purpose/people).
+           - more about some other (obscure) intention.
+             - as actually/maybe being about something else.
+
+       - 2; actual 'commitment'/'intention' to do real good
+       in the world about (potentially real/serious) AGI hazards/harms.
+         - as willingness regardless of whether
+         there is also present the skill
+         do do write appropriate for purpose legislation/regulation
+         and/or the presence/availability/status/clout
+         to get such new proposed laws passed
+         (in any way that remains effective/integral to purpose,
+         and not entangled/bundled with some other aspects
+         that are even more obviously also maybe harmful
+         in some other way (clickable by sound-byte),
+         causing the overworked reviewers (or their aids)
+         to simply vote against (simpler to reject,
+         than to actually disentangle,
+         which is time consuming,
+         politically and socially risky
+         and hugely expensive (in one fashion or another).
+
+       - 3; 'actually (effectively/realistically)
+       doing/implementing (or not-doing/preventing)
+       (potential/future) harmful AGI research/deployments.
+         - who is actually committing resources to _X_
+         and ensuring that outcomes (or non-outcomes) are real,
+         exist, are obvious and objectively consistent
+         with good intentions, sensibility to the public, etc.
+
+         - ?; did anyone think to try to pass
+         at an international level, in a time of war,
+         non-proliferation treaties of nuclear tech,
+         on behalf of the general welfare of the planet,
+         regardless of how impactful
+         thousands of years of radioactivity might be
+         for the future children of the planet,
+         when at the time, before the Trinity Test,
+         that no one aside from a few specialists
+         had any real idea of what future hazards
+         were actually involved?.
+         - ?; why would we expect that the government
+         would be better at this sort of action
+         this time around?.
+         - ?; is there any real sense that anyone
+         in any large political social driven climate
+         could actually sanely advocate for any notion of
+         the Precautionary Principle?.
+
+:p7j
+   > I think radical governance solutions are likely necessary,
+   > and that political activism
+   > in alliance with critics of big tech
+   > is likely necessary as well.
+
+     - ?; what else can we do?.
+
+:p9e
+   > Tenure provides much better job security
+   > than employment at tech companies.
+
+     - 1; ?; what does "job security" matter
+     if the entire social system (capitalism/commercialism)
+     is becoming inherently/inevitably destabilized
+     by its own inexorable internal forces?.
+       - ?; what is the notion of "security" when working
+       with forces which are inherently/inexorably unsafe?
+         - ie, the miss-aligned and unsafe agentic effects of AGI,
+         as manifest as its own (multiple!) categories(!) of x-risk.
+
+     - 2; ?; how is 'working for an academic institution'
+     not also a form of employment at "big-co" --
+     one which just happens to specialize in "education"?.
+       - as something still mostly similar to, and based on,
+       the Prussian Military Model of General Obedience.
+
+:pbl
+   > ...confident in very short timelines...
+   > I'm also quite pessimistic
+   > about our chances for success [and survival]
+   > if [AGI development] timelines are that short.
+   > hope that we're lucky enough
+   > to live in a world where AGI
+   > is at least a decade away.
+
+     - ?; how many miracles, aside from
+     the miracle within the miraculous within the miraculous,
+     that is already life and consciousnesses,
+     is it legitimate to expect?.
+       - oh; and we also, all of us reading this,
+       get to live at the time of the most exciting
+       and interesting changes ever to befall humanity?.
+       - ?; how does 'Bayesian Reasoning' account for that?.
+
+     - where/with the abundance of tech and resources;.
+     - that we have already been far more "lucky",
+     and successful as a species,
+     than we have any "right"/entitlement to expect,
+     and that/therefore there is more likely than ever
+     for there to be a major "Fermi Paradox Adjustment"
+     in our future.
+     - that we will need to get very much wiser
+     in both our personal, interpersonal, and group choices,
+     if our species/world is to have any real chance
+     in the long term (think hundreds to thousands of years).
+       - that on this timescale,
+       considerations of AGI safety
+       take on a very different character
+       than anything involving 'decades' and 'luck'.
+
+:pd6
+   > Do you expect the research you do
+   > to be your main source of impact?
+   > Or do you think your influence on others
+   > will have a bigger impact?
+
+     - as really at least four options:.
+
+       - 1; 'actually work on the thing itself'.
+         - ie; no virtue signaling;
+         and there is the assumption
+         that 'the thing itself' (safe AGI)
+         is even possible.
+
+       - 2; 'influence others to work on the thing'
+       (and maybe they will do it,
+       or maybe they will themselves,
+       "pass the buck", and follow the given social example,
+       and also try to get yet others to do 'the thing').
+         - as being all about abstract virtual signaling.
+         - as a kind of potential 'social Ponzi scheme'
+         where earlier people get prestige by getting
+         other people to get and given them prestige,
+         for recommending that someone somewhere (eventually)
+         do the good thing.
+
+       - 3; 'actually work on proving
+       that the thing itself (safe AGI)
+       is actually/fundamentally impossible',
+       (regardless of manifestation, method, etc).
+         - ie; no virtue signaling --
+         as actually a kind of anti-virtue signaling.
+         - as making/having no unreasonable priors
+         of assumptions of viability/benefit,
+         regardless of the levels of ambient hype.
+
+       - 4; 'influence others to *not* work on the thing'.
+       (and somehow enforce that,
+       and somehow solve the associated multi-polar trap
+       (ie; via external incentives,
+       not to mention the also perverse internal incentives
+       that also tend to especially apply to
+       the sorts of people who are the most affected
+       by the injunction to not act)
+       and replace the needed/expected (hoped for) benefits
+       with something else that is also realistic/viable,
+       having to convince them of the actual viability/need
+       of the (unfashionable overlooked un-sexy) alternative).
+         - as very strong self personal anti-virtue signaling,
+         while still remaining humble and practical
+         in the face of significant expectations
+         of adverse social isolation.
+
+     - where unfortunately; it seems that some combination
+     of @3 and @4 are what is actually 'the right action'.
+
+:pfn
+   > if someone has a model of how [their work]
+   > will substantially reduce x-risk...
+   > if someone has a well-examined belief
+   > that their counter-factual impact is large...
+
+     - ?; what if someone has a definite unambiguous model
+     for how there (inherently) can be no possible way
+     to "reduce" (ie, not have completed) AGI x-risk?.
+       - ie; that there is no possibility of "reduce"
+       from the complete catastrophic
+       to something manageable,
+       rather than the usual tacit (wrong) assumption of
+       "reduce the risk to the point of
+       (maybe) general usability/benefit (to at least someone)".

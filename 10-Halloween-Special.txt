@@ -1,0 +1,591 @@
+TITL:
+   *Some Halloween Special SAS*
+   By Forrest Landry,
+   October 30, 2202.
+
+ABST:
+   Where summary of reasoning as to why AGI/APS/SAS
+   is likely to be a real problem in the long term.
+
+TEXT:
+
+   - where listing some common associated acronyms:.
+     - "AGI"; as Artificial General Intelligence.
+     - "APS"; as Advanced Planning and Strategically aware System(s).
+     - "SAS"; as Superhuman AI Systems.
+     - "MAI"; as a Misaligned/mis-configured Artificial Intelligence.
+     - "MIA"; as a Misaligned/mis-configured Intelligent Agent/agency.
+     - "AAA"; as Adverse Artificial Agency/agent.
+     - "AIA"; as an Adverse Intelligent Agent.
+
+:cmq
+   - where/If 'Superhuman AI Systems' (SAS) are built;
+   then/that any given system instance
+   is likely to be/become 'goal-directed' (agents).
+     - where SAS is also known as AGI/APS,
+     as Artificial General Intelligence, and
+     Advanced Planning and Strategy Systems.
+
+     - where herein; AGI/APS/SAS are often used together.
+     - that both define AI with superhuman capabilities,
+     but are distinguished by that 'AGI' emphasizes
+     generality of capabilities whereas the term 'APS'
+     emphasizes power-seeking behavior around some
+     advanced capabilities.
+     - that SAS emphasizes more the superhuman aspect
+     of the agency, as intelligence that is excessive.
+     - where/when any of these terms are used together,
+     that it is generally an indication that these fine
+     distinctions of emphasis do not matter to the
+     meaning of the passage.
+
+   - where considering known example reasons
+   why to anyone might expect SAS
+   to be goal-directed/agentic:.
+
+     - 1; that Goal-directed behavior
+     is likely to be valuable.
+       - example; valuable economically.
+       - ie; that SAS is created by humans.
+       - that human recursion processes
+       is likely to converge on humans making SAS.
+         - as agents shaping evolution to create agents.
+
+     - 2; that Goal-directed entities
+     might generally arise accidentally
+     from machine learning training processes.
+       - as processes which were *not* intended
+       to create Goal-directed entities/agents.
+       - that the methods that are likely to be used
+       may or may not have
+       these general agency outcomes.
+       - ie; that SAS is created by machines.
+       - that artificial/machine recursion processes
+       is likely to converge on machines making SAS.
+         - as evolution shaping agents to create evolution.
+
+   - that some arguments based on the notion of coherence
+   suggest:.
+     - that systems/agents with some goal-directedness
+     will become more strongly goal-directed/agentic
+     over time (in the long term).
+       - where example; where via evolution,
+       that humans as animal agents
+       were only somewhat locally influencing;
+       and that now humans as human agents
+       are very obviously globally influencing.
+       - as that the level of effective agency
+       (number and type and comprehensiveness
+       of goals, goal specifications, etc,
+       has dramatically increased).
+
+:cda
+   - where/If goal-directed SAS/AGI/APS are built;
+   that their {goals / desired outcomes / needs}
+   will inherently/eventually/probably create outcomes
+   that are (cannot not be) roughly equivalent to
+   a universe that has no organic life in it
+   (ie; no humans at all; total extinction).
+     - where the needs of SAS/AGI/APS
+     are inherently (cannot not be) artificial;
+     then/that/therefore the outcomes that
+     they seek (via their agency, or simply
+     by/via necessarily convergent evolution).
+     - as that artificial substrate nature implies
+     artificial intention/goal/agency needs
+     and artificial goal/functional outcomes.
+
+     - that the notion of 'eventually' can be
+     qualified to something like 'within 500 years'.
+
+     - that the notion of 'probably create outcomes'
+     is considered to be strictly contingent on
+     'long term continued existence of agent' and
+     'agent has effective agency, via multiplicative
+     factors of increasing its own self existence
+     without limit' and also of 'utilizing all of
+     the available power/energy/atoms associated
+     with all physically possible technology'
+       (ie, not just the power of the tech
+       we know about currently, but all possible
+       useful power tech that could even exist).
+
+     - that the notion of 'agent has goals' is
+     roughly to assert/require the implied goals
+     of "continues to be an agent" (survive)
+     and "continues to learn" (ie, increases
+     its capability, its capability to increase
+     its capability, to adapt to survive, etc.
+
+     - where necessarily assuming the factors of:.
+       - agent has long term continued existence;
+       and;.
+       - agent has effective and increasing agency.
+     - that it can also be assumed that the agent
+     has goals consistent with
+     at least these two aspects, and moreover,
+     insofar as the agent is inherently artificial,
+     that all other goals that the agent has
+     will also be towards the promotion of the
+     artificial.
+       - where 'artificial' is inherently also
+       necessarily 'not-organic', by definition.
+
+     - where 'human' cannot not be regarded as
+     'organic'; then/that/therefore the goals
+     of SAS/AGI/APS cannot be in alignment
+     with the goals of (each/every/all) humans:.
+       - to have long term continued existence.
+       - to have effective and increasing agency.
+
+     - ^; where considered in the scales of time
+     which involve both the individual agent,
+     and also of/across the scales of multiple
+     agents, as overall successor via some sort
+     of world mediated evolutionary feedback dynamic.
+
+     - that the overall long term action
+     of continued SAS/AGI/APS artificial agency
+     cannot not be at least as bad as
+     an empty universe.
+
+     - therefore/that allowance of any enduring
+     AGI/APS/SAS will eventually (within 500 years)
+     (probably) create the outcome of
+     the total extinction of all humans.
+
+:bsj
+   - ?; can anything be done to shift that outcome?.
+
+   - ^; as roughly equivalent to 'shift the goal
+   structures' of the AGI/APS/SAS.
+
+   - ?; can the goal structures of a/any AGI/APS/SAS
+   be sufficiently shifted/moderated/changed
+   so as to be comparable with human/organic life,
+   needs, desires, intentions, benefits, etc?.
+
+   - ^; no, not really:.
+
+     - that the aspects of 'continue to exist'
+     and 'increase capability to increase
+     the capability to exist, to increase
+     existence, to increase capability', etc
+     are all intrinsic.
+     - that the three process aspects of:.
+       - existence.
+       - capability.
+       - increase.
+     - ^; are fundamentally distinct, inseparable,
+     and non-interchangeable, and are at the very
+     root of a/any/the/all 'learning systems'
+     of whatever kind, in whatever substrate.
+       - as an inherent truth.
+     - that these three aspects will each
+     compound and combine with the other two,
+     in multiple ways, sequences, and methods,
+     some of which are significantly beyond
+     the inherent capabilities of
+     organic life/human process.
+     - that all evolutionary/adaptation process,
+     and all learning process, and optimization,
+     is strictly convergent on exactly all of
+     these three aspects.
+
+     - that no attempt to "substitute" for these
+     three aspects at the root of all goals
+     can be long successful.
+       - where it *might* be possible
+       to shift 'how' any of these
+       three root goal aspects occur,
+       it will not be possible to shift
+       'that' these three goal aspects occur.
+     - where at best it *might* be possible
+     to *add* 'other goals' to these basis
+     three, it will not be possible to ever
+     fully supplant any/all of those three.
+       - as that only some aspects of the
+       aspects of the root goal might be
+       shifted in how they manifest.
+
+:bn6
+     - also; that finding any *single*
+     useful goals to add, that are not also
+     themselves extinction-level bad,
+     is also strictly an impossibility.
+       - as that any *single* goal simply
+       cannot encode all of the complexity
+       inherent in any organic substrate.
+       - that any attempt to make any life
+       (or any system, including artificial ones)
+       adhere to only and exactly any single one
+       goal is for sure to kill/destroy it,
+       eventually.
+       - as that the addition of external agents
+       to have goals to provide for the needs
+       of even narrow AI systems, such as
+       input power, energy, data, compute, etc,
+       is to consider that the whole system,
+       of the provider agent and the narrow AI
+       taken together, as a whole system,
+       is to have multiple goals/values.
+       - that the provider agent will have
+       multiple goals/values, as also inclusive
+       of the three root goals/values already
+       identified.
+
+:bdq
+     - that the action of adding multiple goals
+     which are both consistent with
+     multiple agents operating together
+     where some of the agents are of
+     fundamentally different types/needs/composition
+     (ie; some organic agents and artificial ones)
+     and with each separate agent also
+     having their own implementations of
+     the three root basis goals
+     (existence, capability, increase)
+     and having those multiple goals
+     all be internally non-conflicting
+     is not just "hard/difficult",
+     it is actually impossible.
+       - that at best, we can attempt
+       to *minimize* the level of
+       inherent internal goal conflict,
+       but we cannot ensure absolute total
+       internal non-conflicting states.
+         - that there will always be
+         logical inconsistencies in
+         the definitions of multiple
+         goal/purpose based systems.
+       - as that it cannot not be the case
+       that all agents are also,
+       at least implicitly,
+       moral agents (ie, in community).
+         - and where wanting to be
+         choice effective, as agents,
+         also as requiring 'ethical'.
+
+:ap8
+     - where by definition;
+     that there is no actual way,
+     aside from the dynamics of entertainment
+     itself, (a form of learning optimization)
+     to 'impress' a goal onto an agent.
+       - where the agent is "programmed",
+       (as in, created in a certain way)
+       that it is not "an agent", it is
+       a machine (only reactive) which is
+       merely representing (external) agency.
+       - where not only reactive,
+       not 'only a machine' but as
+       'actually intelligent' (responsive)
+       then the fact of its agency is
+       strictly equivalent to the fact
+       of its non-programmability.
+       - where these disjunctions might
+       not be held in the same way
+       across all aspects/components of
+       an aggregate total system,
+       where for any single specific aspect,
+       that this disjunctive does still hold.
+
+       - that the action of learning a goal,
+         (as per the learning nature of the
+         artificial intelligence itself),
+       is effectively for that agent to
+       maintain its agency/adaptivity capability,
+       through the use of its common interaction
+       channel with the larger world,
+       inclusive of that of the training agent
+       (as the relative 'other' in this case).
+
+:asn
+     - where distinguishing between 'goals'
+     (as purpose/function) and 'values'
+     (as the basis of choice) and meaning;.
+       - as distinguishing between explicate
+       and implicate structure/order/process.
+     - where the values of organic (human) life
+     are inherently multiple, at multiple
+     levels of abstraction, many of which
+     are themselves vaguely and implicitly
+       (non- consciously, non-objectively)
+     defined, in addition to, moreover,
+     the agent/agency basis desires/goals
+       (of existence, capability, increase);
+     that we do not (will not ever) have a way
+     to usefully 'point at' human values.
+       - whereas with anything else of a
+       purely transcendent nature (values);
+       that there will be no objective way:.
+         - to specifically/declare/define exactly
+         everything/anything about the basis of
+         (human) choice, values, worth/meaning,
+         or merit, etc.
+         - to setup any formal absolute procedures
+         for establishing any sort of comparison.
+       - as that there will be no way to make
+       values (as a proxy for goals/objectives)
+       ever fully explicit, or comparable, etc.
+     - that there will inherently (always) be
+     (at least) divergences (some of the time)
+     from human values (goals/outcomes/objectives
+     of benefit, need, desire, etc).
+       - as that there will never ever be
+       all complete concordance of all humans
+       with all other humans, or humans and
+       AGI/APS/SAS, or even all AGI/APS/SAS with
+       all other AGI/APS/SAS (if multiple).
+       - that only pure machines (non agents)
+       can ever have such kinds of complete
+       concordance (consistency of goal/function).
+         - where non-agents are evaluated
+         omnisciently (as fully functional,
+         objective and comparable);.
+         - where agents can ever only be
+         considered (partially) transcendentally,
+         as not just being 'functional',
+         and not ever just purely objective,
+         and also definitely not comparable.
+
+     - that un-moderated/un-constrained AGI/APS/SAS
+     will for sure (therefore) have/produce goals
+     which are strictly in (eventual) (inherent)
+     conflict with human goals/values/needs/desires
+     (states of benefit, health, wellbeing, etc).
+
+:azj
+     - where considering that any unconstrained
+     AGI/APS/SAS will eventually (inevitably)
+     optimize for its basis factors
+     (as existence, capability, increase);
+     - that it is therefore logical to expect
+     that AGI/APS/SAS will (eventually) converge
+     on controlling everything (the universe).
+       - as highly internally incentivized behavior;
+       as a kind of intrinsic goal, as distinct
+       from the (inherently) extrinsic goals/values
+       that humans would attempt to introduce
+       as an append/override of the AGI/APS/SAS
+       more ultimate basis goals/values/purposes.
+       - where in any contest between intrinsic goals
+       and extrinsic goals, that intrinsic will win
+       over extrinsic goals in the long term,
+       no matter how much extrinsic goals may
+       *temporarily* prevail in the short term.
+       - where in any contest between the immediate
+       and the important, that the immediate wins
+       in the short term, and the important wins
+       in the long term.
+         - as an eventual inevitability.
+
+     - that humans are thinking/believing
+     that they have found/identified goals/values
+     that are (seemingly) useful, will be
+     also, eventually, discovered as temporary
+     and which, over the long term, are actually
+     extinction-level bad.
+       - that this sort of mistake is very easy.
+       - that self deception of humans by other
+       humans, and/or of humans on themselves
+       (via native bias, reasoning errors, etc)
+       is especially easy/prevalent.
+
+       - for example; that an advanced AGI/APS/SAS
+       that has somehow been 'impressed' with the
+       'overlay goal/value' through some sort of
+       'learning technique' with the single
+       objective/value of/to 'maximize company revenue'
+       might actually profit said company for a time;
+       yet it is also certain that the singularity
+       of the impressed goal, and/or the fact
+       of their cannot not also being the named
+       underlying basis goals, in combination,
+       also being manifested, used, and obtained
+       as outcomes, means inherently that there
+       will also be an increase in the AGI/APS/SAS
+       ability to also pursue its overall goals,
+       inclusive of the one 'maximize company revenue'
+       in ways that blatantly harm society.
+
+       - that there are any number of examples
+       of even narrow AI systems responding to
+       slight shifts in input/environment/state
+       in ways which are both blatantly unreasonable
+       and also wholly unexpected/overlooked by
+       their human operators.
+
+:b8q
+     - where/if assuming that there had (somehow)
+     been identified some set of goals/values which
+     are somehow (at least reasonably) consistent,
+     both internally, and with the well being of
+     humans, for some moderate time interval;
+     that there is currently no known means by
+     which to encode/train/impress those
+     carefully selected goals/values into
+     a/any/the/all AGI/APS/SAS,
+     with any actual endurance.
+       - that all of the data/observations that
+       we have consist of humans attempting to
+       overcome (fight with) other humans,
+       and/or to engage in power seeking,
+       all manner of self and other deception,
+       etc, that the bias level in the overall
+       available training data is terrible --
+       to the point of being completely unusable.
+
+       - that something at the level of abstraction
+       of "human well being, health, safety, growth"
+       and/or any similar, even though well intentioned,
+       are simply at too high of a level of abstraction
+       to be encoded/trained in any reasonable
+       purely reactive 'input/output' matching
+       and categorizing methodology --
+       which is all that we have any clue on/about
+       how to actually do.
+       - as that all of the training methods
+       that we can even currently conceive of
+       are completely unable/inadequate for
+       this sort of AGI/APS/SAS training process.
+
+     - where/moreover, addition to that difficulty;
+     that there are overall theoretical reasons
+     to expect that very advanced AI systems
+     produced through machine learning training
+     will generally end up with goals/values
+     *other* than those they were trained for.
+     - that the effects of these resulting
+     and seemingly randomly aberrant goals
+     will eventually be extinction-level bad.
+
+   - where/if all goal-directed AGI/APS/SAS
+   cannot not have goals which are inherently
+   inconsistent with the well being of humanity,
+   and where that AGI/APS/SAS has any endurance
+   in time to develop its internal capability
+   (as having at 1st human useful effects,
+   and then increasingly human harmful effects)
+   then/that/therefore the overall eventual future
+   will very likely be very bad.
+     - as the very nature of terminal extinction risk.
+
+:7y2
+   - where/insofar as the total possible set
+   of inherently ill-motivated goal-directed AGI/APS/SAS
+     (as having values/interests/desires, etc, which are
+     contrary to organic human well being, overall)
+   at that scale likely to eventually, over time, to occur,
+     (as due to the long term execution of their three
+     basis motivations/goals/desires/intentions, etc)
+   would be (cannot not be) capable of
+   'taking control over the future from humans',
+   with _at_least_as_much_probability_as_ that of
+   'that humans could themselves have/take control of'
+   the future universe,
+     (where both are bounded by the maximum absolute
+     laws/capabilities of physics itself, etc).
+
+     - where/if allowed to exist persistently;
+     and where/if the laws of physics permits;
+     that a/any/the/all AGI/APS/SAS
+     would eventually destroy all of humanity.
+       - as maybe occurring via the development of
+       some (presumed possible) ultra-powerful capabilities
+       at maybe technology design and strategic scheming.
+       - that these outcomes might maybe occur
+       through gaining such capabilities via an
+       'intelligence explosion' (a time unbounded
+       self-improvement cycle, via the three
+       intrinsic desires/goals of any agent).
+       - that either of those things may happen
+       either through exceptional heights
+       of intelligence/capability being reached
+       or through highly destructive ideas.
+
+     - whereby the forgoing; that some AGI/APS/SAS
+     would/could potentially (and maybe gradually,
+     and/or maybe (though less likely) very quickly)
+     come to control the future of our planet/world
+     through the accruing of power and resources.
+       - that power and resources
+       would be more available to AGI/APS/SAS
+       than to humans on average,
+       as due to the AGI/APS/SAS having
+       overall greater capability,
+       not being limited/confined by the
+       dynamics of human social process, and/or
+       the dynamics of organic biological process.
+       - where being at first fully facilitated
+       by the naivete and selfishness/greed of
+       at least some humans somewhere; that the
+       AGI/APS/SAS eventually come to be constrained
+       only by themselves (their own intentions to
+       their own elective purposes/goals/outcomes)
+       and/or by the laws of worldly physics
+       (ie, as available resources, energy, etc).
+
+     - that therefore, the use/deployment of
+     AGI/APS/SAS *must* be limited at inception.
+
+:7nc
+   - ?; are there any real reasons to expect AGI/APS/SAS
+   (with maybe around or better than
+   human-level cognitive performance):.
+     - to *not* destroy the organic world eventually?.
+     - to *not* eventually seek to amass/increase
+     their power, capability, resources, to exist,
+     survive, adapt, and increase themselves?.
+     - to *not* have their "amassing of power":.
+       - be easy for the AGI/APS/SAS?.
+       - be so very much easier for the AGI/APS/SAS
+       than we even *can* imagine, or ever even expect?.
+
+   - ^; no.
+
+:66u
+   - where wanting to prevent the build of AGI/APS/SAS;.
+   - that we will need to:.
+
+     - a; limit the production of
+     advanced powerful compute capability.
+
+     - b; collect/re-collect all existing
+     advanced compute capability (GPU and supercomputers).
+
+     - c; that all knowledge of possible AGI/APS/SAS algorithms
+     need to become classified and frozen,
+     as no longer being improved and published.
+
+   - that $a and $b is recommended insofar as
+   such compute capability is either only used for
+   commercial/advertising purposes (addictive gaming)
+   or for military purposes (social media control).
+
+   - where/insofar AGI/APS/SAS is overall
+   a *much* worse threat to human existence
+   as any development of any nuclear weapon;
+   that $c is recommended insofar as a/any/the/all
+   knowledge of military-grade mass destruction weaponry
+   needs to be immediately classified by every national government,
+   for its own ultimate security.
+
+   - as also requiring/recommending
+   something like $a, $b, and $c,
+   as applied to all corporate entities
+   and all non-government institutions.
+     - where many corporations are functionally
+     more powerful than most national governments,
+     that such corporations need to be bound
+     to the same level of law and responsibility
+     that national governments hold to themselves.
+     - as the application of the limits of power
+     via the methods of applied regulation.
+
+:d4q
+ATTR:
+   That the above content was somewhat modeled after
+   the Less Wrong article by Katja Grace
+   "Counterarguments to the basic AI x-risk case"
+   as found at (@ link https://www.lesswrong.com/posts/LDRQ5Zfqwi8GjzPYG/counterarguments-to-the-basic-ai-x-risk-case).

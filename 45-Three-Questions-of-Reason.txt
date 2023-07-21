@@ -1,0 +1,507 @@
+TITL:
+   *Three Questions of Reason*
+   *By Forrest Landry*,
+   *Sept 28th, 2022*.
+
+ABST:
+   Answers to three adverse questions asked.
+
+TEXT:
+
+   > how do you figure out
+   > which of two optimization processes
+   > will win out?
+
+   In the general case,
+   for any arbitrary selected optimizations,
+   there is no single way to determine
+   which of two processes
+   is going to win.
+   The situation is roughly analogous to
+   trying to predict the outcome of a war.
+   You have two agentic forces
+   essentially competing to have some result,
+   some sort of outcome,
+   in the same space.
+   Insofar as the question is about
+   'one optimization process competing against another',
+   then effectively because of the shared space,
+   it is essentially the same question:
+   "How would you predict the outcome of a war?"
+
+   People can have all sorts of opinions
+   about what the outcome will be --
+   and usually testing in actual physics reality
+   will reveal something different
+   than expected.
+   In the general case,
+   anyone who thinks that they can predict
+   the outcome of a war
+   is nearly for sure deluding themselves.
+   if you are trying to solve it in a general way,
+   there is no single way to do that.
+
+   As such, to ask the question in that way
+   feels a bit like a kind of social entrapment --
+   for obviously it would be unreasonable
+   to ask for someone to suggest
+   that they are, in general, deluded.
+   Hence, it would be easy to dismiss
+   the arguments of an obviously unreasonable person.
+
+   However, in the specific case we are concerned with,
+   ie, the inter-relationship between the two
+   definite ecosystem types of silicon vs carbon,
+   then there are dynamics that can be applied
+   to distinguish one as favored over the other,
+   at least when thinking in "middle" timescales.
+
+   To suggest that the general case,
+   in general, cannot be solved
+   with any single technique,
+   is not to suggest
+   that at least some specific case
+   also cannot be solved.
+   As such, you can *sometimes* get *some* clarity
+   as to what is going to happen
+   in the short term, at least.
+
+   For the specific case
+   of looking at a silicon-based ecosystem
+   with internal optimization dynamics,
+   (favoring its own production/increase),
+   versus a carbon-based ecosystem
+   (with its internal optimization dynamics
+   and favoring of its own production/increase),
+   the question of outcome *can* be determined in advance.
+   This is because you can look at
+   the significant energy differentials
+   inherently relating the two environments
+   to each other.
+
+   By 'short term' or "middle time scales"
+   I am suggesting that --
+   "where over some smallish number of cycles"
+   of the ecosystem itself --
+   that there is a strict and obvious energy inequality
+   between the two of them
+   such that the optimization process
+   of one of them
+   is fundamentally disrupted
+   by the other.
+
+   Where looking at a situation of
+   a contest between two ecosystems
+   or between two warring parties,
+   or something structurally similar,
+   then the dynamic is going to be
+   one of attempting to determine
+   to what degree can one optimization process
+   (ie; the process of one ecosystem)
+   can/will undermine the other,
+   in addition to what optimization process
+   can just simply 'win out' over the other.
+
+   In effect, while in general,
+   that the outcome of any conflict
+   cannot be known for sure in advance,
+   it is generally a safe bet that,
+   in some contest of people on horseback
+   against a military willing to use tactical nukes,
+   that the nukes will probably win
+   (to some arbitrarily high confidence interval).
+   Ie, we can sometimes know the outcome
+   simply based on the sheer energy differentials,
+   not to mention destabilizing the basis
+   (ie; available oxygen for horses, etc,
+   for example),
+   that are actually involved.
+
+:jt8
+   > Is the proposer of the "no-AGI-safety proof"
+   > willing to be criticized
+   > and open to being wrong
+   > about AI safety impossibility
+   > or their attempted proof of that?
+
+   This is something of a forced choice.
+   Any answer other than "yes" would indicate
+   that there was no option for discussion,
+   and some sort of personal belief in infallibility --
+   on the part of the proof proposer/author,
+   and therefore of unreasonableness,
+   and that therefore,
+   given that the author was deemed unreasonable,
+   that any proposed proof would also be without reason,
+   or equivalently, logic,
+   and therefore could be discounted
+   without (prior to) any sort of review.
+
+   However, to ask a question like that,
+   particularly when considering a topic space
+   where nearly everyone involved has
+   *very* strong financial and prestige incentives
+   to discount the result,
+   is to provoke an awareness
+   that there is a significant difference
+   between 1; actually wanting to know the truth of something,
+   and 2; some political or rhetorical action
+   designed to maintain some social signaling position.
+
+   Given the very strong level of utopian idolatry
+   and the extreme level of expected benefit hype,
+   prestige, financial/economic shift gain/benefit, etc,
+   associated with the potential development of AGI,
+   there are participants in the conversation
+   who have every very strong motivations
+   to just be able to continue to suggest,
+   that some sort of 'safety protocol' could,
+   at least in theory, be implemented,
+   such as to allow a socially sanctioned excuse
+   for continued exploratory AGI development.
+   To actually engage with and understand
+   any sort of "no safety protocol possible" proof,
+   to the point of having to agree on
+   the basis of logical rigor alone,
+   is to enter into a kind of awareness
+   that requires prioritizing the actual truth
+   over ones own social and financial loyalties.
+
+   In actual fact, very few humans will actually
+   prioritize real truths over belongingness,
+   insofar as for most of our evolutionary history
+   such factual misalignments were usually either
+   inconsequential, or only locally consequential.
+   This is simply no longer the case
+   when considering actual existential risks,
+   where actually getting the right answer on the 1st try,
+   before any possible total catastrophe,
+   is fully and actually a real necessity.
+   Hence, given both evolutionary bias
+   strongly in favor of social signaling dynamics,
+   and the reality of their being very strong
+   adverse incentives against allowing anyone
+   to actually propose and present a "no safe AGI" proof,
+   it must be considered by any such author
+   that anyone that they are speaking to
+   could potentially be adversely incentivized --
+   ie, that there is a necessary prior expectation
+   of intellectual dishonesty on the part of
+   nearly any other conversational participant,
+   and that all efforts must be made to compensate
+   for that fact.
+
+   Therefore, while the answer is actually "yes",
+   in regards to collaborative truth review,
+   insofar as the author/proposer does think
+   that it is important
+   to get the right answer,
+   and that multiple people working towards truth
+   is more likely to find it than one working alone,
+   and to have clarity about what is essential,
+   it is also to be noticed that the "yes"
+   has to be qualified and stipulated a bit,
+   for the same ethical reasons
+   at the basis of the "yes".
+
+   Insofar as a conversational process
+   of new idea/concept presentation
+   is very highly weighted in favor of the recipient,
+   insofar as the presenter must, simultaneously,
+   be effective at:.
+
+     - 1; correctly, efficiently, and dynamically
+     presenting the material,
+     in some interesting and engaging way,
+     which also means;.
+
+     - 2; learning and knowing the audience/recipient,
+     and the common language/metaphors of the recipient
+     (where the recipient might not be trying that hard
+     to learn the language/metaphors/tools of the presenter);.
+
+     - 3; finding ways to adapt the presentation
+     to the language/skills/metaphors of the recipient
+     (where the recipient may have very strong tendencies
+     to use their own tools and methods of understanding,
+     regardless of whether there is a meta-assessment
+     of their appropriateness in context);.
+
+     - 4; maintaining good teacher skills
+     and good teacherly authority
+     (so that people continue to feel during the process
+     that they are not wasting their time);.
+
+     - 5; handling, and thinking through
+     (both logically and socially)
+     the implication of any questions
+     (since any mistakes made in the moment
+     will require much more effort later to fix,
+     and will either way have credibility costs);.
+
+     - 6; processing digressions, disagreements,
+     tangents, and diversions, while still maintaining
+     the overall coherency of the conversational process,
+     as directed towards the overall proof aims, etc
+     (particularly where there are meta disagreements about
+     "what constitutes proof", and "what is allowable" (or not)
+     in debate, whether the conversation is a debate,
+     what are the valid basis of fact, proof, etc, etc),
+     as well as;.
+
+     - 7; correctly detect if the recipient
+     is actually listening, learning, and/or integrating
+     the information, structural content of the proof, etc,
+     or if there are other (social or political) interests/processes
+     that are also going on;.
+
+     - 8; maintain awareness of the interests, motivations, incentives
+     and possible benefits that each participant may or may not have
+     while listening, or at least signaling that they are listening, etc.
+
+     - 9; managing their own and the emotions/uncertainty/discomforts
+     of the recipient, and/or any observers, their feelings/fears, etc,
+     whether explicitly expressed or implicitly present, etc.
+
+   Insofar as a failure to implement any one of the above aspects,
+   on the part of the author/presenter
+   is for sure equivalent to "a failure to convince",
+   then/that/therefore, none of these aspects are "optional" --
+   they are all forced actions for the presenter,
+   and are easily over-consuming the total available bandwidth
+   allocated to the presenter in any conversational process,
+   since so much must be done at once in any conversational action.
+
+   Meanwhile, in regards to the listener/recipient,
+   they retain complete freedom and flexibility of choice,
+   having no required actions or efforts of their own,
+   other than the good faith effort
+   to listen and seek to understand,
+   or to at least partially *seem*
+   to be doing these sorts of things.
+   Meanwhile, they might be actually seeking
+   to simply socially discredit the author (ad homenim)
+   so as to largely prevent anyone else --
+   anyone who also wants to seem important --
+   from actually listening/understanding the work.
+
+   For example, it is widely held
+   within conversational social process theory
+   that the person asking the questions is
+   "in control of the conversation"
+   and effectively "has all of the social power".
+   Ie, that by asking the right questions,
+   and leveraging the associated rhetoric
+   and group process, context, background, etc,
+   in subtle and careful ways
+   that the "listener" can define
+   whether anyone else will be willing
+   to align their own actions/choices/behavior (or not).
+   In effect, most of the degrees of freedom
+   in terms of how available conversational expressive bandwidth
+   is used by each party
+   conveys a very very different risk profile.
+
+   This high degree of social process action asymmetry
+   and the fact of there being a clear ethical demand
+   for there to be an actual seeking/understanding
+   of the actual truth of the matter
+   effectively requires
+   some form of process adjustment and remediation --
+   ie, to shift at least some of the process risk
+   so that the overall balance is more even
+   among all of the conversational participants --
+   ie, not just that the two parties "get equal time"
+   and "have equal access"
+   (a false standard optimal for manipulation).
+
+   Hence there is a stipulation that the "yes"
+   is to have review of the work
+   with the mutual aim
+   of establishing what is commonly knowable
+   about important topics (x-risk, safety, etc),
+   and not to simply implement some sort of setup
+   for some type of social discounting schema.
+   As such, it will be expected that questions
+   will be asked and received in writing,
+   in some sort of collaborative context,
+   rather than in some sort of broadcast context.
+
+   Hence, there is a strong impetus to move
+   the conversation to an explicitly written media,
+   and to have some depersonalization apply.
+   Overall, this ends up being a move
+   from voice conversational-basis forms
+   to more writing centric forms.
+   Among other things,
+   this ensures that there is a basic single source
+   of what each participant is actually saying/doing,
+   (or has said, done, etc,
+   as indicative of motivations,
+   and not just ideas),
+   and allows for future participants
+   to be as equally involved in the outcome
+   as present tense participants
+   (ie, to not just favor the lucky).
+   It is at least easier to keep track of
+   important questions, digressions, topics, etc.
+   In a verbal conversational form,
+   it becomes much more difficult
+   to keep track of that kind of stuff.
+
+   The author/proposer does remain interested
+   in conversational and collaborative process,
+   for the right reasons, and in the right way.
+   Ie, ones that favor authentic collaboration
+   rather than just yet another form of
+   highly motivated and/or incentivized
+   social/political/corporate action.
+
+:jw2
+   > It seems to me
+   > that you are using "complexity"
+   > in some non-standard way.
+   > Can you elaborate and justify
+   > your use of that term?.
+   > What do you mean by "complex"?
+
+   When I refer to complexity theory,
+   I am essentially referencing two specific kinds of complexity theory.
+
+   The 1st of them is the Cynefin framework by Dave Snowden.
+   He has done significant and important in regards to
+   complexity theory as applied to questions like:
+     "What are the different domains of process?", and
+     "What does that imply
+     about what kinds of organizational techniques
+     can work in some situations
+     and not in others?".
+   In the sense of planning things
+   or figuring out what kinds of things
+   can be optimized or not optimized --
+   the Snowden work has definitely been very clarifying
+   for a number of important issues in this space.
+   It is not just about social organizational dynamics
+   but actually ties directly into some important aspect
+   of information theory and game theory
+   which are directly relevant to a lot of aspects
+   of our thinking about inter-agent dynamics.
+
+   The other kind of complexity theory,
+   is that considers questions like
+   whether some "problem X is 'NP-complete'?",
+   and what implications that has
+   with respect to computational space, time, or energy.
+   For example, "Is a solution able to be calculated
+   in polynomial time,
+   or can we only expect to be able to verify it
+   in polynomial time?"
+   has important implications with respect to
+   proposed error correction protocols.
+   Complexity theory in this sense
+   also considers questions in the form of
+   "What are the relationships between
+   the various complexity classes
+   of algorithmic execution?".
+
+   These two types of complexity theory
+   have different types of questions
+   that they consider and address,
+   and I have found both to be important.
+   Hence the mention.
+   Those are the two specific notions of complexity
+   that we are concerned with.
+
+:jxl
+   > Is it reasonable to regard *everything*
+   > as irreducibly complex
+   > in arbitrarily diverse ways?.
+
+   If the effort is to attempt to paint the author
+   as being unreasonable for believing an unreasonable thing,
+   and that therefore, that he and his work can be ignored,
+   then you will have to look elsewhere.
+
+   Most real things in the real world
+   are actually complex --
+   only very few things are actually simple.
+   The human body -- the only agent we can assert
+   as being an example of what we want to develop,
+   consists of trillions of cells,
+   each of which has extensive and near arbitrarily
+   complex internal physical and chemical process,
+   all of which combine in tissues, organs, and systems
+   that themselves have very complex dynamics.
+   If the brain was simple,
+   we would already have implemented AGI.
+
+   Just because we generally tend to model simpler
+   and the more observable, repeatable dynamics
+   with mathematics, etc --
+   and thus such model descriptions
+   tend to be the majority of what is
+   actually written down in books, etc,
+   does *not* in itself imply
+   that the majority of the real universe of action
+   can be regarded as "simple".
+
+   When thinking of the composition of agents,
+   and of the basis of the behaviors
+   that they might exhibit --
+   ie, as necessary to any consideration of "alignment"
+   and/or long term "safety", non-toxicity, etc,
+   we are necessarily considering both internal systems
+   and world/environment/ecosystem relational dynamics --
+   very very little of which is actually simple.
+
+   A bias towards modeling only that
+   which is easily model-able
+   is not to be very concerned with the truth.
+
+   To consider the notion of complexity
+   in computational science
+   is to think on the limits of
+   the kinds of things which can
+   more easily be done algorithmically,
+   and those that cannot be,
+   particularly when also assuming
+   any reasonable real world limits.
+   This is particularly relevant
+   when thinking about error correction protocols
+   as applied to attempts to implement AGI safety
+   via engineering techniques.
+
+   So in this particular sense,
+   there are limits to what sort of things
+   can be done with computational process.
+   And these limits are referred to
+   by theorems like "the Halting Problem"
+   and/or by the "Rice Theorem" and similar.
+
+   It is not to say "that everything is arbitrarily complex",
+   but it is to say that the things we are concerned with
+   do need us to be concerned with complexity theory,
+   and with how that applies to actually complex real phenomena.
+   If we are attempting to do simulation or predictive modelling
+   or the kinds of things that would be needed for error computation,
+   then certain inequalities essentially assert
+   that there is a real boundary
+   between things which are possible
+   and things which are not possible.
+   This is central to the nature of the proof.
+
+   I am not claiming that everything is arbitrarily complex,
+   or that there are no places where we have engineering constraints
+   that can be applied to develop
+   convergent phenomena towards safety
+   for general non-agentic systems.
+   It is just that in this specific case,
+   applicable to inherent considerations of AGI,
+   that given right type of agentic feedback cycles,
+   that a different order of complexity
+   is needed to be accounted for,
+   and that this has implications
+   with respect to what can and cannot be done --
+   particularly with regards to the truth
+   of the failure of AGI safety,
+   which is what this conversation is concerned with.

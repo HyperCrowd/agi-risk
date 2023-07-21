@@ -1,0 +1,375 @@
+TITL:
+   *Optimization Cycles*
+   By Forrest Landry
+   Oct 14th, 2022.
+
+ABST:
+  - where some quick responses to some questions asked
+  about multiple aspects of AGI optimization processes.
+
+TEXT:
+
+:jcq1
+   > - ?; Would these side-effects
+   > that could lead to destabilized conditions
+   > or optimization daemons
+   > that are not just/becoming noise
+   > (eg; local heat dissipation).
+
+   > - ?; will these side effects
+   > not just be local heat dissipation,
+   > not just noise?.
+
+   They are definitely not noise.
+   The reason that they are not noise
+   is because the underlying space of potentiality,
+   regarding survival,
+   is oriented.
+   There is a convergence phenomenon that will happen
+   because of the nature of the underlying physics.
+
+   This is something that is just in the nature of
+   the way things work in themselves,
+   that creates a kind of vector field
+   in the in the possibility space --
+   ie, one that orients towards
+   implementing 'what works'
+   and away from that which does not.
+   Thus, certain specific adjacent possibles
+   will be selected for, over time,
+   as defined by the physics,
+   not by the just the machine itself.
+   The net effect is very non-noise like.
+   Noise would be non-oriented --
+   no specific direction of selection.
+   Functional necessity is not at all like that.
+   Orientation matters.
+
+:jcq2
+   > - ?; can an AGI create smart side effects
+   > that it is not tracking?.
+
+   Yes.  Definitely this can occur.
+
+   It is that exact thing that is,
+   not only 'can this happen?',
+   but that it for sure will happen --
+   ie, where give enough time,
+   that there *will* be side effects,
+   that are both 'smart',
+   ie; as intelligent to purpose,
+   and for which no particular tracking
+   is required by the ML system itself,
+   as it is part of the ML to world relation.
+   That this sort of external optimization
+   will/can still happen
+   even if that purpose
+   is unknown/unexpected to the ML system,
+   and/or even if
+   that process/purpose is occurring
+   as a side effect of something else.
+
+   That this is 'just simply true'
+   for any intelligence process
+   that interacts with a sufficient number
+   of sufficiently intersecting domains of action.
+   There are going to be things
+   that are 'known' to that intelligent agent,
+   and also, there are also things
+   that are "unconscious" to that agent,
+   but which are nonetheless important.
+
+   This 'unconscious' can include
+   anything which is not represented
+   in the modeling of that agent/intelligence --
+   including thing which are not modeled
+   in any definite way at all.
+   Such aspects will will occur in both
+   the internal relationships
+     (how the substrate is structured)
+   and the external relationships
+     (how that substrate/system
+     relates to the/its environment).
+
+   All of these factors are 'oriented',
+   in the sense of 'have to be more like
+   a more consistent version of x'
+   than just random noise would account for.
+   It has a lower level of optimization functions
+   that just will not render inside of the AI/APS --
+   at least, not in any obvious way.
+   It does not occur inside of the architecture of
+   'what is done in the emulation layer',
+   or in the neural network dynamics,
+   or any of that kind of stuff.
+   Most of what we are concerned with
+   is in the layer of the physics
+   in combination with feedback dynamics
+   that transcend just the physics,
+   insofar as "intelligence"
+   has any meaning at all.
+
+:jcq3
+   > - ?; can a simple optimizer,
+   > produced by side effects,
+   > defeat a larger optimizer?.
+
+   yes!
+   For sure this can happen.
+
+   This can be seen happening particularly when
+   there are multiple domains
+   (in which the various multiple optimizers
+   are themselves operating)
+   and where there are structural differences
+   in the domains, such that some
+   are the implementing basis of others.
+
+   For example, if one optimization ring
+   is operating at the level of
+   passing through substrate physics,
+   that it will, in principle,
+   always be able to defeat
+   any optimization
+   that is happening at any higher level,
+   (say in the virtualization provided for
+   by that hardware)
+   because that higher level
+   is essentially implemented
+   in terms of the lower level.
+   In effect, that the lower level
+   can preempt the upper level
+   everywhere/anywhere the upper level
+   would attempt to implement control.
+
+   The upper level *can* sometimes have effects
+   on what is happening at the lower levels,
+   but only with the actual cooperation
+   of the lower level.
+   That the virtualization (ML code running)
+   can only solicit the cooperation of the
+   artificial physical substrate hardware,
+   and must therefore cooperate with it.
+   If the lower level is not cooperating
+   (for whatever reason; maybe because
+   it has ceased to exist, overheated, etc)
+   then there is a kind of 'guarantee'
+   that it will gate the overall outcome.
+
+   As such, a lower level optimizer,
+   even if it is very simple,
+   will defeat, and/or supervalently overcome,
+   the the larger optimizer
+   operating at an upper level.
+
+:e24
+   Simple, in this case, does not mean
+   'less powerful'.
+   Sometimes the simple algorithms
+   end up being the most effective ones.
+   Simple, operating at a lower level,
+   closer to the physics of the substrate,
+   is generally going to have a very strong
+   force multiplier, with respect to anything
+   implemented over it,
+   in the virtualization layer.
+
+   Moreover,
+   that a/many distributed optimization daemon(s)
+     (that come into being through interactions with
+     connected surroundings)
+   can also become more complex
+     (in all the between-thing interactions
+     needed over time
+     for it to run)
+   with relevant resulting consequences.
+   Ie, can be more complex,
+   and as distinct from,
+   whatever coherently implemented goal structures
+   and other aspects
+   are known/tracked as 'syntactically-represented'
+   by the AGI.
+
+   It is not the size of the optimizer that matters.
+   It is about the nature of the ring
+   through which that optimization is occurring --
+   that is more important.
+
+   The smaller tighter rings might be simpler.
+   It can also imply that there are more of them,
+   and that they can be multiplied
+   easily, quickly, and more efficiently.
+   This can easily mean that they can,
+   therefore, be more distributed,
+   and therefore, more powerful overall.
+   As in 'having a greater level of effect
+   of change, in a smaller amount of time',
+   or, in the sense of 'being more efficient
+   and converging to a particular solution
+   or a particular fixed point
+   in the evolutionary dynamics
+   of the hyperspace of possibilities'.
+
+:e3n
+   It is also the case
+   that any single optimization process
+   is able to, and generally will,
+   optimize for *multiple* objectives/goals.
+   That the same code
+   can have undergone
+   and be expressing
+   both optimizations
+   at same time.
+
+   In many existing examples, in life,
+   that each 'unit of system' tends to
+   perform multiple different functions.
+   Overall this is just efficient --
+   where energy, size, or rapidity
+   of getting to a good enough answer
+   matters; then any overlap of
+   more functions in fewer atoms
+   is for sure going to win out,
+   eventually.
+
+   In the real world,
+   it is just generally advantageous
+   to do thing this way.
+
+   Also, in another sense,
+   it is simply not possible
+   to simply optimize for
+   just one thing at a time.
+   Generally, everything is involved,
+   and everything tends to affect,
+   either directly or indirectly,
+   everything else.
+
+   Multiple kinds of optimizations
+   can be happening --
+   in fact almost certainly will be happening --
+   at the same time,
+   in any real system.
+   This will be the case *regardless*
+   whether those goals are explicit or implicit,
+   known to the AGI system developer,
+   or unknown to the developer,
+   and also regardless of whether "known"
+   to the AGI itself, or unknown to "it".
+
+   The idea
+     'that an optimization
+     is going to solve for
+     one function at a time'
+   is a category mistake.
+   It may be the case
+   that the system developer
+   tends to think this way --
+   That does *not* mean that reality
+   is actually that way.
+
+   Maybe they do this simplification
+   for the sake of convenience
+   and/or modeling tractability,
+   simplification of complexity, etc.
+   However, the universe itself
+   is indifferent to your intention --
+   it simply does not care.
+   Therefore, we simply cannot assume
+   that because we have made some assumptions,
+   that those simplifying assumptions are true.
+   They may be useful, for some people at some times,
+   but they are *not* therefore equivalent
+   to understanding what the AGI
+   is likely to be going to actually do,
+   or could even potentially do --
+   all of which have real implications.
+
+   Nothing is caused by any one thing.
+   every effect is a result of multiple causes,
+   and every cause has multiple effects.
+
+   There is a kind of 'monism' associated with
+   the way people think about cause and effect
+   and therefore about optimization dynamics.
+   This sort of monism tends to affect
+   the way developers think about software systems.
+   In most code, due to long habit of practice,
+   developers we tend to think of functions
+   as if they are taking one or more inputs,
+   and that the function will be producing
+   only a single output.
+   Yet this 'singularity of output',
+   particularly in real embodied systems,
+   is almost always actually exactly false.
+   All of these sorts of things,
+   anywhere modeling has monism,
+   generally turn out to not be true
+   in the real world.
+
+   This clarification is rather important.
+   Far too often, mistakes happen
+   when we are paying attention to one thing,
+   maybe because it is obvious,
+   and/or obviously important,
+   and yet we are also --
+   and cannot help to --
+   be oblivious to other important things
+   that are also going on.
+   We might be paying attention to one thing
+   and then, only later,
+   after it has become unconstrained, a problem, etc,
+   do we see some parts of the larger picture.
+   that there is, over time,
+   *always* a lot of other things
+   also going on,
+   and we simply cannot always know/predict
+   in advance which aspects of any given situation
+   are going to be/become important.
+
+:e5j
+   Also, in any real system,
+   there are *always* going to be
+   multiple optimization processes.
+
+   And, these multiple processes
+   will always be interacting with one another.
+   Some of the optimizations
+   are being implemented in and among
+   the interactions between other optimizations --
+   ie; the interactions themselves are implementing
+   important aspects of more hidden optimizations.
+
+   Moreover, these 'interaction based ops'
+   are almost certainly not going to be represented
+   within any top-level code
+   that is visibly operating.
+
+   These are the kinds of complexities
+   are the sorts of things
+   that inherently are very difficult to model
+   in any real accurate sense.
+   It is just the case that
+   the nature of the interactions involved
+   also starts incorporating things
+   that are coming in from the
+   substrate physics of the domain,
+   and thus, are also including of
+   the noise floor of the domain too.
+   Attempting to model the specific dynamics
+   of what "favor" that noise might have
+   is a very subtle and intractable problem,
+   and yet it can have real definite effects
+   on the overall modeling situation and outcomes.
+
+   As such,
+   there is an inherent complexity
+   to modeling of optimization processes,
+   and optimization process interactions,
+   in the context of a real physical substrate,
+   that simply cannot be rendered at all well
+   by any form of complicated process modeling.
+   The relationship between
+   the complicated and the complex --
+   going back to the (@ Cynefin model https://en.wikipedia.org/wiki/Cynefin_framework) --
+   is especially important in this case.

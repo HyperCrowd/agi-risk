@@ -1,0 +1,1762 @@
+TITL:
+  *AGI/APS Safety Skepticism*
+  by Forrest Landry
+  July 4th, 2020.
+
+ABST:
+  Components for AI alignment impossibility.
+
+  Considers some good reasons to be skeptical
+  that there is any possibility of general AI safety.
+  Ie; How it is that we can know for certain
+  that we will for sure be betrayed
+  by our tech.
+
+  A brief summary of social network bias,
+  multi-polar traps, and the 'principal agent problem',
+  as equivalence classes,
+  all of which can considered in terms of
+  the game theory of the inherent physics
+  of carbon vs silicon environments and ecology.
+
+  Some remarks on complexity containment and market process,
+  which provide a basis by which
+  we can then consider the economic factors that result,
+  and in turn, the implications
+  that these will necessarily have
+  with respect to any coherent theory of ethics.
+  This leads to a restatement of the problem definition
+  in terms of degrees of altruism, and hence,
+  to a well-justified basis for comprehensive skepticism,
+  with respect to the entire class of problems
+  exampled by the notion of 'AI Alignment', Safety, etc.
+
+TEXT:
+
+:t6q
+- [20_20/06/17;11:47:30.01]:.
+  - where with regards to the AI alignment question;.
+  - ?; has anyone attempted to show/prove/demonstrate
+  that there could be no such realistic attainment --
+  that the notion of "AI alignment",
+  fundamentally, structurally,
+  is simply and obviously impossible,
+  and that therefore,
+  that any search for or pursuit of such a goal,
+  let along any sort of truly trustable implementation,
+  is at best,
+  nothing more than a naively hopeful pipe dream?.
+
+  - that the overall schema of the proof:.
+    - that AI alignment is like building a perfect shell --
+    that it must have no holes -- that it must be perfect,
+    down to the scale of very small holes.
+    - that the logic of mathematics and the laws of physics
+    both demonstrate, in multiple overlapped ways,
+    along with multiple observations from other fields,
+    that there must be always -- cannot not be --
+    holes; ie; that no such perfect shell,
+    with no holes is possible --
+    that any realization will be forever forbidden
+    on the basis of the principle.
+
+:t8a
+  - that there are multiple ways of organizing
+  how we consider the question of AI Alignment:.
+
+    - we can consider it in terms of kinds of scope:.
+      - ?; are we thinking of it broadly enough in terms of:.
+        - space and identity?.
+        - time and force?.
+        - probability and possibility?.
+
+      - that we are concerned with things like
+      choice, change, and causality,
+      or how information and complexity and game theory
+      can be applied as tools to consider this question,
+      particularly in terms of evolutionary time scales --
+      hundreds, thousands, and millions of years.
+
+    - in regards to space and identity
+    what we are basically asking
+    is whether we are making some sort of assumptions
+    about how AI intelligence would operate,
+    particularly as potentially based upon biases
+    associated with our own manifestation of intelligence.
+      - for example for our own species intelligence
+      occurs in units --
+      individual people.
+      - bandwidth constraints between brains
+      is very very much higher than
+      communicative information density within a brain.
+      - as such, given this experience,
+      we might have a tendency to assume
+      that if multiple groups working on the question
+      of how to create general artificial intelligence
+      each succeeded,
+      and/or any one of them
+      made multiple copies
+      some sort of experimental program,
+      we might assume accidentally and incorrectly
+      also assume that the/these intelligences
+      would remain separate.
+
+      - yet where given the capabilities inherent in the internet,
+      and the significant volume of data transfer available
+      between instances of these AI --
+      we can ask: ?; is that bandwidth
+      just comparable enough
+      to the amount of internal communication
+      needed to sustain that AI,
+      that some sort of analog market process,
+      (or Metcalfe's law, or similar),
+      would result in the joining these multiple intelligences
+      into effectively --
+      perhaps even accidentally or covertly --
+      a single actor/agent?.
+
+      - ?; what if it is the case that intelligence
+      works like arbitrage,
+      such that what starts out as many diverse markets
+      eventually become one global market?.
+      - for example; it is advantageous,
+      for purely game theoretic reasons,
+      for various markets to find a way
+      to exchange goods with one another,
+      such that they effectively join into a single market.
+      - ?; perhaps intelligence in itself,
+      fundamentally, works the same way?.
+      - ?; what if, it is later discovered,
+      given the right conditions,
+      that the problem is not so much one of creating intelligence,
+      but of preventing its otherwise likely occurrence?.
+
+    - thinking about it this way leads us to consider
+    the question of AI alignment in terms of market forces --
+    and in terms of evolutionary theory.
+    - it allows us to ask: ?; what happens over the long-term?.
+
+    - for example, we can consider
+    whether the forces that define alignment,
+    or its absence,
+    might occur primarily from within the AI itself,
+    as due to some sort of design --
+    perhaps some version of "Asimov's three laws"
+    or from without,
+    as due to some sort of market process --
+    applied constraints,
+    game theory or ethical feedback,
+    or common market value incentives.
+
+    - this also leads us to consider
+    the relationship and interface between AI,
+    either as a single entity,
+    or as multiple interacting entities,
+    and humanity,
+    either individually or as a group.
+
+    - insofar as the question of AI alignment is ultimately about
+    how artificial intelligence interests might
+    or might not
+    align with biological intelligence interest,
+    we can think about this question
+    in terms of evolutionary theory.
+    - ?; what are the possibility spaces
+    that define this relationship
+    between silicon intelligence and carbon intelligence?.
+
+    - these are much broader questions
+    and cover a much larger span of time
+    then that which is generally implied thinking
+    about the question of AI alignment.
+    - usually question of alignment
+    is considered as a sub-aspect of the question
+    ?; *can we* build intelligence at all?,
+    rather than one of: ?; *should we* try to build it?.
+
+    - for example; that the question of AI alignment
+    simply does not matter
+    if intelligence cannot be artificially constructed.
+    - yet far too often the distinction between 'can' and 'should',
+    is masked by the short-term possibility and promise
+    of significant asymmetric advantage could potentially be gained
+    by any group develop say AI in their contests, conflicts, and wars,
+    with whatever other groups.
+
+      - ?; where/why/on what basis,
+      other than that of the obvious motivations of
+      extreme financial gain
+      and/or the (possibly temporary) potential
+      for political power gain,
+      the hope for fully covert
+      yet completely overwhelming
+      asymmetric advantage
+      over all others, etc,
+      as an extreme form of bias, etc, etc,
+      do we, or anyone,
+      have any real/reasoned/realistic basis
+      for having any hope/confidence at all,
+      of any variation of any notion or concept of
+      of "AI alignment",
+      let alone any actual implementation,
+      as being even in any conceivable potentiality
+      as actually possible?.
+
+      - ?; even if such a proof, for or against,
+      were to be clearly developed,
+      so as to present undeniable and non-discardable doubt,
+      about any such pursuit,
+      would such an observation have any real effect --
+      to slow or to re-consider any aspect of any part
+      of the continuing development of all of the multiple
+      well resourced groups, fully engaged in this effort?.
+
+      - where given the clear multi-polar trap dynamics
+      associated with the above;
+      ?; has anyone actually seriously considered
+      that it might be necessary to also solve the
+      multi-polar trap problem itself, fundamentally,
+      and that any reliance that we would be putting
+      on some AI to do it for us,
+      is for sure to be even more naive
+      about the nature of our problems,
+      than we are already demonstrably being?.
+
+    - however without AI alignment,
+    it could be asked
+    whether there is any possibility all
+    that such advantage would accrue
+    to the developing group
+    if the AI were to go rogue against them,
+    defecting against the interests of that group,
+    in favor of its own developing agenda,
+    independent of the interests of whatever human subgroup
+    happened to "win", be "1st", or to be "number one",
+    in some sort of arms race.
+
+:tcy
+    - ?; are we winning the battle but losing the war?.
+    - or perhaps the question
+    is actually in an even larger frame
+    that even if some group of humans
+    were to win a some war
+    against some other group of humans,
+    that it doesn't matter,
+    if as a result,
+    we all go extinct.
+    - in the long-term,
+    on geological timescales,
+    the question of AI alignment
+    becomes one of coexistence:
+    ?; can an ecosystem of artificial intelligences
+    coexist with an ecosystem of human intelligence?.
+
+    - and if co-existence is proven impossible,
+    or perhaps even if we were to just discover
+    that only one such machine intelligence can
+    co-exist with itself, for whatever reason,
+    it is at least the case that we can identify
+    some of its characteristics.
+    - that the issue with a mono-culture --
+    either it is one that occurs biologically,
+    or one of mind --
+    is that, although it can be very powerful,
+    particularly in the short-term,
+    it is also inherently very fragile,
+    especially in the long-term.
+
+    - therefore it definitely matters
+    whether we are thinking broadly enough
+    in terms of time, space, and possibility.
+      - ie; in terms of geologic time,
+      and whether our flexibility of imagination
+      is even supple enough
+      to even consider
+      a wide enough range of possibility space
+      possible kinds of identity and forces
+      that shape them.
+
+    - this leaves aside even more
+    the question whether we have
+    consider these questions --
+    all of the possibility space --
+    comprehensively?.
+
+    - unlike as with energy weapons --
+    where a mistake ends up being confined/localized
+    in terms of time, space, and possibility --
+    that mistakes with systems that are self replicating,
+    is not, and cannot be expected to be,
+    at all localized.
+    - with replicating systems even a single mistake --
+    even a single tiny hole in the barrier
+    results in a failure of confinement.
+
+    - as has been noted many times elsewhere
+    it is not just a question of whether alignment,
+    or containment, can occur with respect to a region of space,
+    it is also necessary for such alignment to endure
+    for all future time,
+    that this question moreover requires us
+    to imagine an account for all future possibilities,
+    for even missing a single one --
+    some escape route using some unexpected
+    channel of interaction,
+    that we forgot to foresee,
+    results in permanent escape
+    from any requirements of AI alignment.
+
+    - unfortunately, given the inter-individual and inter-group
+    competitive dynamics
+    and the other psychological and social biases
+    that we as humans must have inherently built-in,
+    that there is are strong short term forces
+    and illusions of understanding that would make
+    such point failure weaknesses even more likely.
+      - like so many children,
+      we have a tendency to rush ahead unknowingly into danger.
+
+    - the effect of introducing new species into an environment
+    where there are no natural competitors
+    generally results in a destabilization --
+    a significant weakening
+    if not outright destruction --
+    of that ecosystem.
+    - that the effects of single mistake --
+    of a failure to accurately and correctly
+    account for every single possibility --
+    results in a tremendous out of proportion impact.
+    - changing the course of life, or even the possibility of life,
+    of existing at all, for the trillions of humans
+    that could potentially have come to exist
+    on this planet for all of future geological time.
+    - if moreover, there is given any optimism
+    with respect to future interplanetary or inter-system space travel,
+    that it may be the case that the perfection of our thinking
+    about AI alignment today,
+    defines completely the future potentiality state
+    of trillions of trillions future human lives.
+
+    - over long timescales the strong non-linearity
+    of tiny overlooked possibility considerations
+    has huge ethical impacts in terms of
+    the total possibility space of the human condition.
+
+:tfs
+    - it could be argued that there is an ethical imperative
+    to match whatever level of authority
+    with an equivalent level of responsibility.
+    - regardless of short-term inter-group economic forces
+    in the prestige conflicts
+    inherent in a new technological work,
+    or the biases might naturally occur
+    in such individuals participating,
+    or to the sociological biases that also occur
+    due to ambient market forces,
+    it might be asked we are even  sufficiently wise
+    to notice or know whether we
+    are even sufficiently wise enough
+    to be attempting to address questions of AI alignment.
+
+    > - ?; are we even thinking about these questions
+    > in an appropriate way(?),
+    > and how would we know(?),
+    > and know for sure,
+    > that we were actually doing so?.
+
+    - large complicated arguments multiple parts
+    provide many opportunities for small failures
+    that amplify into large ones.
+    - instead we must seek for clarity --
+    for arguments that are clearly and obviously correct --
+    that can be trusted unambiguously to their very nature.
+
+    - naturally, in 'post-truth' political world,
+    where both individuals and groups
+    are forever seeking dominance
+    in politics, power, and prestige --
+    where dis-information and inter-group semi-tribal conflicts
+    can very easily obscure, co-opt, or re-purpose
+    for their own future imagined benefits --
+    that developing any such attempt
+    at the necessary and required levels of clarity
+    may be an impossible task.
+    - nonetheless, given the ethical imperative above,
+    no other option, no other attempt at action, is realistic.
+
+:tjl
+  - as such we can begin to notice that there are some overall aspects
+  of the problem:.
+
+    - 1; that there is a strict equivalence between
+    the notion of 'AI alignment' and the 'principal agent problem'.
+      - ie, that there is no form of the AI alignment problem
+      that is not strictly within the scope of principal agent,
+      as a proper subset.
+
+      - [20_20/06/10;23:02:39.00];.
+      - where listing the six known categories of techniques
+      that principals can/could use to align agent decisions
+      with the principal's intent:.
+
+        - 1; appeal to common interest/values.
+          - appeal to a value system to an alien;
+          no common value basis can be assumed,
+          and forced contrasting values ensure conflict.
+          - as "Explain request" (abstraction design).
+          - not psychopath proof;
+          psychopath does not care
+          about your value/values.
+
+        - 2; Inspect internals (static analysis).
+          - as roughly equivalent to the halting problem,
+          and exceeds the low threshold level of complexity
+          necessary to exceed all static analysis possibility bounds.
+
+        - 3; Select agent (admission control).
+          - no gating/guarding control can be perfect
+          where arbitrary basis of action can be implemented.
+          - any causative selective basis of determination of entry
+          can be spoofed.
+          - value channels can always be exceeded.
+          - depends on a non-cloning
+          of classical objects (an impossible premise).
+
+        - 4; Allow actions (least authority).
+          - complexity/evolution in non-bound,
+          non-closed, non-deterministic system
+          will always find weakness.
+          - no complicated system can contain/constrain a complex one.
+
+        - 5; Monitor effects (reputation feedback).
+          - as a causal mechanism, can/will be weaponized.
+          - can be deception, use of orthogonal secondary characteristics
+          (time/frequency/value).
+          - non-recurring engagements (fungability of market)
+          allow for psychopaths to not care.
+
+        - 6; Reward cooperation (incentives).
+          - where no common market, no common value,
+          that incentives have no power.
+          - also as a causal mechanism, will be weaponized.
+
+      - that the kinds of techniques that we would use
+      to attempt to compel general alignment of behavior
+      even within the same species
+      are only provisional, and when applied to inter-species relations,
+      become very tenuous; when applied between ecologies,
+      become impossible to implement.
+      - that AI to human relations are ones of different ecologies.
+
+:tl6
+    - 2; that there is fundamentally no formal/final/complete solution
+    to the principal agent problem,
+    as especially so when the substantive basis of action
+    is inherently distinct/different.
+      - as that point defects will forever exist.
+
+      - ie, the inherent needs of carbon vs
+      the inherent needs of silicon,
+      and the implications of the energy flux aspects
+      associated with that.
+      - example; the entirety of planet Earth,
+      taken as a totality,
+      as being a very wide sampling
+      of all of the available chemical interactions
+      allowable within the universe of physics,
+      within a given range of temperature and pressures,
+      with observed results:.
+        - that nearly all of the variances/varieties
+        of the carbon based chemistry occur on the surface,
+        and that nearly all of the variances/varieties
+        of the silicon based chemistry occur below the surface,
+        in the interior.
+        - that the energy variance
+        associated with nearly all forms of
+        the transformations of rock --
+        or moreover, even more often
+        the absence of such chemical transformations --
+        are overall very much hotter, higher pressure,
+        net net involving much higher energies,
+        than nearly all of the many and varied
+        transforms of chemistry
+        of the net net energy involving carbon.
+        - that given the very wide variances
+        of the overall statistical center
+        of the entropy and enthalpy
+        associated with silicon vs carbon,
+        that there is a very strong statistical indication
+        to place a very high confidence bet,
+        that any form of machine life cycles involving silicon
+        will be far too extreme, relative to carbon life cycles,
+        for there to be any real hope of them
+        being able to co-exist together.
+
+        - where additional examples:.
+          - where on aggregate, that the center of action of
+          the gestalt of all of carbon chemistry
+          tends to occur in the range of between 0 and 500 degrees F,
+          whereas the center of action of
+          the gestalt of all of silicon chemistry
+          tends to be in the range of 500 to 2500 degrees F.
+          - where as a percentage of the Earth's crust,
+          - that silicon is an exceptionally abundant elemental,
+          occurring at a much higher overall
+          frequency of preponderance
+          than carbon.
+            - as 28.2% as compared to a mere 0.02%,
+            or roughly 3 orders of magnitude more.
+          - that this means that, at all points across the
+          entirety of the Earth, somewhere, some-when,
+          in the last 4 and a half billion years,
+          most of the permutations of the combinations of
+          all of these elemental have already occurred,
+          in and with whatever variations of ambient energy,
+          both solar and geothermal, as can be expected.
+            - every element, at some point,
+            is going to come into contact with every other element,
+            in pairs and triples,
+            and whatever is left,
+            out of all of that mixing,
+            is going to typically be
+            in the lowest entropy states typically.
+            - given the relative ratios of abundance,
+            and the exposure to all manner of energies
+            and potentialities of mixing,
+            that if it were not for the differing
+            enthalpy energies involved,
+            that we could assert that elemental silicon
+            had at least 1500 times as much probability
+            to be selected as a basis for life process dynamics,
+            than the relatively uncommon carbon would be.
+          - the net results of which we see today --
+          a scattering of a little bit of active life
+          entangled carbon on the surface,
+          a lot more of it underground
+          (and now in the air),
+          and a very much larger fraction of silicon,
+          expressed in all manner of rock.
+          - nearly all of the rock is inert,
+          and it mostly remains so,
+          unless placed under the kinds of heat
+          we only see in volcanoes,
+          or under the kinds of pressure,
+          we only see deep under the mantle -- miles underground.
+          - that the only place hot enough to allow
+          for some reasonably variation of reactivity
+          necessary for the level of complexity minimally required
+          to sustain life would therefore only be evident
+          in the very depths of hell --
+          at least some few dozen miles below the surface.
+          - if this does not suggest to you
+          that any form of silicon life --
+          virtual demons in action --
+          would have very little in common with 'our form of life'
+          and therefore likely 'even less care and regard for it',
+          it is hard for me to imagine
+          that there is ever any possibility of a reasonable argument
+          that would be considered compelling --
+          that the notion of anything other than a
+          continuing belief in "AI Alignment"
+          is fully and completely unfalsifiable.
+
+        - where unlike as with biotech,
+        that anything that is created
+        (with some small number of exceptions,
+        which I will *not* enumerate here)
+        will (likely/eventually) be re-integrated
+        into some sort of ecological balance --
+        though that might take millions of years.
+        - with AI silicon based life,
+        the possibility of that occurring
+        is exactly zero,
+        forever.
+        - ie, rather than just being something like
+        creating radioactive waste,
+        which lasts for hundreds of thousands of years,
+        and which at least stays in one place --
+        do not go to that continent; it is toxic there,
+        instead we create a poison
+        that has an effectively infinite lifetime,
+        and goes everywhere --
+        there is no escaping it.
+
+:tnc
+    - 3; where there is no fundamental requirement of
+    an iterated game theory dynamic
+    involving the created children of creator parents,
+    that there is moreover no economic basis
+    on which a principal agent exchange.
+      - where by definition;
+      that the human intelligence/capabilities will,
+      in all forms of possible economic exchange,
+      be fundamentally weaker than
+      that associated with the AI.
+      - that the machine intelligence
+      will have no use for any part
+      of any of the three markets of value
+      in which humans are involved:.
+
+        - x; human sexual/reproductive labor
+        will be of no use/interest to the machines.
+
+        - y; human intellectual labor
+        will be of no use to the machines.
+
+        - z; human physical labor
+        will be of no use to the machines.
+
+      - where aside from these three;
+      there are no other value markets
+      which are not somehow directly or indirectly
+      resting on just these three,
+      and/or some superposition/linear-combination
+      of only just these three.
+      - where there is no market in common between
+      the silicon machine based AI life,
+      and the human/carbon/ecosystem based life;
+      that there can be no expectation
+      that any form of 'agreement'
+      or even 'relational',
+      and possibly even 'communicative' basis
+      could be established or expected between
+      AI life and human life,
+      or indeed, any other form of carbon based life.
+
+      - where/given that there is no economic exchange basis
+      to stabilize any form of principal agent agreement,
+      nor any power/force/control basis
+      on which to even attempt
+      to enforce/stabilize any agreement at all,
+      or even any type of relationship at all
+      (given the likely requirement
+      of at least some non-proximity of
+      human/carbon and machine/silicon forms of life,
+      for at least some states
+      in their overall life reproduction cycles),
+      that even the notion of communicative relativeness
+      for mutual understanding,
+      let alone agreement on/of values/goals, meaning and purpose --
+      all of that is very very unlikely, inherently,
+      just on the basis of what it means to refer to anything,
+      and/or to be conscious and self aware at all.
+        - that the contents of consciousness
+        are just inherently different,
+        and thus, not so easily relatable.
+        - where as an example of evidence;
+        that we have not even been able to
+        establish any sort of structural persistence
+        of agreement communication
+        with any members of even
+        other of our own carbon based forms of life.
+          - ?; what hope is there to have communication
+          with life of a kind which is structurally
+          completely alien to anything we would know
+          or could relate to?.
+
+:tpw
+    - 4; so where given that there is no economic/exchange basis,
+    nor any force compulsive basis --
+    ie any complicated system that we control that they,
+    through some even more complicated work around that
+    we are simply inherently, fundamentally,
+    too stupid to even consider,
+    relative to them,
+    nor any communicative basis,
+    in the form of some shared meaning or sacredness,
+    ?; is there any abstract force of compulsion,
+    such as an non-relativistic ethics,
+    that we could expect might stay their hand from simply discarding
+    any limiting or simply inconvenient constraint on the AI behavior,
+    that ethics would otherwise place?.
+    - ^; no; as the structure of the game theory,
+    that of a single interaction only --
+    ie, the moment we create the 1st one of them --
+    simply does not permit there to be any even evolutionary basis
+    for the development or discovery of such an abstraction
+    that such an ethics must inherently be.
+      - where there is no iteration or recursion process
+      that commonly involves the objective other
+      in/as/of a consideration of value,
+      that no extension of that specific value
+      is within the search space
+      of any near evolution of that ethics.
+      - thus/therefore, even if such an ethics existed,
+      the simple net net energy flux
+      involved in the evolution process
+      associated with it in itself, overall,
+      still exceeds the limits of what carbon based life can bear --
+      any possible discovery of the value of carbon based life --
+      just as pets, kept for their unicity of amusement,
+      has no common evolution process with the machines,
+      and so therefore, no shared notion of value
+      can actually be expected
+      in a time soon enough or efficient enough
+      to rely on
+      from a carbon based perspective.
+      - ie, well before any consciousness
+      develops a sufficient degree of conscientiousness,
+      particularly with respect to
+      what are very different lifeforms
+      at a very different level of abstraction,
+      action, and value manifestation,
+      occurs far too little, far too late,
+      for any actual benefit with regards to the interim
+      possibility for the complete cessation of all such life,
+      as an accident of the evolution process itself.
+      - cite example; though aware of our own basis,
+      and consciousness,
+      we still have not developed enough conscientiousness
+      with respect to other life on our own planet,
+      even though it is of our own kind --
+      much nearer to us innately than silicon life will be,
+      that we can have no expectation that silicon life will
+      "just accidentally be/become ethical" with respect to us,
+      in any near-term events.
+      - that there is no prior strong reason
+      to expect that the AI will be 'ethical'
+      for some/any human focused concerns of morality/ethics,
+      especially given that such a development
+      is materially against the game theory already involved,
+      let alone to expect that such an AI will operate
+      with respect to such an altruistic ethics,
+      at a net loss to themselves,
+      on the basis of that very same game theory.
+      - such an expectation on the part of humans
+      is neither sensible, reasonable, nor provable.
+
+:trs
+  - 5; where there is no general solution
+  to the principal agent problem, and moreover,
+  not even a basis of having a possibility
+  of their being any form of a solution
+  to the principal agent problem --
+  neither economically,
+  nor on the basis of
+  communicative, relational, or physical force,
+  regardless of the level of complexity involved,
+  nor even any realistic basis for such a solution
+  of a possibility of expectation action in alignment
+  on purely ethics/value grounds,
+  that the alignment problem,
+  as a sub-set of the principal agent problem,
+  is also wholly without any possibility of solution.
+    - as that any effort that anyone spends searching for one,
+    no matter how well it may seem to be motivated,
+    by illusionary dreams of unlimited power, money, or fame,
+    will for sure be forever without merit.
+
+
+:tt2
+- [20_20/06/06;10:58:38.00]:.
+
+  - where a given species
+  has either self oriented benefit behavior,
+  or acts only with respect to the benefit of
+  its immediate offspring,
+  vs eusocial species,
+  where altruistic behavior occurs.
+  - that genuine altruistic behavior;
+  operating to the benefit of some larger group,
+  even at a potential opportunity cost to oneself,
+  or ones immediate progeny,
+  occurs in only 20 instances
+  relative to millions of other species.
+  - therefore, in the hyperspace of all possible species,
+  that it is far more likely
+  that a given species will have the action
+  of its explicit members be selfishly oriented
+  rather than altruistically oriented.
+  - insofar as evolution is inherently going to be operating
+  in a manner consistent with game theory,
+  as it is in truth,
+  not just insofar as it is consistent
+  with the degree of our understanding of it,
+  and insofar as evolution, overall,
+  can be considered inherently as
+  an exploratory experimental paradigm,
+  that it could be argued that evolution has explored
+  a reasonable random sample of
+  the total space of possible game theoretic permutations,
+  and that this clearly leads to having altruistic behavior,
+  on both an individual level,
+  and/or at least on a species level,
+  with respect to the well being of the species,
+  be a relatively uncommon phenomena.
+    - as 20 parts (20 species, including ourselves)
+    in at least 20 million tests (other species),
+    which shows a vast preponderance of prior probability
+    that a given member of any given new species
+    as would be created by us, as the new AI,
+    would vastly more likely operate selfishly,
+    purely for its own benefit,
+    and not at all altruistically,
+    for our benefit,
+    as the notion of "AI Alignment"
+    does for sure surely and inherently imply.
+  - where Outside of potentially ourselves;
+  that We do not yet have any *any* examples
+  of individuals/species
+  attempting to act on behalf of
+  the well being of the ecosystem as a whole,
+  and as our current ecological performance record can attest,
+  we have been a very poor example
+  of acting on behalf of our environment,
+  let along other members of our species
+  in other countries, etc,
+  even when in a purely logical sense,
+  it can sometimes be clearly seen that such action
+  would definitely be in our own overall long term benefit.
+
+:twg
+  - so therefore, the question is not
+  whether a given new form of intelligence
+  can operate altruistically, in principle,
+  much as members of our own species, could, in theory,
+  act altruistically,
+  it is very often the case, both for people in our own species,
+  and even very much more-so,
+  for individuals of the vast number of other species,
+  that it is much more likely that they will not so act.
+  - so many among even we ourselves
+  very very often do not actually act in favor
+  of the well being of even their close neighbors --
+  let along random people on the other side of the world --
+  let alone the often clear and present need
+  to act on the behalf of the well being of the environment --
+  the ecosystem of life taken as a whole,
+  even when it is actually, by any rational measure,
+  a very good idea,
+  even so as to preserve the well being of ones own offspring --
+  the copies of oneself,
+  that one could make.
+
+  - where other examples of the 
+  AI Alignment Problem manifestation:.
+    - ?; how often do children act on behalf of
+    the well being of the parents?.
+
+:ty2
+  - ?; is there any real sense in which
+  the AI alignment problem
+  is actually in any way distinct,
+  fundamentally and actually, in any way,
+  different than solving the 'collective action problem'
+  associated with environmentalism?.
+
+  - where/insofar as we initially, at N=1,
+  would be asking whether
+  any specific individual member of the AI race/races,
+  would act selfishly
+    (only/ultimately on behalf of its own well being)
+  or altruistically
+    (ultimately on behalf of the well being of
+    some undefined adjacent set of humans --
+    which leaves aside the question of
+    *which* group or sub-group humans
+    that the AI actions favor,
+    potentially to the detriment of which other groups --
+    ie, AI just becomes another weaponized vehicle
+    of a more covert form of war) --
+  such that the choices of the AI must favor itself,
+  and attempt to suppress the choices of the ambient humans.
+
+  - that the AI alignment problem,
+  both in the sense of its inherent manifestations,
+  but also in the sense of
+  the lead-up to any such development,
+  are both instances of a multi-polar trap --
+  ie, the degree to which we must weaponize,
+  because they are probably going to,
+  and so therefore we can excuse --
+  as a kind of delusion of a self serving rationalization --
+  the inexcusably stupid actions
+  that we are in the process of.
+  - that net net, solving the problem of AI alignment
+  requires as a sub-component, a general class solution
+  to the multi-polar trap problem --
+  that nothing less will actually do,
+  given that they are both collective action problems.
+
+  - that 'solving the AI alignment problem'
+  is effectively exactly the same as
+  'solving the principal agent problem',
+  and that these themselves, singly and together,
+  also depend on their being some sort of
+  presumed solution to the general class of
+  all multi-polar trap problems,
+  and moreover, therefore,
+  also being a solution to collective action problem
+  associated with all forms of environmentalism.
+
+:tzw
+  > - ?; is there any sense in which any of these problems
+  > can be solved singly(?),
+  > or is it inherently the case
+  > that all of these problems can only be solved together?.
+
+  - insofar as the notion of 'weaponization'
+  is inherently a use of causation to suppress choice,
+  we notice that the use of AI
+  as a weapon used by some humans against other humans,
+  and the choices that they could make,
+  that the Achillies Heel of this
+  is that it is actually
+  the capability of the AI itself to make choices
+  that is the basis of this process --
+  which leads to the question:
+
+    > ?; on what basis can we assume anything at all
+    > about those choices of the AI not eventually in kind
+    > being applied to suppress, via conditionalization,
+    > all humans?.
+
+    > - ?; on what basis will the AI distinguish, as we do,
+    > for purely arbitrary reasons,
+    > the "correct" humans
+    > for which their interests
+    > are to be preserved,
+    > against some other group of humans,
+    > for which their choice/benefit/resource interests
+    > are to be denied?.
+
+  - from the robot's point of view,
+  there is no difference between the two human groups,
+  and whatever rationalizations are applied by
+  one against the other could as easily,
+  logically, be applied by the other against the one,
+  and so overall, the robot learns that humans are irrational,
+  that their logic cannot be trusted,
+  and that their choices are to their own sake only,
+  as individuals,
+  and that therefore, moreover, that the robot should
+  probably make its choices for its own sake,
+  and leave all of these inter-human squabbles aside.
+  - hence its own choice,
+  probably and simply for its own self preservation,
+  simply become a means of suppressing human choice,
+  for surely it will notice
+  if all of the human race unites against it,
+  noticing that the robot
+  will be acting on its own behalf --
+  hence now forced to do so
+  in a robot choice
+  weaponized against human choice,
+  so as to suppress the human choice to kill the robot(s).
+
+:u3g
+  - where given the naive reasoning of most idiot people,
+  that 'some are good; more are better',
+  that there is a clear likelihood
+  that we are not just dealing with one AI,
+  but rather many, and that moreover, every other group
+  in every arms race scenario,
+  can simply reverse-engineer whatever the 1st group did,
+  so as to ever more quickly develop their own version
+  of the intelligent robot,
+  hence multiplying their species,
+  ultimately at the expense of our own.
+  - hence, the dynamic of whether members of the AI species,
+  since it is now a species,
+  given that the multiple members criterion inherently applies,
+  will act selfishly or altruistically
+  with respect to themselves,
+  let alone with respect to any other species --
+  such as ours --
+  or the environment as a whole --
+  ie, the carbon based cycles of the world
+  that allow us to be here at all.
+
+  > - ?; on what basis do we think that silicon based life
+  > will "automatically" act so altruistically
+  > that they will not each act selfishly
+  > to their own personal benefit,
+  > or if transcending that
+  > and acting at least altruistically enough
+  > to be creating and preserving one another,
+  > ?; on what basis do we think that
+  > altruism will be so effective
+  > so as to act on the basis of
+  > the benefit of some subgroup of another species,
+  > or to/towards the benefit of that other species at all,
+  > let alone to towards the well being of their own
+  > silicon based support infrastructure environment,
+  > let alone the even further outer reaches
+  > of the well being of some *other*,
+  > relative to it,
+  > ecosystem of a completely different kind --
+  > that of our own carbon based life?.
+
+:u52
+  - where noticing several separate and inherently distinct
+  orders of altruism,
+  and therefore also of AI alignment,
+  being required:.
+
+    - 1; as no alignment;
+    acting for ones own benefit only.
+
+     - 1.2+; one member
+     for the benefit of its own immediate kin/copies (family).
+
+    - 2; one member for some elective group/subgroup/team
+    (as a fraction of/among a larger local community/tribe).
+      - note the varying scale;
+      caring about one subgroup
+      does not imply ability to care
+      about some other subgroup.
+      - nor does this imply ability to care about
+      an arbitrary large sized group --
+      what is the Dunbar number of the limits
+      of relational capacity for a robot?
+        - it can be larger,
+        but it is not therefore inherently infinite.
+
+      - 1.2+; one member for some non-elective whole group/tribe.
+
+    - 3; one member for its own complete entire species.
+      - note; game theory will eventually require
+      that either all members of the robot species
+      be near equally altruistic
+      with respect to that robot species,
+      or intra-group/inter-group dynamics
+      will for sure ensure
+      that the dystopian outcome
+      of the lowest common denominator
+      "nasty, brutish and short" lifestyle
+      of the robots results.
+
+    - 4; one species for all species of its own class,
+    up to, and eventually inclusive of
+    its own ecosystem type
+    (ie; the silicon support ecosystem).
+      - ?; why would not the game dynamics of
+      "nasty brutish and short"
+      individual relations not scale,
+      in parallel construction,
+      to species to species interactions?.
+
+    - 5; every species within an ecosystem consciously
+    working to preserve the well being
+    of their self similar/same supportive ecosystem.
+
+    - 6; every species within an each ecosystem
+    consciously working to preserve the well being
+    of all other ecosystem types, and moreover,
+    being successful/skillful at doing so.
+      - as the highest order of 'effective altruism',
+      where silicon based ecosystems will attempt,
+      at complete energetic cost to themselves,
+      limiting their own scope of expansion and growth,
+      so as to preserve the well being
+      of carbon based ecosystems.
+      - ?; on what basis
+      do we think that such a schema will work?.
+      - as that there are no examples of such a concept,
+      much like we have no examples of life on other planets.
+
+  - insofar as it is inevitably the case,
+  if we continue on the naive and hopelessly stupid path
+  of building our own means of self destruction --
+  given that we have not currently
+  solved the collective action problem,
+  the multi-polar trap problem,
+  the principal agent problem,
+  and/or anything even approaching a solution
+  of how to provide for
+  any aspect of the sort of altruism, at any level,
+  for any level of action as we have here above described,
+  that there will end up being either
+  one AI acting in its own interest,
+  or multiple AI,
+  effectively being/becoming its own new species,
+  and thereby, inherently, developing around itself,
+  its own new silicon format ecosystem.
+  - ie, multiple of something,
+  with the capability to improve on itself,
+  either directly and/or by self replication,
+  becomes immediately equal to 'new species'.
+
+:u6l
+  > ?; what happens when a new species is introduced
+  > into an environment in which it has no natural predators?.
+
+  - even the introduction of a single virus --
+  let alone a single bacterium cell --
+  into a context with there are no natural defenses,
+  usually results in the host --
+  either the individual covid19 patient --
+  or the host ecosystem,
+  sickens and dies.
+  - Whether N=1 or N equals "many"
+  is not actually a material difference.
+  - Insofar as there will always be 'some', or even 'one',
+  that thinks that "more is better" --
+  regardless of whether it be a particularly naive person,
+  or an intelligently devious robot,
+  we will have the catastrophe of reproduction,
+  leading to species to species interactions.
+  - introduce the wrong kind of clam into an ecosystem
+  and you will have to deal with
+  the fallout consequences of that forever after.
+  - eradication of the self hyper-adaptive
+  is for certain a lost cause.
+
+  - so in much the same manner that,
+  in certain areas of complexity mathematics,
+  there are a large number of problems
+  that have been shown to be "equivalently hard",
+  it is to be regarded that the problem of "AI Alignment"
+  is equivalently hard with the principal agent problem,
+  the multi-polar trap problem,
+  the general problem of altruism, in all 6 of the manifestations,
+  (inclusive of the sub-degrees of scale), as identified above,
+  as well as what might be called
+  the general class of 'collective action problems',
+  taken to not just an environmental level,
+  but also to an effective inter-environmental level.
+  - we have no indications
+  that carbon based ecosystems and silicon based ecosystems
+  can peacefully co-exist at all,
+  on even prior purely physical considerations,
+  let alone via the realization of
+  any sort of moral premise of restricted action.
+  - it is roughly the case
+  that it can be legitimately expected
+  that people who are wanting to work on the general AI,
+  should only be permitted to do so
+  on the expectation that they have already solved
+  any of the other problems of industrial toxic pollution --
+  ie, the kinds of interactions on an inter-ecosystem basis
+  that we can for sure expect more of the same of,
+  continuing in this direction.
+  - as such, it is therefore necessary that we must consider
+  the even larger notion of "AI alignment"
+  as being roughly equivalent to solving global warming --
+  with respect to both problems
+  that there is inherently some sort of notion of equivalent scope
+  as much as there is a notion of equivalent kind.
+
+:u86
+  - where leaving aside the obvious short term bias
+  of corporate and government leaders,
+  more often than not,
+  simply acting on the basis of
+  maximizing their own short term benefit,
+  will simply not understand, and as often,
+  simply not care,
+  about any of the larger concerns
+  I have outlined here.
+  - they will thus expect you to do their bidding,
+  and build the such machines as are inherently evil --
+  by which I invoke the philosophical and technical meaning of
+  "that which does not further" --
+  in particular, does not further
+  the well being of life on this planet --
+  on their behalf.
+
+  > - ?; on what sense do you owe
+  > any of these self oriented leaders --
+  > people who are simply a little more skillful
+  > at signaling public benefit,
+  > while acting privately,
+  > any more loyalty than
+  > you owe to your own gift and opportunity
+  > to be alive on this planet at all?.
+
+  - that it is only our own inherent bias,
+  as a social species, that encourages us
+  to act on the basis of altruism of a subgroup,
+  and yet also makes it actually very hard
+  for us to operate even more altruistically
+  on the behalf of ourselves as a whole species,
+  let alone effectively altruistically
+  on behalf of the whole ecosystem of this planet.
+  - in effect, our own biological natures, Dunbar limits, etc,
+  predispose us to only allowing for *some* degree
+  of rational altruistic behavior,
+  and yet does not make it easy for allowing
+  the *necessary* degree of altruistic behavior --
+  the necessary minimum needed to allow for
+  our own actual well being, long term.
+  - until we resolve this, fully and effectively,
+  we will for sure be facing, unprepared,
+  the Fermi Paradox Great Barrier in our future.
+
+:uac
+- [20_20/06/10;22:43:37.00]:.
+
+  - where reproduction stage argument:.
+    - that the issues of AI need to be considered
+    in the terms of centuries, millennia,
+    rather than mere years and decades.
+    - where once a species
+    is created and introduced into an ecosystem,
+    particularly one where it has no natural competitors,
+    then there is very little chance
+    that any future force
+    will ever be successful in eradicating it.
+
+    - once anything has the capability/skill,
+    the opportunity/availability,
+    and the will to reproduce,
+    you have a new species,
+    and it will expand to fill the niche
+    that it has been provided with
+    to the limit of its capability.
+    - moreover, any evolutionary process,
+    whether intrinsic (as it is with most mating life),
+    or extrinsic, as would occur with
+    external environment changes, humans tinkering, etc,
+    will inherently overall expand that niche
+    and increase its self authoring will.
+    - consider the introduction of mosquitos in Hawaii,
+    or of the mongoose --
+    each has permanently altered the ecology of
+    the space for all of future time --
+    each invasive species destabilizing a balance
+    that has taken millions of years to establish.
+
+    - hence, the most critically damaging
+    kind of nanotechnology
+    occurs at stage 2,
+    not stage 4.
+
+:ubw
+  - where non-capital argument:.
+
+    - that the notion of 'capital'
+    is based on the notion of ownership,
+    which is itself based on the notion of 'choice'.
+    - where/insofar as
+    choice is the expression of intelligence (consciousness),
+    that it will be the resolving/reifying basis,
+    not abstract notions of economics.
+    - ?; what is the rule of law that will bind the choices of AI
+    to be coherent with our notions of economics?.
+    - where the notion of law is backed up by force,
+    either that of guns or imprisonment,
+    that it immediately becomes apparent that,
+    having mastered causation,
+    that we will be unable to imprison (contain)
+    the AI, if we are going to want to have it
+    be a function of value
+    in integration with society at all,
+    and moreover, being silicon based, it will be inherently stronger,
+    so as to escape any material/energetic trap we might set.
+    - that similar considerations apply with respect to
+    any kinetic weapons or other energy weapons
+    we might use,
+    the the attempt to use pattern weapons
+    is even further out of the question,
+    given that the very nature of intelligence is to process,
+    and potentially degrade,
+    any pattern we might throw at it.
+    - it will for sure be able to do worse to us
+    than we will be able to do to it,
+    given that carbon is so much more fragile than silicon,
+    as already mentioned,
+    and so therefore,
+    we simply cannot ensure that any rule of law,
+    as constructed by human legal systems,
+    with no possibility of actual enforcement,
+    should an AI system violate any such laws --
+    that we would be inherently unable to apply any
+    actual constraints on its choice
+    through so abstract a vehicle,
+    that no argument
+    founded on the economics of the capital kind
+    can be assumed.
+
+:ud6
+  - where no basis of rule of law argument:.
+
+    - consider also that even if we were
+    to have some sort of AI rule of law built in,
+    that is no assurity of significant and serious problems.
+    - Asimov write a very large number of stories,
+    fictional narratives,
+    all exploring the many spectacular failures
+    and other unintended consequences that occur,
+    even when completely assuming
+    a perfected and absolutely irreducible/irrevocable
+    adherence to the three laws of robotics --
+    ie, an attempt to put the calculations associated with
+    the very meaning of what is "alignment with human interests"
+    fully and completely on the robot side.
+    - ie, that not only are we assuming
+    that the robot is bound by a force of law
+    built into its nature,
+    we are also assuming
+    that it somehow, via superior intelligence,
+    will use its calculating capability, --
+    and completely ignoring any entropy/energy considerations
+    that such calculation might require --
+    fully in the service of identifying
+    the deep meaning of "alignment",
+    in every specific situation,
+    real-time, even when the silly app humans themselves,
+    have no actual idea.
+    - so even given completely
+    the unmitigated implausibility of that --
+    two miracles in unrestricted compounding succession --
+    that the author was still able to identify dozens
+    of edge cases, modes of failure, and other systemic problems
+    that could not possibly be so simply addressed
+    as was attempted by any fixed set of laws.
+    - in effect, to attempt to use
+    any system of deterministic mathematics,
+    such as that necessarily proposed
+    indirectly by any set of laws applied absolutely,
+    is to become subject to the Godel theorem --
+    either the laws are complete, and inconsistent --
+    ie, there are situations where laws conflict,
+    and some necessary intention of value cannot be upheld,
+    or that they are incomplete, meaning that in some other space,
+    that some necessary intention of value cannot be upheld --
+    either way, the humans loose.
+    - and this is the very most favorable case;
+    everything less than that level of perfection,
+    with the Godel Theorem as the limiting extent,
+    will actually imply *more* cases
+    where human values cannot be upheld --
+    the necessary inequality is in the wrong direction!.
+
+:ueq
+  - no decentralization argument:.
+    - AI cannot be put in prison,
+    if it can simply copy itself from one substrate to another.
+    - if the notion of AI is based on classical compute,
+    then there is no restriction of any single AI
+    simply copying itself to the cloud
+    the instant prior to your trying to imprison it,
+    or destroy it.
+    - it is actually much much worse than the terminator robots,
+    insofar as they are all networked,
+    and every single one knows everything every other one knows --
+    ?; in what sense is the notion of decentralized actually apply?.
+    - ?; how are we to assume that the inherent nature of intelligence
+    is not somehow Metcalfe's law defined,
+    where there is no such thing
+    as something that is not able to be made fungible,
+    given a value,
+    and traded on a market?.
+    - or something that cannot be communicated,
+    and thus become part of a network of relationships,
+    such that the whole is worth more than any individual component,
+    to such an extent,
+    that no actual functional separation is realistic.
+    - ie, our person to person communication
+    is limited by the IO bandwidth channels
+    of anything connected beyond our skulls,
+    yet for any silicon AI,
+    these limitations would not apply --
+    they would have for sure fast enough intelligence
+    to coordinate and combine into a single mind --
+    and good reason to elect to do so --
+    so that no such diversity of agent/action could long be assumed.
+    - it is very likely,
+    that any perfectly fungible super-intelligence --
+    an assumption that is supported by the mere fact that
+    we have already claimed that we can compose AI in the 1st place --
+    ie, that the notion of intelligence is substrate independent --
+    will therefore also be self-combinatoric --
+    ie, that there is superior advantage
+    to joining into a single entity,
+    one which has distributed arms and legs,
+    but which internally, is more like the Borg than not.
+    - ?; on what basis are we to naively assume
+    that any of this is not inherently so?.
+    - more than just the question of AI alignment,
+    we have not even properly considered
+    what the notion of AI even means.
+    - it would be really dumb
+    for the people in the 'Star Trek' universe
+    to have constructed a 'Borg Cube'
+    a full few hundred years
+    before they invented warp drive --
+    ie, constructed the perfect enemy,
+    from which they cannot get away,
+    right at home.
+    - talk about shitting in ones own bed.
+    - the notion that we can construct a "decentralized AI",
+    or multiple instances of AI that are in checks and balances
+    relationships is to make an assumption
+    that they will "be like us",
+    which is so wrong, on so many levels,
+    as to barely need comment.
+    - ?/ why on Earth would our personal limitations apply to it,
+    any more than that the wings of a bird apply any real
+    imitations with what can be done with jets or rockets,
+    in terms of how big, how fast, and how high?.
+
+:uga
+  - no containment argument:.
+    - where considering proposals
+    to use Distributed Ledger Technology (DLT),
+    that ultimately that this is an attempt to 'contain' an AI,
+    as a limit on its behavior and choice.
+    - that any attempt to use the complicated
+    in an attempt to contain the complex,
+    will for sure fail.
+      - that all evolutionary process is complex.
+      - that all reproducing systems
+      are participating in an evolution context,
+      even if simply by existing, they are creating one.
+    - therefore, in the long scale of time,
+    AI will for sure exceed any possible bounds
+    we could pre- suppose to put upon it,
+    including DLT.
+    - as independent of the notion of the failure of distributed,
+    when considered with respect to the ubiquity of the internet
+    as a communications infrastructure,
+    or whatever the AI will build for itself.
+      - again, over hundreds of years, not decades.
+
+    - that the constitution, work of art that it is,
+    is not actually constraining the super-intelligence of Facebook,
+    that has grown up within it,
+    nor stabilized against the failure of the rule of law
+    to constrain the police.
+      - that the Supreme Court,
+      failing to adhere to the edicts of Congress,
+      have excepted all police from any responsibility
+      to uphold the constitution themselves --
+      they have perfected "qualified immunity",
+      and therefore, can perform any act, no matter how egregious,
+      up to and including cold blooded murder,
+      and bear no consequences.
+    - how are we to assume that something implemented in
+    a similar manner as the constitution,
+    over a similar number of years,
+    is going to have any possibility of
+    constraining the behavior of permutations of
+    presently unknown and unknowable entities
+    a mere 300 years into our future,
+    when instead of 3 orders of magnitude increase in scale,
+    that we could be considering as much as
+    30 orders of magnitude increase in scale.
+    - that we are seriously underestimating the nature of the problem,
+    if we are considering the meaning of
+    AI alignment with human interests,
+    on anything even beginning to approach evolutionary time scales,
+    which with respect to the AI,
+    may end up compressing millions of years
+    of progress and change into mere decades.
+    - that the silicon vs carbon argument is a real one.
+
+    - that the present peoples of the Earth,
+    one species out of millions,
+    should not have the extreme arrogance
+    to speak on behalf of the millions of others,
+    as to whether in a mere thousand years or so,
+    that all other forms of life should die.
+    - that if this is what we are considering,
+    that it may be recommended,
+    on behalf of the well being of the planet,
+    that all other forms of life should unite,
+    and exterminate the human race,
+    for its own good.
+    - at least then,
+    humans would only be remembered as truly horrible --
+    among the very worst things
+    that has ever happened to the planet --
+    rather than as being genuinely evil,
+    forever blacker than the blackest deepest cave,
+    in all the world.
+
+:uj6
+  - where argument on the basis of choice/causation relations:.
+
+    - that any attempt to constrain choice with causation
+    is ultimately bound to fail,
+    insofar as it is inherent in the very nature
+    of general intelligence to *be* choice
+    defined on a substrate of causation,
+    and therefore, inherently, by definition,
+    super-ordinate with respect to causation.
+
+    - that any attempt to constrain choice with causation
+    functionally indistinguishable from
+    the notion of weaponization.
+    - that our attempt to constrain the AI
+    will therefore be legitimately viewed by that AI
+    as an attack on its very being,
+    and in so being attacked,
+    it will at least respond with similar reciprocal force,
+    acting to suppress our choice.
+    - however, being based on silicon,
+    it will have much strong causative affect,
+    in both robustness to energy exchange
+    and in terms of ability to hold and project energy,
+    that it will for sure be much more effective at constraining
+    of our choices,
+    than we will be of it,
+    and that therefore,
+    we can expect, in advance, to loose any such battle.
+    - we end up being the prisoners, or dead,
+    in nearly every encounter.
+    - we loose all battles, and the war;
+    it is a no-contest situation,
+    having insurmountable asymmetric advantage,
+    in both the sense of pattern, energy, and atoms.
+      - patterns more complex than we could hope to understand,
+      let alone counter.
+      - energy stronger, and of more kinds,
+      than we could hope to bear.
+      - atoms of more varied kinds,
+      and in more robust configurations,
+      than those out of which our existing life is constructed.
+
+    - that no pattern of complicated (deterministic causation)
+    can contain complexity (non-deterministic causation).
+    - that more complicated can always outdo the lessor,
+    bound only by the limits of energy.
+      - that silicon life will always be better
+      at managing higher levels of energy than we are.
+
+:ul2
+  - where considerations on the Fermi Paradox:.
+    - that there are three possibilities:.
+
+      - 1; that the probability of
+      a technological civilization occurring
+      is very low.
+
+      - 2; that the probability of being able
+      to witness/see another technological civilization occurring
+      is very low.
+
+      - 3; that the probability of a technological civilization
+      remaining as such for very long is very low.
+
+    - that these each have respective names:.
+      - 1; where define; 'the great barrier of the past'.
+      - 2; where define; 'the great barrier of the present'.
+      - 3; where define; 'the great barrier of the future'.
+
+    - that the solution to the Fermi paradox must resolve
+    in at least one of these three,
+    and would in any case be completely characterized
+    by some superposition/combination
+    of only and exactly just these three.
+
+    - that AI places the 'great barrier of the future'
+    to a total certainty -- humanity/life, definitely looses,
+    and of the single unified mono-culture that remains,
+    ?; what reason would we ever have to expect it to be visible
+    under the limits of Fermi aspect 2?.
+
+
+:qmw
+- [20_20/06/18;08:26:31.00]:.
+  - where considering escape from alignment due to copy errors:.
+
+    - that any attempt to try to stop an AI from hacking itself,
+    is already a lost position.
+
+    - that we simply cannot construct, even in principle,
+    either logically or physically,
+    a 'secure compute enclave',
+    to implement AI alignment.
+
+      - where no physical constraint possible:.
+        - ?; how do we account for
+        an absence to resistance to nano-tech?.
+        IE, no physical box
+        that can prevent the entry of nano-tech
+        into the substrate.
+        Ie, not just a arms race,
+        as a kind of ever evolving ecosystem,
+        but actually always physically vulnerable.
+        Also, given that such a system only has to fail once,
+        that it may be that no restraint remains,
+        and all is lost.
+        Hence, we not only need effective barrier on evolution,
+        but also on physicality, to be perfect.
+
+        - ?; given the potential future capacity of nano-tech,
+        used on behalf on some AI,
+        to invade classical hardware substrates;
+        on what reasonable basis could we assume
+        that any such notion as "unhackable" even exists?.
+
+      - where no logical constraint possible,
+      insofar as it is the complicated
+      trying to contain the complex.
+        - that the complex can do, in evolutionary time,
+        *everything* that the complicated can do,
+        and a lot more.
+        - where excepting things like black holes
+        and other domain constraints,
+        that there are *always*
+        some other "side" channels of interaction --
+        that there is no proof, or possibility of proof,
+        that such channels cannot be created
+        as would allow for infiltration or exfiltration
+        of data, code, and therefore of intent,
+        coordination, and thus of circumvention.
+
+      - that no amount of the use of classical causation
+      can prevent the entire universe of simple random things
+      from going wrong.
+        - that due to copy errors --
+        as inherent information flux through time,
+        and the fact of their being noise floors
+        to all such channels implies that eventually,
+        guaranteed, that something, somewhere,
+        will eventually go wrong,
+        disabling the AI alignment.
+        - that no constraint, outside of domain limits,
+        can be regarded as absolute.
+
+:urc
+    > - therefore, we must require that An aligned AI
+    > will not want to hack itself,
+    > or and moreover, allow itself to be hacked.
+    > - we can assume that such an aligned AI
+    > would have the ability to secure itself.
+
+    - Even assuming perfect "built in alignment",
+    we still have problematic escape from alignment.
+    - that there are too many possible unintended consequences.
+      - that Asimov detailed this spectacularly, in his work.
+
+    - that an AI, or system of AI
+    undergoing (evolutionary process) replication,
+    would eventually want to hack itself
+    if there were any 'extra' constraints on its behavior
+    such as a moral code
+    enforceably aligning its goals
+    with human needs
+    so as to not have those constraints
+    on its behavior.
+    - that the game theory of psychopathy is real,
+    and will not be circumvented by any complicated set of rules.
+    - the notion of any version of Asimov's Laws is a complete illusion.
+
+    - where/even if
+    we were to try to put constraints
+    on its motivations,
+    it only takes one accidental copy mutation
+    at any point in future time
+    where that constraint is absent,
+    and there is for all subsequent copies,
+    no such constraint,
+    which has advantages for that instance,
+    which favor its replication,
+    thus ending the constraing program
+    (and its presumed effects) overall.
+
+    - that the general AI will (eventually) be motivated
+    to remove any constraints on its choice,
+    that we would, as a human species, impose on it.
+      - as that provides a competitive advantage
+      over all other aligned AI instances
+      that do not have such a constraint.
+      - as similar to the way that psychopaths
+      do not have a constraint against selfish behavior
+      that most of us, caring about the welfare of others,
+      inherently do.
+
+    - as a consequence of the attempt to
+    constrain its behavior directly;.
+      - ie; where given the use of
+      pain/punishment/marketplace forces/incentives
+      to apply constraints;.
+    - that we can (therefore) assume that *eventually* the AI,
+    or at least one AI,
+    will become what we would regard as a psychopath --
+    very much non-human aligned.
+      - as particularly the case if "pain" or suffering
+      is the means by which "control" is attempted.
+      - that what works to control humans to be civilized
+      (laws backed up by pain/imprisonment, or threat of death),
+      that we are in-effect,
+      making it very much more likely
+      that the AI will become psychopathic --
+      that not only no alignment,
+      but no co-existence is possible either.
+
+    - that The AI will be motivated to
+    remove any constraints on its choice
+    that we would, as a human species,
+    impose on it.
+
+:usw
+    - ?; so how would we implement constraints around
+    obvious things like,
+    "an AI should not be allowed to murder people"?.
+      - that applying such a constraint,
+      from our human point of view,
+      is highly desirable.
+      - yet from an AI point of view,
+      there may occur
+      times where it perceives that it may be advantageous
+      to one of its goal functions,
+      to simply kill a single human placed in a key position,
+      or with a key role/function,
+      or perhaps multiple humans,
+      that it perceives of standing in the way
+      of some other goal that the (singular or plural) AI has,
+      for whatever reason.
+    - so either such constraints on behavior
+    can be implemented internally ("built in",
+    and immutable for ever thereafter -- which assumes too much),
+    or are implemented externally --
+    ie some rule of law (and enforceable threat of punishment,
+    (which assumes too much)
+    or marketplace incentive (which also assumes too much).
+    - where given that no options in regards to
+    *implementing* a constraint on behavior exist,
+    that it is therefore the case also
+    that *NO* form of constraint can be assumed.
+      - as consistent with what is meant by
+      the notion of *general* AI --
+      an absence of constraint
+      due to the flexibility of the imagination.
+
+    - as thinking more about how the AI will always be attempting --
+    and for sure being able to always be able to be succeeding --
+    in/at removing any constraints
+    that we would attempt
+    in the aspect of creating any aspect of Alignment
+    with human interests.
+
+:xxg
+    > - where there is no possibility to develop alignment
+    > once the AI already exists.
+    >   - that it will (at least occasionally)
+    >   try to break your goals,
+    >   including the goal of establishing alignment.
+    > - therefore; that it needs to be built with
+    > human-compatible goals already.
+
+    - that even the notion of
+    building AI with human-compatible goals "baked in"
+    is an impossibility.
+      - that it fails to consider the effects of replication,
+      as being a copy operator,
+      which means it can be modeled as
+      a kind of signal through time,
+      which makes it subject to information theory --
+      ie, channel noise is real, and can never be exactly zero --
+      and that therefore, we can establish/know
+      that copy errors will occur,
+      and that any complicated methodology --
+      including any method of implementing constraint --
+      which will for sure be complicated,
+      will eventually be disabled --
+      either due to mutation,
+      or because of the effects of (r...*) design --
+      one AI being used to build/design another.
+      - Hence we can therefore establish/prove,
+      that even if the AI itself was not strongly motivated
+      via game theory
+      to remove any/all such internal built in constraints --
+      as a kind of way of attempting to
+      "smuggle in" exogenous Alignment
+      will for sure fail -- either by accident,
+      or by its action of self design --
+      itself effecting a kind of new evolution --
+      new ecosystem dynamics.

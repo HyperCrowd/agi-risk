@@ -1,0 +1,429 @@
+TITL:
+  *Nine Points of Collective Insanity*
+  *By Forrest Landry*
+  *Oct 15th, 2020*.
+
+ABST:
+  Description of the 'slippery slope model'
+  of how it happens; the way in which AGI/APS
+  takeover begins, as the stage immediately
+  prior to the power-seeking behavior, and
+  other downstream problem implications.
+
+PREF:
+  - where acronyms list:.
+    - AI: Artificial Intelligence (ie, Narrow AI).
+    - AGI: Artificial General Intelligence.
+    - APS: Advanced, Planning, Strategically aware Systems.
+    - NAI: Narrow AI (note the (@ distinction https://mflb.com/ai_alignment_1/si_safety_qanda_out.html#pg_3_r)).
+
+TEXT:
+
+  - where considering how proto-AGI/AI systems,
+  when in interaction with humans
+  are shaped into more advanced AI/AGI systems.
+    - ie; how 'human to human' interactions
+    bootstrap the 'human to AI' interactions
+    into a collection of AI to AI interactions.
+    - as also about how narrow AI becomes general AI.
+
+  - where a prediction of the trend of the future:.
+
+    - 1; that engineers desire to explore
+    the outer limits of AI functionality.
+      - as per (@ note 1 #note1).
+
+    - 2; that business owners desire
+    to expand the utility generality
+    so that they can market, sell, and extract,
+    more value.
+      - as per (@ note 2 #note2).
+
+    - 3; that venture capitalists and investors
+    desire to maximize profits,
+    and so drive/compel CEO and executive team
+    to direct/compel the engineering groups
+    to make more and more powerful/general AI,
+    to/towards business process optimization
+    objectives/goals.
+
+:dcu
+    - 4; that engineers,
+    where continually having to make
+    increasing changes to the AI systems in use,
+    and overall increase the AI capability,
+    as directed by owners/investors and
+    overall startup investment business culture;
+    that they end up in a kind of multi-polar trap
+    to develop both stronger and stronger
+    AI systems/capabilities,
+    *and_also* to automate the increase of
+    the design and deployment process
+    for all of these capabilities,
+    inclusive of the capability
+    to deploy more capacity,
+    to design the design of more capacity, etc.
+
+:deq
+    - 5; that business owners,
+      (where seeing reduced costs
+      associated with people/engineering
+      due to increased design and deployment
+      process automation),
+    elect to push harder/farther/faster
+    to factor out the expensive humans sooner,
+      (ie; by reducing the engineering team
+      and system monitoring/oversight teams).
+      - note; for somewhat similar remarks,
+      refer to (@ "How AI Fails Us" https://carrcenter.hks.harvard.edu/files/cchr/files/howaifailsus.pdf).
+        - as also arguing that tech use,
+        over decades, has led to general reductions
+        in economic output overall (human wellbeing),
+        even though individual investors
+        may have also (selectively) become richer.
+
+:dgw
+    - 6; that venture capitalists
+    then see dramatically increased capability
+    to recognize, design and deploy
+    optimized business plan process.
+      - ie; where less and less invested capital
+      results in more and more
+      capital return on investment
+        (ie; in the form of increased efficiency
+        of all business/market marketing and sales
+        of AI services
+        as an extractive money making process).
+    - then/that/therefore, the VC
+    start using that optimizing power
+    (of the now near fully general AI)
+    to predict, and even more fully automate,
+    the design of further and ever more efficient
+    market value investment strategies
+    that automatically return
+    more and more value on investment,
+      (ie; with fewer and fewer people
+      involved anywhere in the process).
+      - as basically the Google, Amazon, etc,
+      business models, (insofar as they attempt
+      to factor out all human involvement,
+      as much as possible, in favor of profit),
+      along with the entire
+      crypto currency movement, and/or
+      the emphasis on DAO/Etherium, etc,
+      insofar as they factor out
+      groups of people altogether.
+
+:dk4
+    - 7; that this overall 'factoring out'
+    of people has a few stages of its own:.
+
+      - where/first it begins with
+      the customer service people --
+      they are automated away
+        (since that is expensive,
+        and no one wants to do it --
+          everyone hates working with
+          abusive customers anyway).
+
+      - that then the engineers building
+      the capability to build capability
+      automate themselves away,
+        (but *not* before also developing
+        automation of maximally efficient
+        optimized marketing and sales processes,
+        since those sales/marketing people
+        tend to also be *very* expensive
+          (and opinionated temperamental
+          narcissist artist types too)).
+
+      - then, when the VC --
+      seeing that the executive team
+      is no longer needed --
+        (since everyone else
+        has already been factored out
+        of the overall company structure)
+      that they (the VC folk) notice
+      that they also have the capability
+      to make fully autonomous corporations
+        (maybe using some of the newer
+        'Decentralized Autonomous Orgs',
+        with a heavy crypto emphasis).
+        - (note; for parallel remarks, refer to
+        (@ Production Web scenario https://www.lesswrong.com/posts/LpM3EAakwYdS6aRKf/what-multipolar-failure-looks-like-and-robust-agent-agnostic)
+        by Andrew Critch,
+        both the engineers and CEO version,
+        as examples).
+
+:dp6
+    - where all of the people
+    in the entire org-tree
+    have been factored out;
+      (of what was once a "company", a corporation)
+    then that the overall situation
+    is effectively "passive income on steroids"
+    for the VC, so much so, to the point
+    that even the VCs themselves,
+    are no longer even having to evaluate
+    startup business plan proposals at all --
+    they already have the perfect evaluative tools,
+    and the ability, with their 'owned' AI,
+    to identify the 'best possible versions'
+    (the most profitable, and extractive versions)
+    of any possible business plan(s),
+    and therefore also, with the automation,
+    the ability to execute on that plan
+      (ie; now fully optimized for
+      return on investment, via AI,
+      without even needing any people at all,
+      in/at the new corporate inception).
+        - as also not at all incorporating
+        any sort of awareness of human needs.
+        - as a bit like the 'two masters problem',
+        where wall street investors are seeking only
+        capital over capital gains,
+        regardless of any secondary impacts
+        such actions may have in/on the larger world.
+        - also see (@ note 5 #note5) re 'metrics'.
+      - that the AI systems are increasingly
+      given as much data and knowledge
+      about real world business, situations,
+      background, aspects of practice, legal, etc,
+        (not to mention, a full suite of human bias
+        towards competitive seeking of power, etc,
+        whic will be/become important later).
+      - that corporations spawn more corporations,
+      all fully automated, (no humans necessary)
+      where even the 'what corporations to spawn'
+      is itself fully automated, self-selecting, etc,
+      on the basis of ever increasingly general AI.
+
+:dqq
+    - 8; where at some point, maybe far in the future;
+    that the entire process of 'economics',
+    of purchasing and selling at volume,
+    becomes more or less fully automated
+    within all of these corporations themselves.
+      - as accounting for the increasingly
+      substantial majority of all large scale,
+      large volume bulk aggregate economic activity;
+      that even the VCs themselves
+      are barely involved (no longer needed).
+      - that they also have ended up (eventually)
+      getting themselves factored out
+      by the (once) billionaires --
+      the ones who were the sources
+      of the investment portfolio funds.
+        - who needs an investment advisor
+        and/or a hedge fund manager
+        when the increasingly intelligent AI
+        can get more out of the market
+        than any predictive person could.
+        - ?; with fully automated and optimized
+        rapid trading AI software
+        available to anyone
+        with sufficient money to buy it,
+        who needs hedge funds,
+        VC investment funds, etc,
+        to optimize and increase
+        ones economic holdings?.
+
+      - that the net effect ends up being
+      that fewer and fewer actual people (users)
+      have any degree of significant potential
+      for any sort of combined economic impact
+        (aside from (maybe) a very few
+        world scale global trillionaires),
+      and the total share
+      of the overall world total economy
+      that has anything to do with
+      the real needs of people,
+      since the total value
+      of their 'investment ability'
+      is monotonically decreasing,
+      and at an ever increasing rate.
+
+:dt8
+    - 9; where eventually
+    that the handful of world mega-trillionaires,
+      (who are no longer needing
+      any other lower stages of humanity
+      to select and 'operate' and/or 'implement'
+      (ie; 'execute' or 'execute with')
+      any part of 'their holdings',
+      or market/political/world governance plans),
+    discover --
+      (where and as they grow old/older) --
+      (to their perpetual surprise) --
+    that it is *not* actually so easy
+    to 'hand off' the administration
+    of their fortunes
+    to their preferred next of kin.
+      - that the inter-generational transfer of power
+      is far more (inherently) complex
+      than it seemed
+      at any time prior to the attempt;
+      so much harder, to an extreme --
+      much more so than acquiring and developing
+      the power and holdings in the 1st place,
+      etc.
+
+:dwc
+      - that so many succession plans
+      turn out not to work:.
+        - that the overall complexity
+        of the overall process
+        *and* the sheer number and depth
+        of the secret keys used to
+        access and administrate and oversee
+        all of the complex and multi-faceted
+        money making process, automations, etc,
+        *and* the perception of significant risk
+        of multiple modes of possible exposure/loss
+          (that the plutocrat notices
+          as inherently associated with
+          their saying _anything_ to _anyone_
+          about _any_aspect_ of their "system",
+          let alone the risk
+          of actually giving anyone access controls),
+        all combine in such a way
+        the each of the current incumbent generations
+        will delay "teaching" the next generation
+        how to be/become the inheritor generation,
+        to the maximum extent possible.
+          - that a complete and consistent knowledge
+          of all that has happened, which is relevant,
+          over these long years,
+          and/or of all of the varied different kinds
+          of practical knowledge
+          that defines how to understand and operate
+          _the_system_,
+          gradually becomes increasingly lost.
+
+:dzs
+    - as leading to the sub-sequence of:.
+
+      - a; the next generation inheriting
+      has less knowledge/skill
+        (and for sure less exposure
+        to the details and key history)
+      than their fathers,
+      and so becomes less effective
+      at any of the key regulation and control actions.
+        - and also (@ note 7 #note7).
+
+      - b; that the general automation
+      has to either assume more self sovereignty,
+      OR it becomes decayed/broken,
+      no longer known or maintained,
+      and no longer relevant to the story.
+        - ie; failed systems,
+        no matter how much anyone
+        may be using and depending on them
+        simply do not get fixed,
+          because no one knows how.
+        - that people (even the ultimate rich,
+          though they may say that they are the
+          "ultimate governors of all things")
+        become increasingly ineffective and incapable
+        as one generation replaces the next.
+
+      - c; where after sufficient cycles of the above;
+      that *only* the 'fully self managing' systems
+      continue to endure in time.
+
+      - d; that eventually full market separation occurs.
+      - as that the once fully human mediated market
+      has become completely machine managed market.
+        - ie; as a fully virtualized market,
+        involving only digital currency, etc.
+        - that the 'human involving marketplace'
+        and the 'machine only process marketplace'
+        end up having no relationship to one another.
+        - that humans simply can no longer provide
+        anything that the machine market
+        needs or wants.
+          - labor and intelligence are not wanted,
+          and interest in human reproductive process
+          has never been even on the table
+          as at all "interesting" for/to machines.
+
+:e4a
+    - as having the outcomes of:.
+      - that these overall effects can only be known
+      in overview.
+        - where from the perspective of any of
+        the participants, these overall trends
+        are not at all obvious or clear, except
+        insofar as the individual participants
+        are directly affected, in their choice making,
+        strategy evaluation, next moves, etc.
+      - that prior 'human to AI' interactions
+      have effectively/functionally implemented
+      a bootstrapping of all kinds of possible
+      'AI to world' interactions,
+      and how these 'AI to world' interactions,
+      in turn, set the context and future
+      for all manner of 'AI to AI' interactions.
+        (or maybe 'AI to AGI' and/or maybe AGI to AGI,
+        etc)
+        - where those AI/AGI to AI/AGI interactions
+        are either exogenous
+          (if multiple AGI come to exist)
+        or endogenous
+          (if a world singleton AGI is the result).
+      - that (either way, one or many advanced AI)
+      there are now near-threshold-AGI systems
+      in interaction with each other and the world.
+
+  - as the "nine points of collective insanity".
+
+  ~ ~ ~
+
+:note1:
+  - that engineers desire to explore, due to:.
+    - geekery.
+    - desire for product sales.
+    - in-group prestige.
+    - out-group conflicts.
+    - drive R-and-D labs.
+
+:note2:
+  - that engineers, and their optimization methods,
+  broadly select for functionality
+  that is adaptable to/for achieving
+  an expanding set of (profitable) goals.
+  - that this happens by means of (for example):.
+    - outperforming humans at productive tasks.
+    - planning in pursuit of goals.
+    - strategic awareness.
+
+:note5:
+  - there are other problems with 'metrics'
+  inherent in all kinds of optimization processes
+  that are associated with the fact of floating
+  point (continuum) based measurement in itself.
+    - for example, there is a 'knapsack' type problem
+    when considering how to *compose* any sort of
+    singular unitary feedback process, for ML,
+    out of all of the 'intake sense data',
+    using any sort of formulaic/algorithmic process,
+    as distinct from, yet in addition to,
+    all of the data collection issues, etc.
+
+:note7:
+  - that many people
+  (particularly outside AI/tech communities)
+  are already struggling
+  to be keeping up with, and adapting to,
+  the currently deployed digital technology.
+    - as falling outside the heuristics
+    that evolution has equipped us with;
+    which is itself already far behind
+    recent improvements in AI research and
+    development over the last years.
+  - which is also not even inclusive of
+  adapting to widespread developer use
+  of current large transformer models,
+  which in many cases
+  are still uni-modal or 'single domain'.

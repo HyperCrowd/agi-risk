@@ -1,0 +1,284 @@
+TITL:
+   *AGI Alignment Errors*
+   By Forrest Landry
+   March 4th, 2022.
+
+ABST:
+   Where all AGI alignment schema must make use of
+   some sort of error correction dynamics,
+   that the fundamental intractability
+   of any such schema is considered.
+
+TEXT:
+
+   That any procedure of AGI alignment will
+   resemble some sort of error correction algorithm.
+
+   As with all algorithms,
+   the error correction algorithm itself
+   occasionally experiences errors.
+   This leads to a kind of recursion:
+     What code watches the code that watches the code?.
+
+   Unfortunately, no matter how many levels
+   of error correction are introduced,
+   there is always at least one more level of randomness
+     (possible errors and error types)
+   that nature introduces.
+
+   Note that "Code" (itself as a fixed state)
+   is also communication across time,
+   and over the very long term,
+   is just as subject to inherent 'channel losses'
+   as any other conduit.
+   This is as true for every layer of 'error correction'
+   as it is for 'the base code'.
+   Current systems usage
+   is merely tolerant to infrequent errors
+   simply due to larger non-criticality.
+   However, AI alignment is in every aspect a criticality --
+   the error only needs to happen once,
+   and you have a "non-aligned AI".
+   At which point,
+   game theoretic models take over --
+   the argument cannot *not* use ecosystem dynamic form
+   at that point.
+   Hence, the overall form of the paper.
+
+
+   > What if the aligned AI sets it's intelligence
+   > to making 'super good error correction code' ("SGECC")?.
+
+   SGECC is non-physical.
+   It is inherently non-realizable,
+   due to pure physics and math.
+   Ie; this truth does not depend on
+   any conceivable notion of 'intelligence',
+   regardless of degree or extent of that 'smartness'.
+   It is a result of pure information theory,
+   and thus, inherent in any compute system,
+   and thus, inherently at the base of
+   any intelligence system.
+   The implications are inescapable.
+
+      (Ie, that any error correction process
+      is strictly equivalent to a message passing process
+        (via whatever channel of feedback the regulation
+        and/or control signal is happening via)
+      and therefore, subject to all of the considerations
+      of any communication channel --
+      some noise will for sure be added.
+      Hence the need to add redundancy, etc,
+      to ensure that the errors are corrected.
+      However, there is no such thing as a perfected
+      perfectly error free error detection/correction
+      process that is proof to *all* types of errors.
+      There will always be *some* class of errors
+      for which a given correction protocol
+      simply does not work.
+      There are also arguments based on the
+      "no free lunch theorem" insofar as that it
+      is not even possible to "learn" how to correct
+      all possible classes of errors --
+      that there will always be forms of randomness
+      which are simply sufficient to overcome
+      any possible regularity seeking process
+      (ie; what learning is, what error correction
+      would depend on, etc)).
+
+   Also, notice that the problem of
+   what is meant by "error"
+   gets inherently increasingly ambiguous
+   as more and more dimensions and levels
+   of abstraction are added,
+   and thus less meaningful
+   in a real applied/embodied sense --
+   ie, to anything that would matter to
+   any ostensive "AGI Alignment Builder".
+
+   The more you try to invent SGECC,
+   the more you notice that the concept
+   is itself inherently self contradictory.
+
+   Perfected error correction is an illusion --
+   a notion created to appease politicians and diplomats.
+
+   Also, even if there was hypothesized to be an
+   an error correction system for the error correction
+   system, which inspecting itself for errors, etc,
+   there are even more classes of critical problems.
+   Adding more and more meta-levels of error correction
+   simply obscures the dynamics associated with any
+   single level of practice, basically because these
+   concepts end up being mappable as being functionally
+   the same in any case.
+
+   Notice that 1; any "found error"
+   will be 'a point change' to its own algorithm
+     (affecting one 'component' of that algorithm),
+   and 2; that the number of components required
+   in that algorithm,
+   to find such an 'errorfull component'
+   is strictly greater than one.
+   Now we can consider 3; the number of self components
+   that can be inspected
+     (in whatever number of dimensions of inspection)
+   as compared to the number of algorithm components
+   that would be minimally needed
+   to even have that capability.
+
+   Notice that this number (number of relations)
+   associated with the 'scope of examine'
+   includes not only itself,
+   but also everything outside of itself
+   which it also (in any way) controls/influences,
+     (and is therefore responsible to align)
+   as multiplied for/over
+   all of the dimensions of inspection
+   that are needed (for alignment, etc).
+
+   And then that model of itself that
+   would need to be aligned/tested/corrected
+   now also needs to account for the fact
+   that the model itself is touched everywhere
+   in its embodiment in at least some substrate.
+
+   So in summary, we have 'x1'
+     as the number of relations
+     in the error correction model/algorithm itself,
+   plus 'x2',
+     as the number of relations
+     in all that "is self" and that is not
+     the error correction model specifically
+       (any robot needs to be more than just
+       a self reflecting meditating brain
+       to do anything in the real world),
+   plus 'x3',
+     as any world relations
+     controlled and/or influenced
+     by the AGI/self
+       (since that affects alignment  realization),
+   and however 'x4'
+     how it models that outside world
+   and/or 'x5'
+     any aspects of self which are not
+     'error correction aspects of self',
+   and then also, 'x6',
+     it needs to add in all of the relations
+     of everywhere the AGI substrate touches
+     all of these other aspects.
+
+   That is a lot of factors,
+   none of which can be omit.
+
+   This becomes a total 'T' of something like:
+
+       T =       x1 + x2 + x3 + x4 + x5
+         + x6 * (x1 + x2 + x3 + x4 + x5)
+
+   Notice the product relation,
+   and that we do not know if
+   there are multiple levels of interaction
+   within the substrate X6,
+   or from the substrate into the AGI.
+   Also, if there is any kind of recursion,
+   some of these terms become (explode into)
+   factorials.
+   And clearly there have to be,
+   else the meta-level dimensions
+   of the model correcting (modeling) itself
+   are where the mis-alignments can happen,
+   and so therefore *must* be included too.
+
+   Inclusive of all of this,
+   the number of components
+   that need to be inspected
+   always increases strictly faster than
+   the maximum level of capability/scope
+   that the error correction model
+   could possibly have.
+   The number of components needed
+   to represent the model of all of this,
+   self, other, and an everywhere touching
+   of self and other,
+   as the number of relations
+   that are the basis of
+   the error correction model itself,
+   is strictly larger than
+   the number of components that
+   can be fixed by the model,
+   both in terms of absolute quantity,
+   and in terms of strict dimensionality.
+   It only takes a single product
+   to ensure this inequality,
+   and yet we have at least multiple factorials.
+
+   This completes the inductive argument form.
+   I do not care how "super" someone posits
+   the error correction algorithm to be --
+   I can always find some component of itself,
+   in some dimension, that it cannot inspect,
+   and which also causes ultimate failure.
+
+   Then, on top of that, some of these factors,
+   in all of the above relations,
+     (every one a possible channel of signal
+     with error values also passing),
+   ensure that the error correction algorithm
+   is also _time_bounded_ relative to the
+   nearly unbounded error seep rates.
+
+   ~ ~ ~
+
+   > - Paraphrasing the above paragraph;
+   > are you referring to
+   > that the time spent
+   >   by the error correcting mechanisms
+   >   to make comparisons on measured inputs
+   >   and respond with some addressed output signal
+   >   fed back into 'the system' to 'correct it'
+   > is strictly slower (requires more time)
+   > at directing signals through the system
+   > than the error-inducing components are
+   >   at directing signals
+   >   even *if* the uncommon/lucky situation transpires that
+   >   that input signals are directly indicative of errors
+   >   without, say, much further processing
+   >   along with previously stored/processed inputs
+   >     (and else, any errors
+   >     fed by expressed-code selected
+   >     through evolutionary selection
+   >     can linger, recurse, and build up
+   >     for an indeterminable period of time).
+
+   Yes.
+
+   Any channel of communication has some error.
+   The rate of even correct correction
+   is strictly less than the rate at which
+   new error potentially enters the system
+   at all possible interior points
+   in the algorithm basis itself.
+
+   The usual practice to address this
+     (such as in computers in spacecraft
+     which can anywhere get a cosmic ray bit-flip)
+   is to implement massive redundancy.
+   It is not error correction, so much as it
+   is robustness in signal response.
+   The signal bit rates are still mismatched
+   (and more so to the number of redundant copies).
+
+   Moreover, this robust response strategy
+   *only* works for fixed system design,
+   else the notion of 'redundant' has no meaning.
+   With an inherently *changing* dynamic notion
+   of what 'alignment' means, then this sort
+   of strategy simply cannot be well defined,
+   as the number of dimensions in which the
+   sense of 'what to copy' is itself varying.
+
+   Basically, it is the same pattern.
+   For each possible branch of the argument,
+   the same sort of inequality/impossibility
+   shows up (when thinking of general alignment).

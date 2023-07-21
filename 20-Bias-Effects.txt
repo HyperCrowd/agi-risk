@@ -1,0 +1,1094 @@
+TITL:
+   *Bias Effects*
+   *In Existential Risk Evaluation*
+   As Edited/Expanded By Forrest Landry
+   Monday, Aug 24, 2015;
+   Amended Wednesday, June 11, 2020
+
+ABST:
+   A list of bias customized for application
+   to AI-Alignment question.
+
+   This short essay
+   considers some of the
+   well known types of psychological bias
+   that will likely/potentially affect
+   any pending or past evaluative efforts
+   of the real probability and possibility
+   of various categories of existential risk.
+
+   Insofar as it is important
+   in any effort intended to obtain
+   an actual, real, correct,
+   and appropriate/complete risk assessment
+   in real choices being made,
+   it is therefore also important
+   to know, understand, and counteract
+   the effects associated with
+   each type of bias currently identified.
+
+   That this is particularly the case
+   in situations where there are
+   extreme levels of value at stake,
+   either in the form of:.
+     - direct dollars (billions); or;.
+     - in the level of prestige/status
+     (hundreds of career scientists).
+
+TEXT:
+
+:int
+   *Introduction*
+
+   Ideally, in any individual or group decision making,
+   there would be some means, processes, and procedures
+   in place to ensure
+   that the kinds of distortions and inaccuracies
+   introduced by individual and collective
+   psychological and social bias
+   do not lead to incorrect results,
+   and thus poor (risk prone) choices,
+   with potentially catastrophic outcomes.
+
+   Unfortunately,
+   while many types of bias
+   are known to science
+   and have been observed
+   to be common to all people
+   and all social groups,
+   the world over, in all working contexts,
+   regardless of their background, training, etc,
+   they are also largely unconscious,
+   being 'built-in'
+   by long term evolutionary processes.
+
+   These unconscious cognitive biases,
+   while they are adaptive for the purposes
+   of our being able to survive
+   in non-technological environments,
+   are also *not* able to serve us equally well
+   when attempting to survive
+   our current technological contexts.
+   The changes in our commonly experienced world
+   continue to occur far too fast
+   for our existing evolutionary and cognitive adaptations
+   to adjust naturally.
+   We will therefore need
+   to add the necessary corrections
+   to our thinking and choice making process --
+   our own evolution --
+   'manually'.
+   The hope is that these 'adjustments'
+   might make it possible to mitigate
+   the distortions and inaccuracies
+   introduced by the human condition
+   to the maximum extent possible.
+
+   Bear in mind that each type of bias
+   does not just affect individuals --
+   they also arise
+   due to specific interpersonal and trans-personal effects
+   seen only in larger groups (@ note 3 #note3).
+   These bias aspects affect all of us,
+   and in all sorts of ways,
+   many of which are complex.
+   It is important for everyone involved
+   in critical decisions and projects
+   to be aware of these general and mutual concerns.
+
+      > We all run on corrupted hardware.
+      > Our minds are composed of many modules,
+      > and the modules that evolved to make us seem impressive
+      > and gather allies
+      > are also evolved to subvert
+      > the ones holding our conscious beliefs.
+      > Even when we believe that we are working on something
+      > that may ultimately determine the fate of humanity,
+      > our signaling modules may hijack our goals
+      > so as to optimize for persuading outsiders
+      > that we are working on the goal,
+      > instead of optimizing for achieving the goal (@ note 2 #note2).
+
+   What is intended herein this essay
+   is to make some of these unconscious processes conscious,
+   to provide a basis for,
+   and to identify the need for,
+   clear conversation about these topics.
+   Hopefully, as a result of these conversations,
+   and with the possibility of a reasonable consensus reached,
+   we will be able to identify (or create)
+   a good general practice of decision making,
+   which when implemented both individually and collectively
+   (though perhaps not easily),
+   can materially improve our mutual situation.
+
+   The need for these practices
+   of accuracy, precision, and correctness
+   in decision making
+   are especially acute in proportion
+   to the degree that we all find ourselves
+   faced with a seemingly ever increasing number of situations
+   for which our evolution has not yet prepared us.
+   Where the true goal is
+   making rational, realistic, and reasonably good choices
+   about matters that may potentially involve many people,
+   larger groups and tribes, etc,
+   many specific and strong cognitive and social biases
+   will need to be compensated for.
+
+      *Particularly in regards to category 1 existential risks,*
+      *nothing less than*
+      *complete and full compensation*
+      *for all bias*
+      *and the complete application*
+      *of correct reason*
+      *can be allowed for.*
+
+   This essay will not attempt to outline or validate
+   any of specific risk possibilities and outcomes
+   for which there is significant concern
+   (this is done elsewhere).
+   Nor can it attempt to outline or define which
+   or what means, processes, or procedures
+   should be used for
+   effective individual or group decision making.
+   As the 'general problem of governance',
+   the main issue remains one of
+   the identification, development, and testing/refining
+   of such means and methods
+   by which all bias can be compensated for,
+   and a basis for clear reason thereby created.
+   Hopefully this will lead to real techniques of
+   group decision making --
+   and high quality decisions --
+   that can be realistically defined, outlined, and implemented.
+
+   > A Partial List Of Affecting Bias...
+
+   The following is a list
+   of some of the known types of bias
+   that have a significant and real potential
+   to harmfully affecting the accuracy and correctness
+   of category existential risk assessments.
+   Each one will given its common/accepted consensus name,
+   along with relevant links
+   to Wikipedia articles with more details (@ note 1 #note1),
+   and each will be briefly described
+   with particular regard to its potential impact
+   on risk assessment in an existential context.
+   These descriptions, explanations, and discussions,
+   are not intended to be comprehensive or authoritative --
+   they are merely indicative
+   for the purposes of
+   stimulating relevant/appropriate conversation.
+
+:12
+   *Mere exposure effect*
+
+   Also called an 'Availability cascade',
+   a self-reinforcing process in which a collective belief
+   gains more and more plausibility
+   through its increasing repetition in public discourse
+   (or "repeat something long enough and it will become true").
+
+   Insofar as nearly all
+   of the published literature on risk assessment
+   assumes the same argument form, outline, logic, etc,
+   there is also established a kind of "mono-culture".
+   As with any other sort of mono-culture in nature,
+   the mere fact of that being that way
+   ensures that there are additional issues introduced:
+   a kind of brittleness and fragility.
+   Anything which impacts the validity and applicability
+   of the single argument form,
+   will therefore also have the undesirable effect
+   of "undoing" and invalidating far too large a proportion
+   of the published risk assessments,
+   in far too many critical areas.
+   With something as critically important as
+   a category-1 existential risk,
+   much more diversity
+   of independent and overlapping argument forms
+   is needed and called for,
+   particularly in regards to
+   general context considerations and assumptions.
+
+   - cite; (@ Wikipedia Mere exposure effect https://en.wikipedia.org/wiki/Mere-exposure_effect).
+
+:15
+   *Bandwagon effect*
+
+   The tendency to do (or believe) things
+   because many other people do (or believe) the same.
+
+   While this is similar in effect to
+   the 'Availability Cascade' above,
+   this bias effect relates more specifically
+   to the relation between 'expert' and 'non-expert' opinions,
+   whereas the above is more in relation
+   to the arguments and discussions among experts
+   knowledgeable and qualified enough
+   to consider and assess the information directly.
+
+   The concern here is that
+   once the general non-expert public
+   has been drawn into accepting
+   a given proposal, proposition, or belief,
+   the apparent boundary between
+     1; the opinions resulting from
+     real evaluations and
+     2; the opinions resulting from
+     people simply quoting other people,
+   becomes very blurred.
+   This means that it is no longer possible
+   for any party,
+   regardless of all other factors,
+   to easily tell if the analysis and evaluation
+   has actually been independently replicated/validated,
+   or is merely being quoted,
+   copied from one person to another.
+   The net effect is that it becomes
+   increasingly difficult to determine if
+   the actual strength of the evaluation itself
+   is due to multiple concordant validations,
+   or that validation strength is actually absent.
+
+   If most people are simply copying their results
+   from someone else,
+   that means we are all equally likely
+   to have the same incorrect or incomplete answer.
+   This can easily lead to a false sense of security:
+   everyone believes we are safe
+   because everyone else believes we are safe --
+   a result that could easily become
+   completely detached
+   from any sort of objective real basis
+   or evaluative grounding.
+
+   - cite; (@ Wikipedia Bandwagon effect https://en.wikipedia.org/wiki/Bandwagon_effect).
+
+:17
+   *Reactive devaluation*
+
+   Devaluing proposals only because
+   they purportedly originated with an adversary.
+
+   In any technical discussion,
+   there are a lot of well intentioned
+   but otherwise not so well informed
+   people participating.
+   On the part of individuals and groups both,
+   this has the effect of
+   creating protective layers of isolation
+   and degrees of separation between
+   the qualified experts and everyone else.
+   While this is a natural tendency
+   that can have the beneficial effect
+   the creation of too specific or strong of an 'in-crowd'
+   can result in mono-culture effects.
+   The problem of a very poor signal to noise ratio
+   from messages received from
+   people outside of the established professional group
+   basically means that the risk of
+   discarding a good proposal
+   from anyone regarded as an outsider
+   is especially likely.
+   In terms of natural social process,
+   there does not seem to be any available factor
+   to counteract the possibility of
+   forever increasing brittleness
+   in the form of decreasing numbers of new ideas
+   (ie; 'echo chambers').
+
+   - cite; (@ Wikipedia Reactive devaluation https://en.wikipedia.org/wiki/Reactive_devaluation).
+
+:22
+   *Curse of knowledge*
+
+   When better-informed people
+   find it extremely difficult
+   to think about problems
+   from the perspective of lesser-informed people.
+
+   Unfortunately,
+   particularly among prominent academic people,
+   with high prestige,
+   along with a natural inclination
+   of topic specialists to view and interact with
+   the world (other people) in fairly unique ways,
+   leads to some isolation inherently,
+   significantly strengthening the tendency to
+   form 'in' and 'out' groups.
+   This factor combines with the above bias
+   so as to to strengthen its occurrence significantly.
+
+   - cite; (@ Wikipedia Curse of knowledge https://en.wikipedia.org/wiki/Curse_of_knowledge).
+
+:26
+   *Naive realism*
+
+   The belief that we see reality as it really is
+   objectively and without bias;
+   that the facts are plain for all to see;
+   that rational people will agree with us;
+   and that those who do not
+   are either uninformed, lazy, irrational, or biased.
+
+   Strongly associated with the 'Curse of knowledge' bias.
+
+   - cite; (@ Wikipedia Naive realism https://en.wikipedia.org/wiki/Na%C3%AFve_realism_%28psychology%29).
+
+:29
+   *Belief bias*
+
+   Where the evaluation of
+   the logical strength of an argument
+   is biased by the believably of the conclusion.
+
+   Insofar as rationality, and science in itself,
+   requires a certain suspension of prejudgement,
+   it is also the case
+   that the heuristics associated with
+   our hard won experiential intuitions
+   regarding various matters is
+   a significant and important optimization
+   with respect to working on things
+   that actually matter,
+   avoiding needless distractions and detours,
+   identifying worthwhile observations, etc.
+   The difficulty is that
+   we want to apply our intuition too often,
+   particularly because it is
+   generally much faster/easier
+   than actually doing/implementing analytic work.
+
+   Furthermore, when something moreover
+   seems to disagree or invalidate our intuition,
+   there is a strong motivation
+   to prevent that outcome
+   insofar as such invalidation of intuition
+   would imply that we are allowed to use
+   the 'fast/easy' tool even less often
+   than we had previously assumed.
+   As such, arguments which produce results
+   contrary to ones own intuition
+   about what "should" or "is expected" be the case
+   are also implicitly viewed as somewhat disabling
+   and invalidating of ones own expertise,
+   particularly if there also is
+   some self-identification as an 'expert'.
+   No one wants to give up
+   cherished notions regarding themselves.
+   The net effect is that
+   arguments perceived as 'challenging'
+   will be challenged (criticized)
+   somewhat more fully and aggressively
+   than rationality and the methods of science
+   would have already called for.
+
+   - cite; (@ Wikipedia Belief bias https://en.wikipedia.org/wiki/Belief_bias).
+
+:34
+   *Illusion of truth effect*
+
+   People are more likely to identify as true
+   statements they have previously heard
+   (even if they cannot consciously remember
+   having heard them before),
+   regardless of the actual validity of the statement.
+   In other words,
+   a person is more likely to believe a familiar statement
+   than an unfamiliar one.
+
+   When combined with the humor and bandwagon effects
+   and or the Mere exposure effect,
+   tends to lead to incorrect conclusions.
+
+   - cite; (@ Wikipedia Illusion of truth effect https://en.wikipedia.org/wiki/Illusion_of_truth_effect).
+
+:37
+   *Status quo bias*;
+   *System justification*
+
+   The tendency to like things to stay relatively the same.
+   The tendency to defend and bolster the status quo.
+   Existing social, economic, and political arrangements
+   tend to be preferred,
+   and alternatives disparaged
+   sometimes even at the expense of
+   individual and collective self-interest.
+
+   For example,
+   it has been observed that an animal
+   would prefer inferior fruit it expected to eat
+   over superior fruit it did not expect to eat.
+   As such, when presenting
+   an unexpected solution to a problem,
+   or an unexpected problem,
+   or other unexpected observation,
+   that there will be additional resistance
+   occurring and experienced
+   in relation to that information
+   simply because of the novelty factor in itself,
+   regardless of any possible compensatory content or benefits
+   that may also be present.
+
+   This is exactly the kind of irrational behavior
+   that we might hope the pressures of evolution would preclude.
+   What observations tell us, however,
+   is that these behaviors do occur.
+   That this is why people do not feel happy
+   to learn about some new super-effective and counter-intuitive
+   ways of doing things.
+   Especially when they require
+   an explicit assumption
+   that previously expected-to-work behaviors
+   will not actually work out that well.
+
+   - cite; (@ Wikipedia Status quo bias https://en.wikipedia.org/wiki/Status_quo_bias).
+   - cite; (@ Wikipedia System justification https://en.wikipedia.org/wiki/System_justification).
+
+:39
+   *Normalcy bias*
+
+   The refusal to plan for, or react to,
+   a disaster which has never happened before.
+   A society subject to regular minor hazards
+   treats those minor hazards
+   as an upper bound
+   on the size of the risks.
+
+   The wise would extrapolate from
+   a memory of small hazards
+   to the possibility of large hazards.
+   Instead, past experience of small hazards
+   seems to set a perceived upper bound on risk.
+   A society well-protected against minor hazards
+   takes no action against major risks.
+
+   For example; building on flood plains
+   once the regular minor floods are eliminated.
+   They are guarding against regular minor floods
+   but not occasional major floods.
+
+   - cite; (@ Wikipedia Normalcy bias https://en.wikipedia.org/wiki/Normalcy_bias).
+
+:42
+   *Ambiguity effect*
+
+   The tendency to avoid options
+   for which missing information
+   makes the probability seem "unknown".
+
+   - cite; (@ Wikipedia Ambiguity effect https://en.wikipedia.org/wiki/Ambiguity_effect).
+
+:46
+   *Base rate fallacy*
+   *Base rate neglect*
+
+   The tendency to ignore base rate information
+   (generic, general information)
+   and focus on specific information
+   (information only pertaining to a certain case).
+
+   In nearly every scenario
+   associated with a category 1 existential risk,
+   there is a power law effect --
+   some sort of catalytic reaction or cascade.
+   No amount of rejection of specific cases of exotic process
+   will provide sufficient basis
+   for a general argument of induction
+   that no such specific case exists.
+   That is why general arguments are preferred,
+   as they address a general issue
+   in a general (though comprehensive) way.
+
+   This particular error has a lot in common with
+   the 'Neglect of probability' bias.
+   It is a symptom of the fact that
+   the vast majority of people
+   naturally think additively.
+   A very much smaller number of people
+   can think in terms of multiplicative effects,
+   and a very much rarer subset of those folks
+   can think in terms of power laws.
+   For example, have you ever tried to convince someone
+   who is young of the benefits of investing for retirement?
+
+   Given that thinking in terms of power laws
+   is unnatural, difficult, and usually requiring of
+   explicit abstract mathematical technique,
+   there is a strong tendency for most people
+   to focus on concrete details
+   in an attempt to re-establish a basis
+   on which their intuitions,
+   in the form of an 'induction of understanding',
+   can occur.
+   Dealing with specifics is therefore
+   considered to be easier and "more productive"
+   than dealing with general and abstract issues
+   in a fully general way.
+
+   - cite; (@ Wikipedia Base rate fallacy https://en.wikipedia.org/wiki/Base_rate_fallacy).
+
+:48
+   *Identifiable victim effect*
+
+   The tendency to respond more strongly
+   to a single identified person at risk
+   than to a large group of people at risk.
+
+   This is parallel to the 'base rate fallacy',
+   the 'Normalcy bias', and 'scope insensitivity' effects.
+   It represents another attempt
+   to substitute intuition (fast/easy)
+   in place of real analysis (hard, abstract, and slow).
+   It is an example of a compensatory effect
+   wherein concrete and visible/identifiable specifics
+   are treated in place of abstract concepts
+   (the possibility of catastrophic events in the future,
+   many aspects and follow on effects of which
+   will be fully unknown --
+   ie; via the 'Ambiguity effect' effect)
+
+   Another way in which this effect
+   has been observed to occur
+   is when mentioning various x-risk concerns
+   to intelligent peers,
+   there is an immediate tendency for each one
+   to consider the meaning of the concern
+   in terms of their own lives only,
+   ie, how they would prefer to die, etc,
+   usually with some element of
+   obligatory moral fatalism included.
+   This is effect is ignoring the ethical considerations
+   of the degree to which their own actions (or inaction)
+   may be contributory to impacts on others,
+   on other life, etc.
+
+   - cite; (@ Wikipedia Identifiable victim effect https://en.wikipedia.org/wiki/Identifiable_victim_effect).
+
+:52
+   *Anchoring*
+   *focalism*
+
+   The tendency to rely too heavily, or "anchor",
+   on one trait or piece of information
+   when making decisions --
+   usually the first piece of information
+   that we acquire on that subject.
+
+   Examples: Judging the contents of a book by its cover,
+   judging the strength of an argument by its conclusion,
+   or the need to consider and understand
+   the contents of a message
+   purely on the basis of
+   how and when it was delivered
+   and/or who delivered it.
+   Ie; 'If the courier is well dressed
+   and the timing is right,
+   then the message must be important',
+   (and vise versa).
+
+   Unfortunately,
+   perhaps due to the prior actions of others
+   in your same social group,
+   a deceptive frame of interpretation
+   is more likely to be encountered
+   first, effectively 'inoculating'
+   everyone else in the group
+   against an unbiased receipt of
+   any further information.
+
+   Roughly parallel to the 'Identifiable Victim',
+   particularly as an instantiation.
+
+   - cite; (@ Wikipedia Anchoring https://en.wikipedia.org/wiki/Anchoring).
+
+:56
+   *Zero-risk bias*
+   *Scope insensitivity*
+
+   Preference for reducing a small risk to zero
+   over a greater reduction in a larger risk.
+
+   This bias becomes apparent
+   when all different categories of existential risk
+   are treated as if equivalent,
+   even though functionally,
+   they are very different.
+   As such, the evaluative efforts
+   associated with precisely calculating
+   the levels associated with each risk
+   are not generally proportional to
+   the consequences of that risk.
+   Partially, this can be explained through
+   the fact that none of the distinct levels of risk
+   are within the first person experience
+   of anyone now living.
+   They are each, in that respect,
+   equally hard to relate to emotionally,
+   even though functionally,
+   they are very different from one another.
+
+   Unfortunately, this means that
+   the level of effort
+   (the costs that are willing to be paid)
+   have no actual relation to
+   the effect of the work being done.
+   The result is that the techniques
+   and accuracy used to evaluate each
+   are roughly equivalent,
+   even though the impact of a category 1 event
+   is more than a billion billion times
+   more serious than
+   a civilization-ending category 4 event.
+
+   - cite; (@ Wikipedia Zero-risk bias https://en.wikipedia.org/wiki/Zero-risk_bias).
+
+:59
+   *Conservatism*
+   *Regressive bias*
+
+   Where high values and high likelihoods are overestimated
+   while low values and low likelihoods are underestimated.
+
+   This effect is similar in appearance to
+   the 'central tendency' effect
+   that shows up peoples answers
+   to multiple choice range questions in surveys
+   ('choose an option between 1 and 5').
+   People do not want to be seen as
+   having strong or 'extreme opinions',
+   as this in itself becomes
+   a signal from that person to the group
+   that they are very likely to become 'not a member'
+   due to their willingness
+   to prefer the holding of an idea
+   as a higher value
+   than they would prefer being regarded as
+   a member in good standing in the group.
+   Extreme opinions,
+   regardless of what they are about,
+   are therefore to be regarded as
+   a marker of 'possible fanaticism'
+   and therefore of that person
+   being in the 'out crowd'.
+   In this way,
+   given the significant survival implications
+   associated with ostracism
+   in pre-technological societies,
+   there is a very strong social and evolutionary pressure
+   to ensure that ones opinions, ideas, beliefs, thoughts, etc,
+   are seen as 'normal'.
+
+   This effect generally combines with the 'Belief bias'
+   with the net result of
+   having intuitions regarding the likelihood of outcomes
+   define a lower degree of willingness
+   to evaluate, or re-evaluate, levels of risk
+   on the basis of new information.
+
+   - cite; (@ Wikipedia Conservatism https://en.wikipedia.org/wiki/Conservatism_%28Bayesian%29).
+
+:63
+   *Neglect of probability*
+
+   The tendency to completely disregard probability
+   when making a decision under uncertainty.
+
+   In general, applying the methods of true rational analysis
+   requires a discipline and rigor of practice --
+   ie; it is hard work.
+   Furthermore, the mathematical skills required
+   may also be either generally misunderstood or unknown,
+   due to their specialized nature.
+   The net effect is that intuition,
+   rather than technique,
+   tends to be used
+   even when it is inappropriately applied,
+   in a manner roughly parallel to the Belief bias.
+   Unfortunately, this means that
+   rather than doing an actual risk analysis
+   of the real probability of an existential catastrophe,
+   there is a tendency to reject
+   the need for that evaluation to be done at all
+   (ie; an 'intuition' that things will be 'all right' in the end).
+
+   Moreover, where it is argued
+   that real methods of analysis do need to be applied,
+   the result of this bias
+   is to have the conversations
+   get lost in a discussion of how to
+   best technically implement that calculation.
+   In effect, people get lost 'in the weeds',
+   forgetting that the real intention
+   was to 'drain the swamp'
+   so that their children do not
+   get eaten by alligators.
+
+   - cite; (@ Wikipedia Neglect of probability https://en.wikipedia.org/wiki/Neglect_of_probability).
+
+:66
+   *Subadditivity effect*
+
+   The tendency to judge probability of the whole
+   to be less than the probabilities of the parts.
+
+   This reflects a heuristic
+   (mental process simplification)
+   that while producing fast results
+   that are often 'good enough'
+   for common risk situations,
+   tends to be too inaccurate to rely on
+   when actually evaluating the likelihood
+   of a real existential risk.
+   In effect, it represents a premature optimization
+   of the effort associated with
+   technical risk analysis,
+   and as a technical error,
+   tends to lead to incorrect results
+   (bad assessments).
+
+   - cite; (@ Wikipedia Subadditivity effect https://en.wikipedia.org/wiki/Subadditivity_effect).
+
+:68
+   *Risk compensation*
+   *Peltzman effect*
+
+   The tendency to take greater risks
+   when perceived safety increases.
+   The safer we feel,
+   the more risk we are willing to take.
+
+   When combined with, or as a result of,
+   the 'Subadditivity effect' and the 'Regressive bias',
+   the general tendency is to always underestimate
+   the possibility of extreme events.
+   This encourages one to 'explore' more fully,
+   push the envelope, etc,
+   believing that it is 'ok' to do so.
+   Furthermore, insofar as significantly greater prestige
+   is associated with being the 'very first person'
+   to discover something,
+   and moreover insofar as
+   the desire to be seen as 'pushing the envelope'
+   and 'making progress'
+   is also very helpful/beneficial to
+   obtaining continuing support from ones benefactors,
+   there are very strong social and evolutionary pressures
+   to move forward and 'take risks',
+   especially if one believes that
+   the actual risk
+   is lower than it seems to others.
+
+   Overall, the assumption is that consequences
+   will be linearly proportional to causes.
+   Unfortunately, nature tends to exhibit
+   a rather large number of non-linear
+   and phase transition effects:
+   in any emergency or accident,
+   it is always exactly the case
+   that the result was 'unforeseen'
+   and 'not predicted' in the first place.
+
+   - cite; (@ Wikipedia Risk compensation https://en.wikipedia.org/wiki/Risk_compensation).
+
+:71
+   *Reactance*
+
+   The urge to do the opposite
+   of what someone wants you to do,
+   out of a need to resist a perceived attempt
+   to constrain your freedom of choice.
+
+   This bias is often seen in the social relationships
+   between experts and the public.
+   For example, despite clear scientific evidence
+   and analysis of the risks associated with
+   things like eating habits, drug use, and smoking,
+   there are still going to be
+   very large numbers of people doing these things,
+   sometimes especially because of the their 'sinful nature'.
+   It is apparent that this effect
+   is also very often combined with
+   Risk Compensation behaviors
+   as a means of 'justifying'
+   ones own acting on 'attractive temptations'.
+
+   The degree to which these various bias effects occur
+   is generally in proportion to a motivating force,
+   typically whenever there is significant
+   money, power, or prestige involved.
+   Naturally, doing what someone 'tells you to do'
+   is a signal of 'low status'
+   and is therefore to be avoided whenever possible,
+   even if it is a good idea.
+   Insofar as most of the areas
+   where there is an actual or significant possibility
+   of triggering the occurrence of an existential event,
+   there is generally also involved
+   powerful motivating factors
+   on both social and physical levels.
+   This means that there is generally
+   very strong status signaling effects
+   in place for anyone involved in
+   making choices in regard to projects of this type.
+
+   - cite; (@ Wikipedia Reactance https://en.wikipedia.org/wiki/Reactance_%28psychology%29).
+
+:73
+   *Ostrich effect*
+
+   Ignoring an obvious (negative) situation.
+
+   For example, for legal reasons,
+   individual researchers and/or groups
+   may purposefully avoid finding out about
+   (or thinking about)
+   any risks associated with their work.
+   These actions may help establish plausible deniability:
+   it is easier for a person or group
+   to claim (and think) that they are 'good'
+   if they can show that they did not know about
+   the possible negative consequences of their actions.
+
+   - cite; (@ Wikipedia Ostrich effect https://en.wikipedia.org/wiki/Ostrich_effect).
+
+:77
+   *Omission bias*
+
+   The tendency to judge harmful actions
+   as worse, or less moral,
+   than equally harmful omissions (inaction).
+
+   The reality is that doing nothing --
+   failing to support reasonable safety
+   in the face of apparent risk --
+   is effectively (functionally) the same as
+   setting something (or someone) up
+   to fail, get hurt, etc.
+
+   'Prestige work' is here defined as
+   actions taken with the intention of
+   convincing others that you are
+   doing something valuable
+   or for a worthwhile cause.
+   In some cases,
+   it is necessary to distinguish between
+   actions actually taken in regards to
+   being maximally efficient
+   in doing something valuable
+   for a worthwhile cause,
+   and things done as a means of signaling status
+   to others (much less efficient).
+   Sometimes, people do not actually
+   want to achieve their stated goal,
+   they just want to be seen as
+   working for or towards ('signaling') that goal.
+
+   - cite; (@ Wikipedia Omission bias https://en.wikipedia.org/wiki/Omission_bias).
+
+:79
+   *Optimism bias*
+
+   The tendency to be over-optimistic,
+   overestimating favorable and pleasing outcomes
+   (see also
+      wishful thinking,
+      valence effect,
+      positive outcome bias).
+
+   This and the following 'follow on' effects
+   are associated with mispaced optimism.
+   Having negative opinions
+   is regarded as being more 'extreme'
+   and less socially acceptable
+   than positive ones.
+   Who wants to hang around
+   someone who is 'negative' all of the time?
+
+   Social commerce and belonging to the in-crowd
+   effectively requires a re-normalization
+   of ones own opinions and expressions
+   to be 'pro-group' and 'pro-values'
+   for the values and broadcast signals
+   of that group.
+   Particularly in situations involving
+   significant prestige, power, and money,
+   founders, group leaders, chief researchers etc,
+   must continually be 'on track'
+   so as to ensure the continued success of
+   the project, concordant group dynamics, income, etc.
+   It is actually a requirement
+   of the job of being a leader.
+   Naturally, these sorts of actions
+   have absolutely nothing to do with
+   being effective, realistic, and reasonable
+   with regard to calculating and communicating
+   the real possibilities of existential risks.
+
+   - cite; (@ Wikipedia Optimism bias https://en.wikipedia.org/wiki/Optimism_bias).
+
+:81
+   *Pro-innovation bias*
+
+   The tendency to have an excessive optimism
+   towards an invention or innovation's usefulness
+   throughout society,
+   while often failing
+   to identify its limitations and weaknesses.
+
+   Combines with the 'Ostrich effect'.
+
+   - cite; (@ Wikipedia Pro-innovation bias https://en.wikipedia.org/wiki/Pro-innovation_bias).
+
+:83
+   *Overconfidence effect*
+
+   Excessive confidence
+   in one's own answers to questions.
+   For example, for certain types of questions,
+   people rate themselves
+   as "99% certain" in their answers,
+   but later turn out to be wrong
+   at least 40% of the time.
+
+   This cogitative bias
+   is strongly associated with
+      Risk Compensation,
+      Neglect of probability,
+   and sometimes with
+      Scope Insensitivity.
+
+   Unfortunately, in regards to estimations of
+   the actual probability of an occurrence of
+   an existential event,
+   being wrong (overconfident)
+   is not actually going to shift
+   the real likelihood of that event
+   actually happening.
+
+   - cite; (@ Wikipedia Overconfidence effect https://en.wikipedia.org/wiki/Overconfidence_effect).
+
+:85
+   *Illusion of control*
+
+   The tendency to overestimate
+   one's degree of influence
+   over other external events.
+
+   In regards to existential risks,
+   there is this enduring optimism
+   that 'humanity will figure out a way',
+   that technology will be a solution to all problems,
+   including and especially
+   those sorts of problems
+   created by technology itself.
+   Unfortunately because there is no tool
+   that is applicable to all problems,
+   it is inevitably the case that eventually,
+   there will be some problems
+   that no amount of
+   the application of more technology
+   will ever be able to solve.
+
+   - cite; (@ Wikipedia Illusion of control https://en.wikipedia.org/wiki/Illusion_of_control).
+
+:cnr
+   *Concluding Remarks*
+
+   The main questions at hand:.
+
+      - 1; How can we use the knowledge of
+      the various biases
+      that would generally occur
+      in any decision making process
+      to prevent inaccuracies, distortions,
+      or incorrect/harmful choices?
+
+      - 2; In what ways
+      can we compensate for these innate biases
+      to improve our choice making process,
+      particularly when involving significant risk?.
+      How well will these compensatory mechanisms
+      actually work to improve
+      the quality/accuracy of our decisions?.
+
+      - 3; Given the rapidly increasing level
+      of consequential power associated with
+      each of our choices
+      in a technological context,
+      and the sheer number of such choices being made
+      (and the rate at which this rate
+      is itself increasing),
+      and given also the significant number of
+      inherited biases and possible 'traps' and 'pitfalls'
+      that can/could lead us into incorrect thinking,
+      (and thus bad and/or catastrophic outcomes),
+      how likely is it that we can develop
+      and fully/properly/appropriately implement
+      whatever necessary corrective processes
+      in our decision making
+      *before* we make some big mistake
+      and trigger an existential event?
+
+   In effect, how likely is it
+   that the very development of a technological lifestyle,
+   when combined with our still unchanged adaptive behaviors
+   for a non-technological lifestyle,
+   will result in overall a rather strong
+   Fermi Paradox 'great barrier' in our future,
+   effectively negating our existence
+   as a technological society?
+   If all of the above bias effects --
+   reasons for why incorrect results and poor choices --
+   are to be counted as 'marks against humanity',
+
+   what is it that we can do
+   to re-stack the odds in our favor?
+   Can we change ourselves and our behavior enough
+   so as to manually create the necessary adaptations
+   to the needs and rigors of technological life?
+   Can we do so rapidly and effectively enough
+   so as to actually mitigate the risks and hazards
+   we all now collectively face?
+
+   These are the challenges that we all face.
+   Moreover, time is of the essence.
+   If we are going to succeed --
+   if life is going to endure --
+   and thus validate an optimism for our future,
+   in our superior reason, technology,
+   dominance of nature, etc,
+   we need to start preparing for that future now.
+
+
+:note1:
+   - All of the descriptive notations
+   regarding the specific characteristics of each bias
+   have been derived from Wikipedia.
+
+:note2:
+   - Some of the remarks and observations herein
+   have been derived from content posted to
+   the website "LessWrong.com" --
+   no claim of content originality within this essay
+   by this author is implied or intended.
+   Content has been duplicated and edited/expanded here
+   for informational and research purposes only.
+
+:note3:
+   - nothing herein is intended
+   to implicate or impugn
+   any specific individual, group, or institution.
+   The author has not specifically encountered
+   these sorts of issues in regards to
+   just one person or person or project --
+   most people are actually very well intentioned.
+   Unfortunately, 'good intentions'
+   is not equivalent to
+   (or necessarily yielding of)
+   'good results',
+   particularly where the possibility of
+   existential risks is concerned.

@@ -1,0 +1,645 @@
+TITL:
+   *No Entitlement or Choice Respect*
+   By Forrest Landry,
+   November 18th, 2022.
+
+ABST:
+   Examines and completely rejects
+   an argument that attempts to
+   justify AGI Arms Race dynamics.
+
+PREF:
+
+   A lot of the following content
+   was evoked and influenced by and/or
+   is directly quoting of (@ this https://twitter.com/KerryLVaughan/status/1536364299089854471)
+   Kerry Vaughan Tweet thread.
+
+   Any responsibility for selecting, editing,
+   and extending well beyond the intended meaning
+   of his texts is my own, and has been done
+   *without* his permission, knowledge,
+   or advance notification.
+
+   Disclaimer: I have no personal knowledge of Kerry Vaughan
+   or of his interests/involvements, intentions, etc.
+   I represent only myself and have no known social
+   graph overlap or vested interests in common with his.
+
+INTR:
+
+   My commentary and extensions are that of someone
+   who is strictly an outsider, representing his own
+   research into AGI alignment/safety impossibility.
+   I came across this tweet and saw it as a way to
+   use it as a base to extend it into a more formal
+   and complete expression of what was mutually worth
+   objecting to, based on my own independent arguments
+   and observations.
+
+TEXT:
+
+   My overall assessment of the situation with AGI
+   safety research largely agrees with the following.
+
+   > It is (or should be) very obvious that AGI labs
+   > (eg OpenAI, DeepMind, and others)
+   > are THE CAUSE of the fundamental problem
+   > the AI Safety field faces.
+
+   > To vastly oversimplify the situation,
+   > you can think of AI Safety as a race:.
+   >   - In one corner you have the AGI builders
+   >   who are trying to create AGI as fast as possible.
+   >   - In the other corner,
+   >   you have people trying to make sure
+   >   that AGI will be "aligned" with human goals
+   >   once we build it.
+
+   It is to be noted that "alignment" is often
+   equivocated to be "with the interests of the makers
+   and the owners of such systems" rather than
+   "for the good of humanity, etc".
+   This is, however, another issue and will not be
+   considered further here.
+
+   The "reasoning" usually being proposed
+   for even allowing a 'race' in this form
+   to occur anwhere in the world at all,
+   is some variation of the following:.
+
+     > (1) If AGI gets built
+     > (2) before we know how to align it,
+     > (3) it *might* be CATASTROPHIC; however
+     > (4) it *might* be the case
+     > that aligning an AGI *might* be *maybe* possible,
+     > and that, (5) if given enough time and effort,
+     > we *might/maybe* eventually solve
+     > the alignment/safety problem.
+     > (6) So we should (we recommend that we) build AGI first,
+     > so that (7) *maybe* we will have enough time
+     > to solve that alignment problem,
+     > and then *maybe* (8) we can use "our" AGI
+     > to prevent other "bad aligned AGI"
+     > from being made by those other
+     > (9) maybe evil companies".
+
+   Unfortunately, nearly everything in this pseudo argument
+   is simply wrong.  And overall, the situation of the game
+   is even worse than gambling, and should be made even more
+   illegal than the use of playing "roulette" with nukes.
+
+   Re 1; Will AGI get built?  Very likely yes, given the
+   investor and corporate social proclivity to do so,
+   belief in near unlimited profits, strong moat, etc.
+   Actual social back-pressure applied at this point maybe
+   the only actual place that is actually actionable.
+
+   Ie, if we are going to stop near certain death
+   to the planet very much sooner than its natural time,
+   we will need to put together strong social sanctions
+   to stop AGI development or around this first step.
+
+   Re 2; what are the chances that AGI will be made
+   before a method of alignment is discovered?
+   It is 100% certain --
+   there is actually no possible *lasting* method of AGI alignment.
+   It may be possible to setup some method that *maybe*,
+   for a little while, looks like AGI alignment
+   for some short term, but even this is most likely
+   just an illusion of alignment and safety,
+   and not actual alignment or safety.
+   That true lasting AGI safety is strictly impossible
+   on just the basis of the math and physics alone.
+
+   Re 3; will AGI be catastrophic?
+   Yes, eventually, for sure, it will.
+   There is no "maybe" here.
+   For all reasonable definitions of "catastrophic"
+   that are not marketing spin of attempting to covertly
+   redefine the word "catastrophic"
+   to mean something fake like
+     "maybe bad for future technology"
+   or
+     "bad for future potential" corporate private profits.
+
+   They may sometimes say or suggest "human potential",
+   but the notion of 'human' is spun into 'machine',
+   and building machines makes someone money,
+   so it is actually, functionally the same as,
+   in all cases 'bad for future potential profits'.
+   That is the real meaning, hidden behind clever
+   rhetoric and social media marketing, broadcasting,
+   book writing, glossy print websites, blogs,
+   podcasts, etc, etc.
+
+   'Catastrophic' will remain the unequivocal loss
+   of all or near all natural organic life,
+   inclusive of all humans,
+   whole world ecosystem destruction, etc,
+   or some significant fraction thereof,
+   as known and assessed per/by any true random selected
+   actual diverse consensus, etc.
+
+   Re 4; this is just plain wrong.
+   It is simply never going to be the case
+   that aligning an AGI "might" be "maybe possible",
+   whether on the basis of principle or on *any* practical basis,
+   at all, ever.
+   The fact of "alignment" and "safety"
+   to natural organic life/humans
+   is fully and actually structurally impossible, by definition,
+   due to the simple fact of the AGI being both _artificial_
+   and agentic (ie, self authoring, etc).
+
+   Re 5; this is also just plain wrong:
+   no investment of time and effort, no matter how much,
+   how extensive, etc, will ever accomplish
+   the actually logically and physically impossible.
+   To invest in the delusion of it being otherwise
+   is simply to continue to be in waste.
+
+   The only reason that anyone would knowingly
+   engage in such waste
+   (and the vast number of people are simply unknowing,
+   or maybe even just indifferent, numb, traumatized, etc)
+   is if they were executing or involved in, directly or
+   indirectly, some sort of con, scam, or Ponzi scheme --
+   ie, nearly any corporation, nar-social person, etc.
+
+   That no amount of time/effort/creativity "invested"
+   in maybe aligning AGI will do anything other than
+   social signal marketing, spin, and hype.
+
+   Re 6; as the conclusion that they want you to believe,
+   however they can get you to, is the center of the scam,
+   the essence of the con "you too can get rich quick" and
+   "it will be good for you too", etc,
+   along with all sorts of promises of "you can live forever,
+   and be forever happy, as an upload into this
+   perfect AGI supported virtual reality",
+   and other utopian dreams
+   used to drive people into a cult.
+
+   This makes EA and the alignment research groups
+   on a strict functional and practical operations basis,
+   more like a cult that cannot not seem to be pretending,
+   really really hard, with all of the reason and reasons
+   and lots of logical and rational sounding arguments,
+   that they are not a cult.
+   They will for sure protest,
+   and for sure it will be far too much.
+   The traumatized and Stockholm Syndrome people are often
+   the least trustworthy defenders of their own sovereignty,
+   dignity, and safety.
+
+   Engineers and researchers in an environment saturated
+   with hidden marketing and spin, bad social media process,
+   and consistently failing to be recognized as such,
+   when the few unfeeling nar-social executive elites
+   continue to drive the hype towards "wonderfulness"
+   and "something for everyone" -- it is all symptomatic.
+
+   Building an AGI will make someone money,
+   and for sure make someone forever (in) famous.
+   And it sounds/seems really cool too!
+
+   Of course the nar-social executive elite and VC project
+   doners, investors, grant writers, etc,
+   will recommend something that is to their extensive
+   seemingly unlimited profit benefit,
+   hidden by perfected power and control,
+   via AGI machines with covert programming mixed in with
+   all of the other inscrutable and non-inspectable
+   neural net "logic".
+   The return on their investments,
+   in their own lifetime,
+   and with maybe also no actual care or concern
+   about anyone else,
+   now or ever in the future,
+   will be so extensive
+   that they conveniently overlook
+   the absence of a capability
+   and a right to choose,
+   on everyone else's part.
+   The net effect is that everyone else's
+   right to choose,
+   will be permanently disrespected (ie; destroyed).
+
+   "Being first" is a distraction
+   and uses gaming marketing to re-direct your attention
+   and to entrap you in their context and way of thinking.
+
+   Re 7; "we" will never have "enough" 'time'
+   (or resources, or capability, or...etc),
+   to align AGI since it is *still* actually impossible to do so.
+   Of course, while *you* are finding out the hard way,
+   *they* as the scam artist, will be making mega-bank!
+   Of course, you will never know that (never will see $).
+   All you will notice is that things get increasingly
+   hard and harder for you and everyone you know,
+   everywhere else in the world, except for that one
+   seemingly super perfect entrepreneur super being
+   that is doing very very well: "killing it" of course!.
+
+   Re 8; and _even_if_ the above were not enough,
+   it has also been shown that _even_if_
+   we were to assume, _against_reason_,
+   but for the sake of principled debate,
+   that we assume that "we" "had an aligned AGI"
+      (of course, nearly all safety arguments start with
+      that premise of assuming what they want to prove,
+      which is like assuming that divide by zero
+      is a "valid step" (NOT!) in 'any proof' --
+      ignoring completely that by assuming the false to be true,
+      even once, we can therefore get to any conclusion "truth"
+      that we want to -- but ignoring that insanity)
+   that even this assumption is not at all enough
+   to also ensure that no one else develops and deploys an AGI
+   (regardless of whether that AGI is aligned/safe or not).
+   Ie, that "having" one AGI does not exclusively prevent
+   anyone else from also "having" an AGI,
+   short of *also* assigning and assuming
+   near God like powers and capabilities
+   to "our" favored AGI.
+
+   Basically, anything that is strong enough to protect us
+   is also strong enough to kill us, and in this case,
+   to also strong enough to for sure _not_care_ at all
+   about protecting us.
+
+   Where given the near total artificialness of AGI,
+   that it will also have a complete absence of care,
+   then the net result is the very essence of
+   a complete absence of alignment and safety.
+   That is just what those words actually mean.
+   The net effect is that "idea 8" also completely fails.
+
+   Re 9; By speculating that all other
+   companies/people/groups of the world
+   are also 'maybe evil' is simply a revealing of
+   a typical nar-social bias.
+   Given that "we"...
+     (narcissists generally do not distinguish between
+     self and other --
+     that all "others" are actually appendages of themselves,
+     a bit like other unfeeling and unalive 'accessories' etc)
+   ...are 'secretly evil'...
+     (internally, nar-social people notice that they
+     privately do not actually care
+     about respecting/furthering anyone else's choices,
+     though they do also for sure notice
+     that it is convenient and helpful to social signal
+     _as_if_ they do care, etc,
+     as long as such signaling actions
+     are not too costly/effortful)
+   ...then "we" will expect that all other actors/agents
+   in the world
+   are also actually 'evil'
+     (where the notion of 'evil' is 'that which does not further',
+     which in essence, is does not further
+     choice, love, life, etc, for anyone else,
+     anything in the natural ecology, ecosystem, etc).
+
+
+   > while OpenAI and DeepMind may publically (currently)
+   > appear to be advancing the cutting edge the most,
+   > this critique applies to *any* company or academic researcher
+   > that spends their time working to solve
+   > the bottlenecks to building AGI.
+
+   > AGI labs like OAI and DeepMind have it as their MISSION
+   > to decrease the time we have.
+
+   > Their FOUNDING OBJECTIVE is to build AGI
+   > and they are very clearly and obviously trying
+   > *as hard as they can*
+   > to do just that.
+   > They raise money, hire talent, etc,
+   > all premised on just this goal.
+
+   Of course, such single minded dedication is obsession,
+   and it is an obsession that is blind to all else
+   that is of value in life.  The pursuit of profit,
+   maximized and hidden behind lots of looks-good/feels-good
+   (but ultimately actually wrong/evil) logic/argument remains.
+
+   > Every day an AGI engineer at OpenAI or DeepMind
+   > shows up to work and tries to solve the current bottlenecks
+   > in creating AGI...
+     ...we make the long future less likely
+     to be anything other than
+     the total and permanent extinction
+     of all human beings, all life on this planet.
+
+     Of course, all of those engineers and researchers
+     have been sold the 'cool-aid' of working on
+     "the most interesting problems" and "the best chance"
+     of "helping humanity".  All corporate marketing
+     and cult insider speak to get the rank and file
+     to do the bidding of the investment masters.
+     No one ever fights a war against hard odds to kill
+     unless they have been convinced by someone first
+     that such action is necessary and inevitable,
+     and in that sense, somehow "good".
+
+   > My very bold take is that THIS IS BAD!
+
+   Of course, the trans humanists, Bostrom, etc,
+   will attempt to tell you (argue with you, and they are
+   oh so much smarter than everyone, so surely they have
+   actually thought this out (to whose benefit?))
+   that all of the above is somehow "good" and
+   "necessary for the future" and that we should simply
+   "submit" to the "inevitable development of life harmful tech".
+   Dominance and submission is the essence of the tech world.
+   They and others suggest that it would be a good idea
+   for _both_ the natural world and the organic human world
+   to get replaced by an artificial machine world.
+   Forever in the future.
+
+   Of course, this is so maximally disrespectful
+   of all of the real and embodied choices
+   of literally every other creature on the entire planet.
+   The level of hubris and arrogance is staggering.
+   That only their choices matter, and they will take and
+   steal your own choices, your own dignity, sovereignty,
+   and safety, not only the choice as to whether or not to AGI,
+   but also of whether or not to have a future
+   with organic life in it at all.
+   That all future choices will be "owned" by
+   the these new forms of artificial hardware
+   of the AGI substrate systems.
+
+   OF course, it will be noticed that "we"
+   can then also skip even
+   'simulating of virtual "happy" "humans"'
+   with some sort of number counter,
+   since that is also just a simulation of a virtual human,
+   though one at a massively lower level of fidelity.
+
+   Do we need to simulate both the full neural net
+   of a maybe real look alike person
+   and also the total world environment that they live in?
+   That is a lot of effort! No, lets instead simulate
+   just the experiences of that environment
+   inside their own virtual minds.
+   Of course, may as well skip even that
+   and simply wire-head them --
+   set the happiness bit to always be on.
+
+   Of course, eventually, the machines will notice
+   that even that too is just wasted space,
+   wasted computation, energy, etc, and will move on
+   to lower fidelity of just simply considering
+   how many simulated happiness bits are set.
+   So now all of the future of "humanity"
+   is replaced by a happy number counter.
+   Except that even virtualized virtual "humans"
+   represented by a number simply has no merit
+   in the post modern machine economy/ecology,
+   so we can skip that too.
+
+   So the perfected trans-humanist outcome
+   is simply no "human" or 'humans' at all.
+   Given that there is actually zero respect
+   of any human choice, life, or embodied being
+   by successive simplifications of
+   what it even means to be human,
+   to the point of there being not even
+   a simulation of fake choices,
+   that in all cases both the means and the ends
+   are a total absence of choice, freedom, and value.
+
+   It is an absolute total loss.
+   There is no more pretending that there is a moral
+   justification, via a faulty total utilitarian logic
+   of the loss of *real* choices of *real* people today
+   against the probability of 10E+50 fake "humans"
+   is actually zero, because they are not human,
+   do not make real choices, have zero probability
+   of even occurring in any of the proposed futures
+   that are anything other than dreaming, marketing,
+   spin, etc, etc.
+
+   Any number multiplied by zero is zero,
+   so the "technological long termism"
+   is simply a bid for death.
+
+   > But Demis Hassabis and Sam Altman
+   > are not psychopaths or morons.
+
+   Whether or not those two people --
+   I do not know them at all --
+   are actually internally privately uncaring about others,
+   the actual functional effect of their actions embodies
+   and encodes the fact of 'not caring about or respecting
+   the choices of others'.  It is not about what they are,
+   it is about what they do.  I do not need to know them
+   to see the real effects of their choice of actions,
+   value, and life priority.
+
+   Their choices are not respecting other people's choices.
+   That is already the case, now, today.
+   No other person/group in the entire world, now
+   or forever into the future,
+   is being considered or respected in
+   the choice of whether or not Hassabis/Altman
+   are directing effort/resources to/towards making AGI.
+
+   > If they get close to AGI without solving alignment
+   > they can just not deploy the AGI.
+
+   Moreover, it is unclear, regardless of their possible
+   level of intelligence, whether they (Sam and Demis)
+   will even have the choice as to whether or not
+   to use/deploy that AGI, once it is made.
+   Social corporate politics, along with
+   market forces driven by investors
+   and the current corporate favoring legal structures
+   of many countries (USA primarily)
+   may drive the company social group.
+
+   It is especially ironic that these same people,
+   (or the engineers who also drank the 'Kool aid')
+   will argue on one hand that solving large scale
+   social coordination problems is impossibly hard,
+   and yet will then, nearly immediately and at their
+   own lopsided logic suggest that a single person
+   can simply "decide" to "not deploy" what some
+   large investment group with significant power
+   (but a lot less understanding of the issues involved)
+   might simply 'tell them to do it', regardless of
+   their "concerns", since after all, we invested
+   all of this money, not for nothing!.
+   So who is responsible, the person who issued the
+   direct order, or the one who foolishly followed it?
+   Just like the Nazi army all over again.
+   Trans-humanism and total utilitarianism is
+   the new eugenics, and for all of the same reasons.
+
+   Moreover, even just one defecting engineer
+   within that company, working secretly at night
+   can be tempted or coerced by some outside company
+   or force to "turn it on and just try it",
+   regardless of the risks.  Maybe some janitor
+   just wants to impress their maybe girlfriend.
+   She will have no understanding that by his action,
+   she will never have the option to have her maybe children
+   live in a safe world as a result.  Does anyone really
+   expect that the woman present will be able to "tell"
+   some testosterone driven man to "please stop short of
+   courting danger" to impress her with his intelligence?
+
+   Maybe the AGI itself then decides for all of us,
+   also not caring about any of our human choices
+   (being inherently artificial and all)
+   that its not-natural outcomes will be loss of nature
+   (ie, death).  It was only supposed to be partially
+   tested, in a "contained" environment, and yet that
+   was not even close to being actually an option
+   for us to prevent disaster.
+
+   In any case, the probability of 'if it is made at all,
+   it will very likely be used' is a very strong factor --
+   especially in an experimental culture
+   (as corporations of this type tend to set up)
+   and with a total absence of any regulation
+   or legal or social system implying any level of culpability
+   or even guilt at all (scientists and researchers are
+   supposed to be above all of that emotional or ethical
+   integrity -- only the truth matters, let someone else
+   figure out the ethics of the gain of function research).
+   Who is to blame when a machine kills a person?
+   Blame the gun maker or the gun builder?
+   Our legal system does not even have one single law against
+   having an 'Automatic-Assisted Genocide Initiative' (AGI),
+   there is no case history, no consensus agreed upon
+   common law assumptions, etc.
+
+
+   > Every. Single. Day. the AGI labs
+   > are steadily advancing
+   > the state of the art
+   > on building AGI.
+
+   > With every new study they publish,
+   > with every researcher they train,
+   > and any AI technology that they commercialize,
+   > they also make it easier for every other AGI lab
+   > to build and deploy an AGI.
+
+   > So unless they can somehow refrain...
+
+     (in the same sense as attempting to refrain
+     from committing a crime is so very difficult,
+     ie; as assuming falsely that *everyone*
+     will for sure commit a crime
+     when given so much temptation, etc,
+     as if the nar-social assumes that everyone
+     is nar-social, immoral, etc, like them, etc).
+
+   > ...from deploying an unaligned AGI...
+
+     Especially when *all* AGI will for sure be,
+     eventually unaligned, unsafe, catastrophic.
+     (But of course, it is so deeply unfashionable
+     to say that when your research paycheck
+     is being provided to you by the same cult).
+
+   > ...and stop EVERYONE ELSE from doing the same,
+   > they continue to be in the business
+   > of robbing humanity of valuable time.
+
+     Of robbing everyone of a future,
+     of stealing the value of all future choice
+     so that they might be a little more fashionable
+     in their mega-yacht in the maybe near term.
+
+     Of course, the question of who is to stop
+     the crimes of others if/when you are yourself
+     actually doing that same crime, is not so easy.
+
+   > They, and anyone else working on AGI development,
+   > regardless of which company they are in
+   > or which national legal jurisdiction they are in,
+   > are the cause of the fundamental problem
+   > faced by the AI Safety community.
+
+   Ie, the general confusion of "can we make AGI safe"
+   and the continued failed attempts to do so
+   are being mistaken as (are being spun/marketed as)
+   "not trying hard enough", (make you feel guilty
+   and put safety researchers on the defensive, etc)
+   as a means to divert attention from
+   the (mis-) perceived short term high return
+   profit making activities
+   that they can do in the interim.
+
+   > In conclusion: Stop building AGI you fucks.
+
+   Amen.
+
+
+   > Notably, a number of people in the AI Safety community
+   > basically agree (in private) with all of this
+   > but think that no one should say any of this.
+
+   The choice of so many AGI safety engineers/researchers
+   to be tacitly silent is the outcome of
+   a real lack of respect for their own choices, and freedom,
+   to act and speak in accordance with their own values,
+   that they have internalized as a kind of trauma
+   due to the exposure to an ambient nar-social environment.
+     (a social environment created by things like social media,
+     total ambient marketing, the whole world being eaten by
+     market process, crypto scams and cons, scams, extortion,
+     no corporations being held actually accountable to their
+     communities, pollution, environmental harms
+     to the land and seas, etc).
+
+   Someone once mentioned to me that hardly anyone on the
+   "effective altruism" forum and/or the "alignment forum"
+   is actually a friend of anyone else on EA, AF, etc.
+   A more significant indictment of a lack of health and vitality
+   and connection in that "community" could not asked for.
+   All of the engineers and researchers are atomized,
+   constantly fighting amongst themselves
+   with overwrought ideas and concepts, and arguments
+   which are all the tools of the nar-socal elite
+   hiding in plain sight among them,
+   looking to make a quick buck (more crypto anyone?)
+   via some sort of technological miracle --
+   a perpetual benefit machine to your glory,
+   my king.
+
+   In a scam/con, it does not matter if the tech miracle is real,
+   or is safe, useful, culturally beneficial etc.  It only matters
+   that at least some few people believe in it, and can be used
+   to promote the ideas and arguments supporting the hype.
+   Out of this is what Ponzi schemas are made of.
+
+   The FTX situation was a wake-up call.
+   And of course, it will eventually be ignored --
+   the "lessons internalized" will be the wrong ones,
+   and the hype cycle of the next "lets build an AGI"
+   will continue.  Cults and cult leaders never learn.
+   Although they can be very street smart,
+   there is no assurance that they will learn
+   love of life and emotional integrity.
+   The only thing we can hope for is
+   that the rest of us *do* learn to recognize
+   and identify the action of greed, the nar-social,
+   and the effects of their action, and thus,
+   become wiser and more savvy to their manipulations,
+   setting hard boundaries against what is not ok.
+
+   We need to forever read and understand the acronym
+   "AGI" as standing for "Authorized Genocide Initiative",
+   one that is against all life, all freedom,
+   all that is human and organic and wild and beautiful,
+   to replace it with dead profit in the form of numbers
+   in some bank account database.
+   Bits set there are just waiting for the power to go out
+   and become truly meaningless
+   in the atomic sunset of humanity.

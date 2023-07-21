@@ -1,0 +1,587 @@
+TITL:
+   *Super-ordinate Claims*
+   *By Forrest Landry*
+   *October 12, 2022*.
+
+ABST:
+   Some remarks on our claims to be '100% certain',
+   in context, regarding the total actual absence
+   of any possible safety/utility (of any type of)
+   of AGI/APS/superintelligence.
+
+TEXT:
+
+   Where based on the arguments given;
+   Where/If AGI architecture is built;
+   then/that it is 100% certain
+   to cause run-away lethal and terminal effects
+   unsolvable by any possible technical scheme,
+   over the long term.
+
+:ftl
+   > "100%" is not a probability.
+   > Saying "100%" anything at all
+   > will make you sound/seem
+   > ludicrously overconfident.
+
+   We do understand and agree
+   that '100%' sounds overconfident.
+   However, regardless of how it
+   "sounds" or "seems" publicly,
+   it would *not* be appropriate
+   to change the claim, or soften it,
+   just so that the 'rhetoric spin'
+   is more 'socially acceptable'.
+
+   We accept that people seeing this
+   will initially have
+   less favorable first impressions
+   of the quality of our thinking.
+   They will judge us unreasonable,
+   and sanction us as "unworthy",
+   just on the way the claim is stated.
+   It does not match their heuristics
+   of what constitutes 'preferable reason'.
+
+   Nonetheless, the topic is important,
+   and we do still therefore have some hope
+   that at least *some* interested people
+   will go on to inspect the actual arguments.
+   At that point, the "judgement" has moved
+   into "evaluation" and the personal/social
+   has moved into the technical/informational --
+   as something impersonal, unbiased by rhetoric.
+
+   Maybe our hope to have reasonable conversations
+   with what are overtly judgemental people
+   is inherently unreasonable in itself?
+   However, from our perspective,
+   the whole situation of the x-risk is in itself
+   a result of unreasonableness --
+   and there is not much we can do about that.
+
+   Perhaps our remarks do seem overconfident.
+   Yet, almost all AI x-safety researchers
+   that we have talked with, so far at least,
+   all appear to assume the same false a-priori:.
+
+     Where for maintaining long-term functional alignment;
+     "that it is possible
+     for all prerequisite possibilities
+       (ie; all crucial and by-default-deficient
+       technical desiderata)
+     to simultaneously exist".
+
+   We are attempting to describe how certain propositions,
+   as tacitly assumed by current safety researchers,
+   *will* inherently contradict each other.
+   This is a kind of proof by contradiction,
+   of the impossibility of long term safe AGI.
+
+   Where long term AGI/superintelligence dynamics
+   are modeled with empirically sound premises,
+   we find that there is always an inconsistency;
+   that one set of hypothetically possible conditions
+   cannot exist alongside one or more other conditions,
+   that are also for sure required to also be present.
+   It corresponds to how the 'system' is modeled --
+   for a very wide range of model system types,
+   that AGI cannot actually be safe in practice,
+   in the long term, no matter how you construct it.
+
+   What we are setting up is not an unusual proof form.
+   There are other examples of the use of the method
+   of proving internal contradictions
+   in the computability of (distributed) algorithms:.
+
+      - Godel's incompleteness theorems.
+      - CAP theorem.
+      - Byzantine Faults (to a more limited extent).
+
+:fvg
+   > Like, really?
+   > You are absolutely certain
+   > that there is no possible future observations/arguments
+   > which would make you even slightly less confident
+   > of the assertions you are making here?
+
+   Are you asking if it is possible that,
+   in some previously unobserved, unsuspected,
+   strange and exotic outer realm,
+   where the conditions are such that, actually,
+   the premises of the arguments do not apply?.
+
+   Of course, and we can even help you think of one:
+   any world where the level of artificiality
+   was already 100% total, these types of argument
+   would not apply
+   (ie; there would be no "humans",
+   and no prior form of carbon based life to protect).
+
+   However, even in that world,
+   the truths of math
+   will still be that.
+
+   As such, we simply do not see
+   that the general form of
+   attaining technical alignment
+   via any means, will *ever* be possible,
+   in any universe, no matter how constructed.
+
+:fx2
+   > Your proof could be wrong.
+   > To think what you are thinking is insane.
+
+   As in, "is it possible"
+   that we are 'just dreaming',
+   or 'having false memories',
+   of having gone through the argumentation
+   before reaching the "this is impossible" conclusion?.
+
+   Ie, maybe we are somehow deluded, insane,
+   and completely unable to make any sense,
+   or to see/know sense, reason, or logic,
+   and that therefore, any sense of "conclusion"
+   that we have arrived at, is inherently faulty?
+
+   Perhaps,
+   but we do not think those sorts of scenarios
+   are helpful to account for
+   our current levels of confidence,
+   as indicated in the probability assessment.
+
+   Rather, what we would more naturally expect
+   is for people to look at the arguments themselves
+   regardless of whatever their bias is,
+   whatever their optimism or pessimism is,
+   and consider the logic just in itself.
+   As in, do not take our word for it --
+   examine the logic and evidence as given,
+   and see if it makes sense to you,
+   *without* attempting to simply assume
+   whatever you have previously pre-judged
+   to be the case.
+
+   The only reason that we can see that someone
+   would start out with 'judgements of insanity'
+   and/or of our 'obvious unreasonableness' --
+   just based on only one sentence,
+   taken out of context, no less --
+   is much more likely to be taken, by us,
+   as more of a political and rhetorical move,
+   designed to discredit in advance,
+   as a kind of social performance.
+   Ie, that conflict theory is more the case
+   than any form of mistake theory,
+   on the part of whomever we are talking to.
+   In such cases, we legitimately become skeptical
+   that some other (unstated/implied) agenda
+   is attempting to be (covertly) moved forward
+   by such declaritively judgemental people.
+
+:fyl
+   > You should account for the possibility
+   > that other people will have arguments
+   > that you have not heard yet
+   > to dampen your confidence.
+
+   Of course.
+
+   Could it be the case that someone finds
+   some problem with the argument logic?
+   Could maybe someone share an argument
+   that extends or maybe shows some gaps,
+   however tiny they may be, that open hope
+   in the substrate-dependent misalignment arguments,
+   such as to show, that actually, somehow,
+   at least in some limited rare cases,
+   that alignment would maybe be possible?.
+
+   And we would like for that to happen.
+   Our result is not at all a happy one,
+   and we are ourselves
+   fully well aware of that.
+   We also would like it to be different.
+
+   As such, we will, and do, keep an open mind,
+   and will keep staying open for someone
+   to point out something, some more nuanced point,
+   that we have overlooked, and/or have not heard before.
+   So far, we simply have been repeatedly noticing
+   that our interlocutors are reacting abrasively
+   and/or stating forms of the same disagreements
+   that we have already addressed in our work.
+
+:g26
+   > You cannot assume that any readers
+   > have your context.
+   > Therefore, most people
+   > will likely take your 'overconfidence'
+   > as a evidence
+   > that the rest of your work
+   > is not worth thoroughly considering.
+
+   This is a bit of a 'chicken and egg' problem.
+
+   Do we make an offensive claim 1st,
+   and thus both acknowledge and advise
+   what is coming, and why it is important,
+   as a kind of "truth in advertising move"
+   accepting also the fact that at that moment,
+   no context has been provided to them?
+
+   Or do we provide that context,
+   as a some sort of framing preface,
+   without giving the reader some sense
+   of at least some sort of reason
+   as to why anyone should bother
+   to review our arguments,
+   prior to conclusion, in abstract,
+   given that everyone involved
+   is generally too busy for such things?
+
+   You would think that some mixture
+   of these two approaches would be possible.
+   Unfortunately, the conclusion is so adverse
+   that nearly everyone wants to avoid it,
+   and is thus heavily defended, unconsciously,
+   against *any* approach of *any* type at all.
+
+   Options;.
+
+     - If we do context 1st,
+     and build up to the idea, step by step,
+     people say "this is a waste of time"
+     (and do not bother to continue reading).
+
+     - If we say where we are trying to go,
+     they reject it immediately, saying
+     "there is no possible way you can do that
+     (so I am going to ignore you)"
+     which is a kind of an irony, really.
+       - that they want context (more/less),
+       and then to limit the context, etc.
+
+     - If we given an outline, a summary,
+     people declare we are 'not precise enough',
+     and immediately dismiss the entire thing
+     (no further future consideration given).
+
+     - If we are precise, and define things,
+     with care, nuance etc, they then miss
+     the overall idea, and loudly declare:
+     "what is the point of all of this?"
+       (they get lost, and want an overview --
+       which if we give one, and put the
+       conclusion in a visible way,
+       we are now going back upwards this list).
+
+   Thus, every variation so far tried
+   has resulted in each person suggesting
+   that we take some other approach,
+   and set the balance elsewhere than we have.
+
+   So we have elected to go for
+   the very most simple method --
+   ie; to say the very worst thing first,
+   and to use that as a filter,
+   a kind of 'separate the people' device
+   so as to determine who *we* will find
+   as being worth taking to,
+   rather than just assuming that they
+   will be the ones to determine that.
+
+:g42
+   > The issue with saying "100%" anything
+   > are deeper than just
+   > "it makes you sound overconfident".
+   > You do not just _sound_ overconfident
+   > when you claim something
+   > with 100% probability.
+   > You are actually _being_ overconfident
+   > when you do that.
+
+   > The "100%" is _not_ to be understood
+   > as "1 percent more confident than 99%".
+   > It is infinitely more confident than 99%.
+   > It takes literally infinite amounts
+   > of evidence to reach 100% certainty
+   > of anything.
+
+   The notion of 'infinite' here
+   is making a reference to
+   what would *seem* to be
+   an inductive argument,
+   much as would occur in
+   any science experiment.
+   All scientific claims to truth
+   are in the form of
+     "we saw evidence X
+     on Y occasions".
+   Where Y is some large number
+   of 'observance occurrences' in the past
+   that we can reasonably, inductively,
+   expect that same thing
+   to happen in the future.
+
+   For example, the sun has come up,
+   every day, more than 300 billion times.
+   Hence, we have a very good,
+   though not an absolutely *perfect* 100%
+   confidence that the sun
+   will come up tomorrow.
+
+   The problem with this sort of thinking
+   is that it tacitly and invisibly conflates
+   scientific-technical understanding (inductive)
+   with mathematical reasoning/knowing (deductive).
+
+   Neither half of our argument form
+   is a statement of the kind:
+      "we have observed
+      x evidence in the past,
+      and therefore
+      have Y expectations
+      in the long future".
+   We are not making any such claim.
+   Instead the form of what we are saying is:
+      "when modeled in any variation of pattern P,
+      we notice that contradictions X and Y apply;
+      therefore we can know that Q is impossible".
+
+   Ie, our argument is in the domain of mathematics,
+   with strictly deductive reasoning, and is *not*
+   in the domain of science and technology --
+   it is actually in the domain of mathematics,
+   ie; the world of modeling of the modeling itself.
+   Even though it would *seem* that any considerations
+   of AGI would be or "should be", somehow,
+   just scientific and/or just technological,
+   it turns out that that is NOT the case.
+
+   It is easy for us to see and accept
+   that it would be very easy for anyone
+   who is looking at our topic papers, etc,
+   for the first time, etc, and to think
+   that this is a scientific/technical issue.
+   But it is actually not that kind of issue.
+   This fact is even more so, given that,
+   while we overall speak to a safety issue,
+   we are not just considering safety here.
+   The concern is more than just about
+   potential deployed tech --
+   it is also about civic policy,
+   what sorts of things we, as humanity,
+   value about the world we live in,
+   what ideals we will hold as sacred,
+   and have as a basis of the practice of
+   what is clearly a public commons choice.
+
+   For discernments of these kinds (x-risk),
+   and at these sorts of total scale,
+   we need stronger, more reliable
+   forms of reason, ie; mathematics.
+
+   For things that matter this much,
+   placing a bet on the entire future,
+   of the world, of our species, of life,
+   we *all* need to be _absolutely_certain_.
+   Science is not enough for that --
+   only a kind of well structured mathematics
+   and/or philosophy, grounded in the metaphysics
+   of choice, change, and causation itself,
+   could ever even possibly offer
+   the needed basis of our thinking
+   (about x-risk, civilization design, world, etc).
+   The completion/closure of a certainty arrived at
+   is therefore not a liability, not disadvantage,
+   rather it is an absolutely necessary advantage.
+   For something this important,
+   Nothing even slightly less will do.
+
+:g5w
+   > In uncertain domains
+   > with very sparse evidence
+   > (like AI alignment, for example)
+   > that proper epistemic/epidemiological grounding
+   > is incredibly important to correctly weigh
+   > the what little evidence we do have.
+
+   Yes, we agree.
+
+   The specific epistemic grounding we need
+   is in the form of mathematical logic
+   about the dynamics of modeling itself,
+   and sound reasoning about the application
+   and relevance of that modeling
+   to our real world physical situation.
+
+   Of course, it can also be asked:
+     what sort of universe do we live in?.
+
+   For example, are the physical laws
+   so far identified the only ones?
+   Do they actually apply universally?
+   Are they absolute, or can there ever
+   be exceptions, occasions where things
+   are just a little bit different?
+
+   For example, is it possible,
+   that never,
+   in the whole history of
+   the entire/whole universe,
+   that any particle ever exceeded
+   the speed of light limit?
+
+   Of course, we could even ask
+   if the notion of "whole universe"
+   and/or "total history" is even
+   an internally consistent concept?.
+     - There are good reasons to maybe think
+     that such notions (and tacit assumptions)
+     of the concept of totality,
+     are sometimes mis- and over- applied.
+     - ?; Is there even a right form of
+     the concept of totality,
+     that can be used at all?.
+
+   This is not just about quibbles as to
+   whether the 'light-speed limit concept'
+   is true only just 99.999999% of the time,
+   or whether more or fewer nines are needed,
+   or if such a law is just simply
+   always and absolutely true.
+
+:g7s
+   > When reading any published work by others,
+   > I am evaluating their epistemological rigor
+   > in addition to their first-order arguments.
+
+   We will, of course, do the same
+   with anyone who is communicating with us.
+   We will, of course, continue to seek
+   to determine and discern (and maybe judge)
+   if they are actually reasonable enough
+   to be conversational partners with us,
+   to be also worth our own time explaining
+   such matters to them.
+
+   Expect that we will notice, for example,
+   whether or not you have even noticed
+   that such questions as distinguishing
+   mathematics from physics from social
+   might even apply.
+   We will notice if connotative rhetoric
+   is being used, and in what way,
+   or if the arguments are inductive,
+   or deductive, and if so, on what basis.
+
+   We will even notice the more subtle things,
+   like whether such questions as to the
+   nature of the universe, of law and causation,
+   are the same, or are different,
+   and of what sorts of implications
+   that such constancy questions might have.
+
+:g9c
+   > Taking any position
+   > with 100% certainty
+   > is an immediate red flag.
+   > Therefore, your true certainty
+   > should be less than 100%.
+
+   Mistaking or equivocating regarding
+   the difference between scientific evidence
+   and reasoning purely on the basis of logic
+   is a red flag for us too.
+
+   We acknowledge that there
+   are possible ways that we could be wrong,
+   but that also means that are assuming
+   that we will at least be actually met
+   in the proper domain of argumentation.
+
+   The suggestion given, as a normative,
+   is actually in the domain of the social --
+   ie, not even in the domain of science
+   nor of mathematics (reason and logic).
+   Being in the wrong domain entirely,
+   your suggestion is actually
+   neither valid nor sound,
+   and is therefore,
+   not relevant.
+
+:gal
+   > I am not suggesting that you
+   > moderate your probability estimates
+   > for social reasons.
+   > I am suggesting that you put your
+   > honest best guess probability estimate.
+
+   We are honestly making a statement
+   which is akin to the "belief"
+   that "2 + 2 == 4",
+   and we are really truly trustfully
+   100% confident in that.
+
+   We are not guessing.
+   To assume otherwise
+   is a pejorative on your part.
+   And it does *not* help you.
+
+   Based on the logic of our argument,
+   we are as near to '100% certain'
+   as it is possible to be,
+   in any context, using any model,
+   regarding the total actual absence
+   of any possible safety/utility
+   of any type, kind, or deployment,
+   of AGI/APS/superintelligence.
+
+:gbu
+   > "100%" is never the correct answer
+   > for any question of probability.
+   > Your confidence should be less than 100%.
+   > If you want, put "99.99999%" --
+   > ie; a 1 in 10 million chance
+   > you are wrong.
+
+   > Maybe there are at some rare questions
+   > for which a 'six nines' answer
+   > could be the correct thing to do.
+   > I do not believe you are there.
+
+   > I think that you should put odds
+   > far lower than 99.99% (two nines).
+   > Something more like maybe 80%.
+
+   Boolean logic is not a continuum.
+   Matters of truth and falsity (proof)
+   are digital, not analogue.
+   Hence it is not a matter of probability,
+   it is a matter of possibility,
+   and there is a key difference
+   between these two concepts,
+   same as there is an inherent difference
+   between 'content' (what exactly is said)
+   and context (who, when, where, and how
+   something is said, in what language, etc).
+
+   To suggest otherwise, would be dishonest.
+   What probability do you want to put on
+   perpetual motion being impossible?
+
+:gdq
+   > I think that you are massively overconfident.
+
+   Do not depend on our confidence;
+   Review the arguments for yourself,
+   and come to your own conclusions.
+   Do not just take our word for it.
+   Analyze the situation yourself,
+   using the proper epistemic tools,
+   and you will not need anything from us;
+   no changes in our presentation,
+   or our style of speaking --
+   you will be/become your own advocate.
+   Try it yourself, (if you dare!).

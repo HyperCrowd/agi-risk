@@ -1,0 +1,815 @@
+On the Nature of Human Assembly
+
+What is the overall idea?
+
+When people gather together, a group naturally forms. In many
+cases, it is desirable to have these natural groups persist in 
+time and have their existence be sustainable over the long term. 
+However, given the highly dynamic nature of interpersonal 
+communications and the variety of life events, developing the 
+right infrastructure for long term group success is far from easy. 
+This essay presents a model and pattern for one such infrastructure.
+
+Introduction
+
+In any grouping of people, there needs to be some sort of
+organizational principle, even if it is very informal or 
+implicit, that allows each person, each member, to more 
+effectively coordinate their own individual actions with 
+respect to the intents of the group as a whole.  As groups 
+get larger, the need for an explicit internal structure 
+increases.  For very large groups this need for formal 
+complexity becomes significant. 
+
+Yet, despite the many examples of large governments, 
+institutions, industries, etc, that currently exist, 
+the organizational principles necessary for them to be 
+sustainable are far from obvious.  In may cases, it is 
+not even obvious that they are sustainable at all -- 
+sometimes even large bodies fail without a single 
+identifiable cause.  Attempting to found a new group 
+or institution on the basis of an existing one can 
+often result in transparently, unconsciously, and implicitly 
+inheriting the weaknesses of the existing system.  Without 
+an awareness of the principles of group formation, there can 
+be little hope of real group longevity in the face of 
+significant enviromental or situational changes. 
+
+However, rather than attempting to deal with the complexity 
+of large scale groups directly, it is considered that 
+sustainable group systems can be identified by 1) 
+resolving a minimal abstract set of organizational concepts 
+(one which would span the total space of all organizational 
+systems) and 2) using those concepts to define the minimum 
+possible structure necessary to create a sustainable group. 
+Once the basic principles of long term group stability 
+have been identified in their simplest 'ideal' form, the 
+way is opened for the practical application of these ideals 
+to real groups. 
+
+In effect, it is considered that if any group can be made 
+sustainable, that the dynamics of that group can be treated 
+as a 'cell' and composed into larger groups which will also 
+be sustainable (using the same techniques as that internal 
+to the prototypical cell group itself).  Therefore, the 
+issues associated with group scale can be factored out. 
+This allows the consideration of sustainability to be applied 
+to small groups (with minimum complexity) as if they are 
+representative of all groups.  Of primary interest then is 
+what sort of minimal organizational dynamics would enable 
+any small group to be sustainable.
+
+Coherency assumptions particular to small groups
+
+For the purposes of this essay, some assumptions have been made
+about the motivations of the individuals who choose to gather 
+themselves into an intentional group.  Particularly, it is 
+assumed that each member is motivated and enabled to achieve the 
+benefits of combining their efforts with others in as positive 
+and as natural a manner as possible.  By "enabled" it is meant 
+that each member is sufficiently knowledgeable about themselves 
+and each other to achieve the necessary alignment of personal 
+intent in group action.  This is particularly apparent in situations 
+where the group may be required to respond quickly and decisively 
+to external situations.  For example, the members of a local fire 
+department will need to trust one another and one another's real and 
+embodied skills to effectively respond to the rapidly changing 
+situation of a fire.  The strength of an emergency response group 
+a group is largely dependent on the health of the members and such 
+groups will particularly require strong interpersonal bonds and 
+mutual trust between all members.  Although not all groups may 
+need to be this obviously and rapidly responsive, the internal 
+general structure of a generic group must have the capacity 
+to support these capabilities (should need arise).  This need for 
+capability sets a requirement on what group organization principles 
+will ultimately be considered viable (more on this below). 
+
+Also, it is assumed that the activities of the group are intended 
+to be of mutual benefit to the membership, community, and larger 
+world (ie, a criterion of sustainability).  Achieving these conditions 
+is a precursor to group formation.  The means by which individuals 
+can attain the sufficient level of personal health is beyond the 
+scope of this essay.  However, insofar as the continued and 
+sustained health of each member is especially important to the 
+continuance and sustainability of the group itself, the ideas of 
+an organizational principle of a group must itself be considered 
+in terms of nurturing strength.  In particular, the best overall 
+effectiveness of the group will occur when the relationships between 
+members, and the feelings of each member about the group as a 
+whole, are each nurturing of strength.  The degree to which the 
+health and strength of the group is maintained is therefore also a 
+basis for considering the effectiveness of a potential group 
+organizational principle.  This can be thought of as also consistent 
+with a notion of ethics which asserts a connection of the means by 
+which something is achieved and the nature of the ends which are realized. 
+For small groups just starting out, the focus of activity and intent 
+for the group must therefore be on establishing and maintaining the 
+emotional, intellectual, and communicative health of each member and 
+of member interactions prior to the group having an overall externally 
+coherent action or intent as a whole.  Small groups are therefore 
+first defined in terms of inner growth before they can be self defined 
+in terms of outer action and intent.
+
+Structural archtypes for group orginization
+
+In considering the many and various organizational models and principles
+that have been previously used to coordinate all sorts of groups, 
+a categorical analysis of the primary forms and structures will identify 
+three basic and fundamental types of decision making process.  For the 
+purposes of this essay, these three primary forms of decision making will 
+be referred to as 'the democracy', 'the meritocracy', and 'the consensus'. 
+(Note: These categories are known to be conceptually orthogonal insofar 
+as other and more complex types of organization can be shown to be a 
+scalar or linear superposition of these three basic types). 
+
+The three notions of an organizing principle can be briefly described 
+(in a characteristically simplified form) as follows: 
+
+      In a democracy, a range of possible options is reviewed, discussion 
+      and persuasion (rhetoric) is followed by a vote, and the majority 
+      decision applies to the whole. 
+
+      In a meritocracy, some process (it does not matter which), is used 
+      to select a focus of decision making (a single person or smaller 
+      group), which then (perhaps after listening to the considered 
+      council of others) will make a decision which is applied to the 
+      whole.  It is assumed that the whole will always and implicitly 
+      trust the part to make decisions 'correctly' (whatever that notion 
+      is taken to mean for the whole group). 
+
+      In consensus, all members sit in council together and discuss 
+      potential decisions together until a complete and total agreement 
+      is reached among all members (however long it takes) which then 
+      becomes the decision of the group. 
+
+Of these three basic types of organizing principle, smaller groups will 
+generally be best organized using the method of consensus.  When first forming, 
+consensus methods are the inherent default starting point for any group 
+dynamic (at least insofar as each member is freely able to determine for 
+themselves if they actually belong to the group).  Consensus decision 
+making has significant advantages in regards to unity, integrity, and strength. 
+Consensus, as a method of making group decisions, contributes to good feelings, 
+clear intents, and insight on the part of each member.  In consensus, 
+each person has the freedom of complete contribution and may participate 
+fully in the total agreement.  It is important that each member has 
+good feelings about the resulting decisions and a willingness to 
+participate fully in the action of the whole, particularly since this 
+has the effect of increasing the depth and the overall effectiveness of 
+the group in any action actually performed.   The more whole and integral the group, 
+and the better that each member feels about the others, the the stronger 
+the group and the stronger and more generally beneficial the results. 
+The sustainability of the outcome is in proportion to the strength and 
+unity of the group.  Thus, to a first approximation, consensus 
+is seen to contribute directly to group effectiveness. 
+
+However, on deeper consideration it becomes apparent that each of 
+these three organizing principles has some real disadvantages, and 
+consensus is not excepted.  Consensus, although it usually achieves 
+very high quality decisions, also takes the most time to implement. 
+Consensus requires frequent, continued, and sustained interaction of 
+the whole group.  Not all members may be as constantly and fully 
+available for the necessary and ongoing interaction and communication 
+that necessary for consensus decision making.  Even in the best of 
+circumstances, it is often difficult to find and coordinate the 
+necessary long meeting times inherent in the consensus process. 
+Furthermore, in situations requiring immediate decisive action, 
+(such as within the context of unexpected events and/or emergency), 
+consensus is completely unable to mediate fast, vital, 
+and necessary choice.  As such, consensus, although it is very strong 
+in quality, is also the very weakest in the sense of being the least 
+powerful (in quantity) of the three decision making methods summarized 
+above.  While the group is microscopically coherent, it is in some cases 
+macroscopically ineffective. 
+
+In contrast to consensus, systems of meritocracy, such as those having 
+a single person or small unit of people in some sort of hierarchical structure, 
+are the most powerful.  Meritocratic organizations, particularly in a 
+fast changing environment, are the most able to deal with situations requiring 
+immediate and decisive action (for example, any situation involving emergency or 
+danger).  Such organizations are generally flexible and are usually 
+the most effective in implementing powerful action with the highest 
+levels of effectiveness, due to their coordinated quality and 
+their focused and singular purity of intent.  Both strength and 
+flexibility are necessary for a group as a whole for it to remain 
+sustainable. 
+
+Unfortunately, as is well known, meritocratic systems, no matter how well 
+intended, are also the most susceptible to unconstrained abuse (although 
+powerful, meritocratic systems are infrequently also strong).  For a 
+group to last in a changing environment (where the rate of change can 
+sometimes be high) some element of meritocratic or executive organization 
+is desirable and useful in any real group.  Yet, due to the potentiality 
+for abuse the meritocratic method of organization is the also the most 
+likely to develop seriously disabling aspects and painful effects 
+for the group members.  Any occurrence of the negative aspects in 
+a meritocratic organization can quickly diminish the overall effectiveness, 
+health, and sustainability of a group due to less than committed component 
+actions on the part of the members.  While the macroscopic aspects of 
+the group are maintained, the microscopic aspects suffer.  Over time, 
+these small scale instabilities can magnify into larger concerns that 
+destabilize the group (coup events or other cancerous instabilities). 
+
+In recognizing the marked disadvantages of the meritocracy, and as an 
+attempt at moderating the demands for time and communication required 
+by consensus, one might consider the method of democracy to be the best 
+overall alternative.  In a democratic system, everyone gets 1) a chance 
+to think about the issues, 2) the option to make their choice known 
+(as selected from a fixed and finite set of options), and 3) a chance 
+to convince others of the correctness of their viewpoints.  In this 
+system, less in person and in council time and communication are 
+required than that needed for consensus.  Democratic methods often 
+appear simpler to define (in the short term at least), and the decisions 
+made by the group are usually (seemingly) unambiguous (and therefore 
+simpler to implement).  There is additionally a feeling of security and 
+freedom to choose with ones heart when anonymity is used as part of the 
+voting process.  Also, the democratic system overall tends to be much 
+more resistant to overt abuse than a meritocracy.  Such a system, 
+furthermore, is well suited to groups that cannot often meet or 
+communicate directly, and which therefore must use some form of 
+messaging.  Any group communication based primarily on messaging would 
+be too cumbersome to use for consensus decision making, and too slow and 
+dis-empowering for everyone when used as part of a meritocratic system. 
+
+As such, the democratic system of organization seems initially to be a 
+better balance of consensus, which makes decisions well (i.e., good 
+quality of choice), and authority, which makes decisions fast (i.e., 
+good quantity of choice).  Unfortunately, the democratic method of 
+organization has significant flaws as well, particularly when applied 
+to groups having a more familiar or tribal character. 
+
+The process of voting requires that the issues be clear cut and 
+partitionable into a finite set of specific options which can be 
+voted on.  Unfortunately in life, most such issues are rarely so 
+clear cut.  Real issues of value are often associated with various 
+feelings, personal emotions, and subjective intuitions.  Further, 
+insofar as creative decision making is about opening new potentialities 
+and working with the unknown and unknowable, the attempt to reduce 
+a problem to a finite set of specific options is very problematic. 
+The reduction of a hard and subtle value problem into such a finite 
+specificity as required for a vote must be regarded as being nearly 
+antithetical to any possibility of success. 
+
+Moreover, the process of choosing which options will be in the 
+total set of available options to be voted on is an often neglected 
+form of power which is frequently, but invisibly, abused in itself. 
+The context of the choice to be made, and the context in which the 
+choice is made, are themselves rarely the object of a democratic 
+process (it is a problem of regress which can be diminished, but 
+never completely and finitely resolved).  This covert shifting of 
+context can be seen, for example, in the efforts of a used car 
+salesman to enact the reality of one's primary choice as being 
+between buying the red car or the blue one, whereas the real choice 
+is whether or not to buy a vehicle at all.  Often, it is only in 
+the action of shifting the context of choice that a real solution 
+can be found.  The practice of democracy encourages a form of covert 
+abuse in making it always necessary to choose from a finite set of 
+options, whereas in real life, the number of options available is 
+always infinite. 
+
+To make matters worse, the action of the vote itself does little 
+to create group cohesiveness, necessary to the long term sustainability 
+of the group.  Majority rule, particularly if that majority is very 
+slight (51%), is oppressive to the minority necessarily left remaining. 
+The action of voting encourages a polarization, a schism of opinion, 
+between two factions. Even though the schism incurred by the voting 
+process is very obvious, the democratic method does not provide a means 
+to heal that division; it is an unavoidable divisiveness created by the 
+method itself. 
+
+Meritocracy and consensus both tend to heal such schisms of opinion 
+either through insight (the creation of a third additional option) 
+or through negotiation. Divisiveness is an especially problematic 
+element of democratic process in that it diminishes the unity of feeling 
+in a group.  The larger and lasting benefit of group action is in 
+geometric (or stronger) proportion a total coherency of group consciousness 
+operating as one together.  Two members working together can be much 
+stronger than having both work alone, yet the democratic method nearly 
+always splits a group into at least two disagreeing fractions, those for 
+and those against. By encouraging a false simplicity, much clarity and 
+depth of action is lost (creativity, spirituality, and awareness are 
+best enabled by clarity). 
+
+Furthermore, the minority must always feel unhappy with the 'group' 
+decision, the outcome of the vote when they are forced to accept the 
+'will of the whole'.  Members losing the vote must necessarily override 
+their own feelings and opinions.  Democracy encourages a suppression of 
+feeling; an action for the 'right' to have a vote, a fleeting voice, 
+in the decision at all (a voice, moreover, that is often reduced to 
+insignificance and meaninglessness in even moderately large groups). 
+Choice (and significance) is inherent in consciousness, at all levels 
+of being.  It is not 'licensed' from the whole to the part, or even 
+from the part to the whole. To make choice seem to be a temporary and 
+possibly revocable 'right' (for which one must barter their 
+unconditional acceptance of the unconscious tyranny of the majority, as 
+the democratic system must make it seem), is to act in a manner contrary 
+to fundamental truths of life itself: the true ownership of one's own 
+choices, the significance and meaningfulness of all choosing, and the 
+cooperative process by which all choice IS made.  In its worst forms, 
+democracy becomes a process antithetical to the dynamics of life, having 
+more the nature of a cancer than of a living being working as a unity 
+(and there are yet deeper layers of symbolism in this, for those who 
+have the eyes to see it!).  To have an action or a process be contrary 
+to life is to go directly against the interests of the group itself. 
+
+Worse still, the dialog that precedes the vote is itself subtly 
+flawed and distorted.  In that a vote is an event, the timing of 
+which is always finite and near, it encourages the action of speaking 
+rather than of listening, expressing rather than accepting.  In fixing 
+the time of a vote, communication becomes rushed and is soon replaced 
+by lecture and campaign.  Busy activity replaces the reflective space 
+necessary for insight, creativity, and the more inward forms of 
+communication inherent in the process of attaining truly effective 
+decisions. 
+
+Also, in being only about expression, the dialog presented before 
+the vote (ideally) would consist of (or have the form of, or at 
+least appear to be) reasonable arguments which are impersonal, 
+objective, and based only on logic and facts.  Yet such dialog must 
+always have the implicit objective, form, and purpose of convincing 
+others to vote in the same manner as oneself.  In that such expression 
+must therefore hide one's own personal subjective values and natural 
+desires (which ultimately can have no logical or reasonable basis) 
+within arguments which are designed to appear to be based on 
+impersonal objectivity and reason, the ideal dialog before the vote 
+is inherently deceptive.  In this, artfully constructed fictions 
+replace actual fact; reactions to images, symbols, and flags are used 
+to replace feelings of inner truth with emotions of fear and pride. 
+The ideal of democracy becomes only an expression of rhetoric before 
+the vote, a means of manipulation which justified in the terms of the 
+end of having others vote (or act) in some limited manner.  Rhetoric 
+cannot be trusted, even and especially when it appears to be 
+trustworthy. In that a group is inherently based on mutual regard and 
+trust, a transparent, considered, and conscious communication is 
+necessary for effectiveness. 
+
+To use rhetoric to encourage others to replace their thoughts with 
+those of the speaker, is in effect, to treat them as a machine, to 
+inherently regard them less intelligent and significant than oneself. 
+In this, concerns about the outcome of the vote override all concerns 
+for the people participating.  As a result, everyone (including the 
+"winners") feel like they have lost something important, some element 
+of truth and honor has been neglected.  Inwardly everyone knows 
+intuitively that the means used (deception and control of the vote) 
+cannot ever be justified in the terms of the ends, no matter how well 
+intentioned ("for the good of all").  One cannot value people and their 
+lives (life) by attempting to treat them (and all of nature) in the 
+manner of an ignorant and discardable machine.  Insofar as the group 
+values sustainability and life, these intents values must also be 
+reflected as an aspect of its practice, its realization, and its identity. 
+
+As such, the practice of democracy, and the politics it implies, 
+is by its very nature very disabling to the sustainability of a 
+small group.   The methods of 
+democracy strongly discourage participants from ever considering 
+matters of personal feeling and intuition in a natural manner. 
+The process of campaign is an invasive intrusion into one's own 
+inner dynamics of creativity; an evolution which is very necessary 
+when choosing with an alignment with the inner nature of life.  While an 
+authoritarian meritocracy has features that lend themselves to an 
+easy and overt abuse, a democracy is not much better in that it 
+lends itself to a covert abuse. 
+Yet, as has been described, neither consensus nor merit, as 
+potential methods for organizing a group, are ideal either.  All 
+three methods when practiced by themselves are inherently flawed 
+when considered in terms of the requirements of sustainable 
+group process. 
+
+Therefore, it is necessary to develop some other, alternate method 
+for organizing a groups which somehow combine the good effects of the 
+values of consensus decision making with power and decisiveness of 
+meritocratic methods.  Ideally, the alternative must 
+not introduce the known disabling effects associated with democracy, 
+merit, or consensus.  What is needed is a method for combining into 
+a new hybrid the high quality aspects of consensus decision making 
+with the high quantity of decision available from a meritocracy, 
+without introducing new disadvantages and potentials for abuse 
+inherent in each of these other forms.  In answer to this, this 
+essay will therefore consider an alternate method of combination 
+these forms to create a hybrid small group organization principle.
+
+Group method hybredization; a proposal
+
+The basis of the hybridization is to have the decisions of whatever
+the group DOES be defined in the terms of an organization of what the 
+group IS.  In other words, the dynamics of the group can be considered 
+in terms of two aspects in relation to one another: internal group 
+process and external group interactions ("is" and "does", or intra-group 
+and inter-group, respectively).  In that the group internal process and 
+the group external process are in relation to one another, this 
+relation is also an identified category of group process (since the 
+meta-dynamics 'is' and 'does' must also be in relation to one another). 
+In effect, there needs to be a natural means for the group to transition 
+from being to doing and then again transition back from doing to being. 
+The organizational principle which applies to this transition dynamic 
+is as necessary to the overall model as the organizational principles 
+which are individually applied to the being and doing of the group. 
+
+The result of these considerations is to 
+identify and use different decision making aspects at and for different 
+parts of the overall group process.  As such, 
+the method of consensus is to be used for 
+all organizational and planning aspects of the group 
+(omniscient modal aspects), 
+merit     is to be used as the basis of operation during actual 
+group action (executing a plan; immanent modal aspects), 
+and democracy is to be used as a moderator on the transition 
+from meritocracy back to consensus (transcendent modal aspects). 
+
+This simple method of combination provides for the working group 
+to have the best advantages of each basic decision making process, 
+while having few to none of the disadvantages implied by each. 
+The basis of the necessary correspondences are identified by modeling 
+the group in terms of identity and interaction theory (as intra-group 
+and inter-group theory, respectively).  Each of these aspects will be 
+considered in its own paragraph below. 
+
+Intra-group 
+process is an isomorph of the subjective, and therefore needs to have 
+full coherency and (eventually clear) representation of the overall 
+deep feelings and future dreams of the group.  Consensus process is 
+the best choice (optimal) when assigned to group internal dynamics, 
+particularly insofar as coherency is much more important than rapidity 
+when defining and identifying the group identity (the long term structure 
+of the group).  The key of this assignment is to recognize that with 
+respect to all elements of the intra-group process, that consensus 
+is the ultimate founding basis and therefore trumps all other defined 
+internal structure.  Where a previously selected group internal 
+structure or formalization has been found to be disadvantageous to 
+the group, consensus process is the ultimate solvent that allows for 
+group restructuring without also implying the loss of group identity 
+and integrity. 
+
+Inter-group process is an isomorph of the relation between the 
+subjective and the objective, and represents/is the actual actions 
+of the group (the exercise of group choice) in, on, upon, or within 
+the larger world.  Such action is (cannot not be) considered as within 
+the 'here and how' and has a sense of immediacy, representing the real 
+actions and consequence of the group existence.  Insofar as the specifics 
+of that interaction need to be immediate and real-time responsive, the 
+optimal choice of organizational principle will be one of merit.  As 
+a confirming aspect, it is to be noted that the hierarchal flow down 
+model associated with merit based systems of governance are also an 
+isomorph of the process of adding specification detail when an abstract 
+choice process becomes a concrete one. 
+
+The details of this hybridization can be clarified by considering 
+ideal dynamics of the group in the terms of event planning. 
+Consensus decision making is used for all decisions regarding the 
+basic intentions of each group action and for the practical, pragmatic 
+considerations involving the group itself.  For example, decisions 
+about membership (either adding or removing), in that it affects 
+the being of the group, are made by consensus.  When everyone 
+agrees, and in open forum has been allowed to express their feelings, 
+doubts, ideas, and intuitions, the group (with this sharing) has 
+as a whole come to some deeper insight about the decision, then 
+in that mutual agreement, the decision is made.  It is essential 
+to the process of consensus that everyone feels good about the final 
+outcome, and that each participant feels willing and positive about 
+participating.  Within the process of external group action, it is 
+important that the statement of intent be something that everyone can wholeheartedly 
+support.  In this respect, all group statements of intent are to 
+be decided by consensus.  Finally, consensus decision making is used 
+to select one of their number, on the basis of their merit, to act 
+as a focus for the duration of a specific group action, or as a chair 
+for the next consensus meeting.  Collectively, the process of having group 
+choice and effort be made on the basis of total agreement reached by 
+all members is referred to as a consensus process of decision making. 
+
+Within the context of a specific action, as chosen via consensus in 
+the whole group, and as expressed in the group statement of intent, 
+the person who was chosen, by consensus, as a focus is temporarily 
+empowered to make the single executive decisions about the actual 
+event execution. (Note; Having group choice and 
+effort be made on the basis of temporary authority invested in a 
+focus person is referred to as an "executive" decision making process). 
+The focus person, perhaps choosing to listen to the counsel and advice 
+of others (when there is time), acts as a basis of a meritocracy. 
+The consensus selected focus person organizes the action and is the 
+primary decision making agency during the event itself. 
+In this respect, for the duration of the action, there is an organizing 
+basis that can be responsive to the (occasional) unexpected situation. 
+
+Also, the process of making consensus decision by itself is often 
+significantly enhanced when there is someone to act as a facilitator 
+of that consensus.  The role of this person is to ensure that 
+everyone gets a chance to speak their truth and to attempt to 
+summarize the various ideas that have been presented so far.  It is 
+the responsibility of the consensus facilitator to try to ensure 
+that the consensus process itself works by creating the orderly 
+context in which everyone can speak. 
+
+As occasionally will happen, however, in the event that consensus 
+is not being reached because of an emotional conflict between members, 
+or in the event that the decisions of a selected focus person have 
+"gone too far", the democratic process would be used to moderate or 
+suspend either of these other two other forms of decision making.  In 
+effect, the democratic process can, via an unplanned spontaneous 
+majority vote, 1) suspend and veto the decisions of a focus person, 
+even to the point of suspending a current action, and thus effect 
+an immediate transition back to a consensus method of making decisions, 
+or in the event of standing disagreement in consensus (no motion), 
+2) act to temporarily suspend the consensus process until the 
+situation has 'cooled down' a bit.  As such then, the democratic 
+process of majority vote, although it is not used to make any 
+group choices in itself, is used to moderate or suspend the effects 
+of the other two means used by the group to make decisions (consensus 
+decision making and executive decision making).  In this way, the 
+democratic process can act as a 'check' on both the meritocratic 
+process and the consensus process, to ensure the smooth operation of each. 
+
+In summary then, there are only three basic methods by which group 
+decisions are made.  Each of these methods can be used to make two 
+different kinds of decisions, one particular to its own modality, and 
+one to act as a check on (to moderate the effects of) each of the 
+other two methods of decision making.  Each decision making methodology 
+has two primary responsibilities, and all three methods together 
+account for all (six) basic aspects of group management.  This overall 
+arrangement can be restated more compactly and symmetrically as follows: 
+
+      That Consensus process, which is based on the total and heartfelt 
+      agreement of all members of the group, is used to make 
+      1) all of the important decisions about the being, nature, 
+      and intent of the group and its actions, and 2) selecting 
+      single individuals to act as a coordinating and decision 
+      making focus each particular action, and the group member 
+      who will be responsible for facilitating the next consensus 
+      decision making meeting of the group (note different people 
+      may be chosen for each role). 
+
+      That Executive process, which is based only on the merit and authority 
+      of the selected focus person, is used to make decisions about 
+      1) the implementation of a specific group external action, and 
+      2) how to best enable the consensus decision making 
+      process during a group meeting. 
+
+      That Democratic process, which is based on a spontaneous majority 
+      vote of those present in any gathering of the group, is used 
+      to make only two kinds of decisions: 1) whether to immediately 
+      suspend the currently pending executive process (i.e., to 
+      indefinitely suspend the authority of the currently acting 
+      focus person) and return directly to a consensus decision 
+      making process, and/or 2) whether to immediately suspend the 
+      currently pending consensus decision making process, with 
+      respect to a particular stalled decision.  (Note; In effect, 
+      the latter aspect is a transition to a type of executive 
+      process, usually to select a focus person who will ensure 
+      that the issue is taken up at some (other) future scheduled 
+      meeting, or suspended by vote again, if the situation warrants. 
+      It is important to let the stalled decision rest for the 
+      remainder of the current meeting, so that other issues can be 
+      discussed if needed). 
+
+Aside from its simplicity, this hybridization has numerous advantages 
+for a small group.  Consensus process is used to make all of 
+the important decisions which affect the group as a whole.  Consensus 
+decision making serves as the foundation for all group activities and 
+allows each of the group members to come to know one another more 
+deeply.  As such, consensus decision making allows the group as a whole 
+to come to one mind about an issue.  In sharing insights each person may 
+more easily come to feel good about the decisions that are made.  This 
+enables the group to be whole, and acting as a whole, to be strong, 
+and thus enabled to work in a healthy and sustainable manner.  Overall, 
+the consensus process 
+provides the group with the ability to make high quality decisions in 
+the places where high quality choices are most needed.  By allowing for 
+transition to executive process, the cumbersome aspects of consensus 
+decision making are avoided.  By allowing supercession by democratic 
+process, a stuck or blocked consensus process can be prevented from 
+halting or freezing the group, ensuring that the group as a whole will 
+remain responsive, effective, and at peace with itself. 
+
+Executive process allows for the group to have the necessary 
+structured organization, responsiveness, and flexibility needed 
+to cope with the vast number of details of rapidly changing conditions 
+associated with the external environment (and the unexpected dynamics of life). 
+Executive process also provides the context and facilitating basis for effective 
+consensus decision making within a group.  Overall, the executive 
+process provides the group with the ability to make rapid and numerous 
+decisions in the situations where immediacy and decisiveness is most 
+needed.  By allowing supercession by the democratic process, the 
+executive process can be prevented from becoming dominating, or misused, 
+ensuring that the group remains healthy. 
+
+Democratic process ensures that neither the consensus process nor 
+the executive process ever becomes disabling.  By ensuring that there 
+is always a method for checking or relieving problematic situations 
+(such as halted or overly contentious group meetings and possible abuses 
+of focus authority), these other two forms of decision making are made 
+more sure and secure and the problems of rhetoric and loss of essence 
+associated with democratic process are avoided. 
+
+Overall, by maintaining a good balance and mixture of these three 
+types of decision making processes, the membership of a group should 
+be able to integrate in a healthy manner with the strength and 
+flexibility necessary for high quality combined works.  The 
+particular disadvantages of each type of decision making process are 
+offset by a balanced transition to the advantages of each of the other 
+types.  In this way, the best of all possible groups can be realized.
+
+Ultra-brief summary of the Small Group Method:
+
+That Consensus process
+is used for all intra-group decision making 
+*and* to setup the basis for executive process decision making. 
+
+That Executive process 
+is used for all extra-group decision making. 
+
+That Democratic process 
+is used as a check on, and spontaneous 
+transition from, 
+executive process back to consensus process.
+
+Detailed Description of Small Group Method:
+
+Consensus process decision making is used for:.
+
+      - 1; selecting/electing the individual who will act as the 
+      facilitator and/or chair of the consensus process itself. 
+      - 2; defining or redefining the membership, internal structure, 
+      named intent, values, objectives, dreams and aspirations, etc, 
+      of the group. 
+      - 3; selecting/electing the individual who will act as a focus of 
+      responsibility and authority for a specific group external range 
+      of action. 
+
+Consensus methods are always used to define all decisions 
+in relation to the being of the group itself, the basis 
+of choice for its actions, and the focus of responsibility 
+and authority to implement those actions. 
+
+Consensus methods are never used for decisions specific to 
+implementing an external action of the group, nor are they used 
+for suspending or withdrawing authority/responsibility from a 
+previously selected focus.  Consensus process methods also 
+cannot be used to moderate the process of consensus itself. 
+
+Executive process (meritocratic) decision making is used for:. 
+
+      - 1; the implementation of a specific group external action. 
+
+      - 2; how to best enable the consensus decision making 
+      process during a group meeting. 
+
+Executive process methods are always used to define all 
+decisions in relation to the action, the doing of the 
+group itself.  Executive process, as mediated by a consensus 
+selected focus person acting in accordance with consensus 
+process resolved intents, is used to implement selected group 
+activities externally and to facilitate the consensus process internally. 
+
+Executive process is never used to make any decision relating 
+to the being of the group. 
+
+Democratic process, which is based on a spontaneous majority 
+vote of those present in any majority gathering of the group, 
+is used to make only two kinds of decisions:. 
+
+      - 1; whether to immediately suspend the currently pending 
+      executive process (i.e., to indefinitely suspend the authority 
+      of the currently acting focus person) and return directly to 
+      a consensus decision making process; this has the effect of 
+      transitioning the group from 'doing' back to 'being'. 
+
+      - 2; whether to immediately suspend the currently pending 
+      consensus decision making process, with respect to a particular 
+      stalled decision, and elect a different consensus facilitator. 
+
+Democratic process is used as a check on both the consensus 
+process and the executive process of the group and is used 
+for no other purpose.  Voting decisions are of exactly two 
+kinds: 1) whether to have a vote, and 2) whether to dismiss 
+the currently selected focus person.  Both of these decisions 
+are yes/no (boolean).  Whenever a majority requests a vote, 
+a vote is held.  A vote can be requested by a gathered majority 
+of the group at any time.  A majority result on a vote can be 
+used to immediately revoke the executive process authority 
+of a previously selected focus person or consensus facilitator, 
+(allowing for a new consensus facilitator to be elected by 
+consensus, if needed).
+
+Notes on the group action/identity distinction
+
+Insofar as the method of sustainable small group formation
+described above is characterized on a being/doing distinction 
+(the identity of the group as contrasted with the action of 
+the group), it is important to be able to clarify which 
+group decisions (interaction events) are to be classified 
+as belonging to which category (intra-group or extra-group 
+interactions).  The clarity of this resolution is essential 
+as it defines which choices are within the scope of the 
+consensus decision making process and which decisions are 
+within the scope of the executive decision making process. 
+
+The basis for the distinction is found in the notion of 
+observability.  If the effects and consequences of a decision 
+are concretely visible to people who are not members of the 
+group, then the decision/choice is regarded as external and 
+part of the action of the group (extra-group interactions). 
+Otherwise, by default, all remaining decisions are considered 
+to be internal (intra-group interactions). 
+
+Implicit in this description is the assumption that all 
+group internal processes (the internal communications of 
+the group used to establish and consummate consensus process) 
+are maintained in a manner NOT visible to non-members.  The 
+reason for this apparent secrecy associated with consensus 
+process is associated with the need for the group identity 
+to be internally (rather than externally) defined.  External 
+agencies with visibility to the group internal process would 
+likely attempt to use this information to influence the 
+internal dynamics of the group.  Such influence would allow 
+non-members to functionally act as if possessing the privileges 
+of group membership, this weakening the significance of 
+membership, and thus the identity, of the group itself. 
+Insofar as the notion of membership is always, inherently, 
+and explicitly defined as isomorphic with the being of the 
+group, it is always an internal decision and should not 
+visible to group outsiders (even by indirection and inference). 
+As such, all communications associated with group consensus 
+process are considered to be private to the membership of 
+the group itself.
+
+Structural integration into larger group forms
+
+As outlined above, the hybrid dynamic of group organizational
+process using combined consensus, executive, and democratic 
+decision making methods is only directly applicable to small 
+groups.  The reason for this limitation is twofold. 1) Insofar 
+as consensus decision making implies and usually requires full 
+communication between all members of a group, and where the 
+number of inter-member messages rises geometrically in proportion 
+to the number of members, the communicative bandwidth required 
+of each member can quickly rise beyond the carrying capacity of 
+that individual.  2) Where executive process requires an explicitly 
+defined focus and range, the selection of that focus and its 
+degree of asymmetry must be commensurate with the grain size 
+of the group (ie, exactly one member).  Where the level of 
+focus asymmetry is too high, the demand stress on the selected 
+individual can exceed the available capabilities of that 
+person and/or require the formation of subgroup counsels; the 
+added complexity of which does not translate very efficiently 
+when considering the democratic process override on executive 
+process. 
+
+Given these constraints, the hybrid process can only validly 
+be applied directly to groups in the range of 6 to 30 members 
+(extreme limits) with groups of 10 to 16 members being 
+considered optimal.  However, larger organizations can be 
+composed of smaller ones by re-identifying the small group 
+itself as a member cell in a larger meta-group similarly 
+organized and constituted in aggregate as with each small 
+group.  This process can be continued for any number of 
+levels of scale so as to be able to form coherent 
+organizations of any number of individuals operating in 
+aggregate.  This composition method defines a specifically 
+bottom-up topology for larger groups (grassroots organizations). 
+
+Insofar as the interactions between groups in forming 
+a composition meta-group are effectively external to the 
+groups themselves, the action of intergroup communications 
+within the context of the meta-group need to be mediated via 
+executive process.  This has the implication that the 
+individual cell groups must be internally healthy enough 
+so as to select one of their internal members to act as a 
+liaison in communications with other groups on behalf of 
+the local membership.  This in effect constitutes a form 
+of local group representation, where the representative is 
+effectively immediately answerable to the represented cell 
+group by democratic override and consensus process. 
+
+Also, insofar as the communicative bandwidth limits identified 
+above will apply to the representative individual, it is 
+important that some composition constraints be observed: 
+
+      - 1; The number of component cell groups in any meta-group 
+      must not exceed the communicative capacity limits of a 
+      representative individual, and therefore, each meta-level 
+      can consist of at most 20 or so component groups.  It is 
+      preferred that different focus representatives be elected 
+      for each compositional level so as to not exceed the 
+      capabilities of any specific group member (Note; this is 
+      particularly relevant where meta-groups are themselves 
+      combined into meta-meta-groups). 
+
+      - 2; The membership decision of a cell group within a meta-group, 
+      insofar as it is an aspect of the being/identity of both the 
+      cell group and the meta-group, must be made by positive consensus 
+      at both group levels.  The choice of the cell group to belong to 
+      a meta-group, as determined by the cell group, is not the decision 
+      of the elected representative, but is the result of an achieved 
+      cell group consensus.  From the perspective of the meta-group, 
+      the membership of the cell group is defined by the consensus 
+      of all of the participating cell groups as mediated through 
+      their elected representatives.  Only where both conditions hold 
+      is cell membership in the meta-group established. 
+
+Finally, it is noted that in the same manner that a single 
+individual can be a member of multiple groups (although this is 
+not necessary nor desirable), so also can specific cell groups 
+have membership in multiple meta-groups.  In this manner networks 
+of interchange can be created for arbitrarily complex structures. 
+This has the distinct advantage that while the specific structure 
+is everywhere clear, there is no concentration of organizational 
+complexity (or points of failure) at any particular locus within 
+the overall system.

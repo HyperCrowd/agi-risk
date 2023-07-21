@@ -1,0 +1,276 @@
+TITL:
+   *Right Skepticism*
+   *By Forrest Landry*,
+   *Oct 7th, 2022*.
+
+ABST:
+
+   When/where is it right to be skeptical
+   about the probability of principle?.
+
+TEXT:
+
+   > You seem very much too concerned with "being right",
+   > with proof, correctness, clear statement, etc.
+   > Are you willing to listen with an open mind?
+
+     No, we do not want to be right --
+     given the extreme pessimism of our results,
+     we would very much rather be wrong!
+
+     Unfortunately, what we find that
+     what we must do, ethically speaking,
+     is to be very sure to check our own results,
+     *and* to check that everyone else
+     is also not making some deep mistakes.
+
+     Ie; what we care more about
+     is where there is a risk
+     of "your" being wrong,
+     particularly about the possibility
+     of developing superintelligence
+     sufficiently safely for the well-being
+     of the world.
+     There is a risk of your leading others
+     to do wrong (world damaging) things too.
+
+:jln
+   > Many impressive feats of technology and science
+   > were believed to be impossible beforehand.
+   > You are overconfident.
+   > Some person might do something
+   > that is currently believed to be impossible
+   > (today, from our limited understanding).
+   > Anything might be shown to be possible
+   > in the future, and hopefully,
+   > also achieved/demonstrated too.
+   >   History is replete with such bogus claims
+   >   and then later demonstrated counter-examples.
+
+   > Therefore, I believe that there is
+   > no principled basis on which *anyone*
+   > can claim that AGI alignment is impossible,
+   > that AGI is "inherently uncontrollable"
+   > and that AGI is therefore inherently "unsafe".
+
+   > No one knows anything about AGI yet,
+   > and there will always be more evidence.
+   > Your coming off as "certain"
+   > is a sign of overconfidence,
+   > biased judgement, and an inability
+   > to change one's mind.
+   > You should listen to, and learn from,
+   > the many more knowledgeble people
+   > who have already reviewed these issues.
+   > - ?; why should anyone read the writings
+   > of someone as so obviously unreasonable
+   > as yourself?.
+
+     - where/if someone were to claim
+       > "someday, someone will make
+       > a perpetual motion machine",
+     then I,
+     and nearly other reasonable scientist,
+     would likely simply dismiss that claim
+     as inherently unreasonable/unprincipled.
+       - that, we too, would have the heuristic of
+         > "move on, nothing to see here",
+       and to go about our own business,
+       ignoring anything further from that person.
+
+     - we do this because there *is* a principled reason
+     for arguing against
+     the currently unknown results of
+       > "the unlimited future cleverness of all future
+       > engineers, throughout all of future progress" --
+     it is called the 'Second Law of Thermodynamics'.
+
+     - that the mere claim that
+       > "we do not (cannot)
+       > ever absolutely know/predict
+       > what the future will bring",
+     and/or
+       > "that there is always more evidence",
+     simply are not *principles*,
+     and not at all *relevant*,
+     in the case of 'perpetual motion' --
+     (or anything that sufficiently resembles that).
+       - that this remains the case even if there are
+       yet (well meaning) (desperate) (less critical) people
+       (and sometimes investors looking to make a buck)
+       who can be (and are sometimes easily) deceived
+       into thinking/believing (by some seductive charlatan,
+       and/or by some clever, but still deluded, engineer)
+       that their "infinity zero point energy machine"
+       will "be unlike anything that has ever come before".
+
+     - if someone claims that something (everything)
+     is "just possible in principle" (eventually),
+     we are naturally going to be skeptical and ask:
+     "what principle?".
+
+     - when/where we say/claim "that X is impossible",
+     on the basis of a clearly stated 'principle P'
+     we are at least making 'P' explicit,
+     and explaining why 'P' is relevant,
+     *both* via _valid_ reasoning
+     *and* _sound_ argument.
+     - where/for you to simply pretend to counter
+     that argument by saying/suggesting:
+       > "your mind is closed to the possibility that
+       > maybe someone, someday, might find some evidence
+       > that X is possible, and that therefore,
+       > you are unreasonable, illogical, closed minded"
+       > (and so thus we will self justify ignoring you).
+     is simply to produce neither any actual evidence
+     and no actual reference to any real principle.
+
+     - that the real effort here is *not* for someone,
+     in their in-crowd community-recognized expertise
+     to tacitly assert, and thus attempt to assume
+     the authority that *they* get to 'be the judge',
+     to be/play _as_if_ you are skeptical, fair minded,
+     of *our* claims against the impossibility
+     of *any* "Safe AGI" ever, in the long term --
+     when it is actually the case that *we*
+     are to be very skeptical of *your* claims
+     and implied assertions, notions, beliefs, etc,
+     that *any* notion of "Safe Aligned AGI"
+     is even possible "in principle".
+
+     To us, there are clear mathematical truths
+     that apply to how to model these notions
+     such that positing the "safe AGI" notion
+     is a bit like a windmill engineer
+     claiming they can break the Betz Coefficient,
+     or a motor mechanic saying that they
+     can beat the Carnot engine efficiency,
+     or a distributed CS major saying
+     that they can overcome the CAP theorem.
+
+     - ?; on what principled basis
+     can anyone ever think
+     that it would *ever* be possible
+     to "align" an AGI and/or
+     make it even "approximately safe"
+     for any reasonable duration
+     to any reasonable degree?.
+       - where leaving aside the issue of
+       "aligned" to *all human* well-being,
+       rather than to just private benefit,
+       as is so very often tacitly "overlooked".
+
+     - unless/until someone somewhere produces
+     even a single reasonable reason suggesting,
+     on some actual principled basis,
+     that there is "good reason to hope"
+     that is not simply based on psych-bias,
+     false anchoring, belief, speculation,
+     misapplied and/or misguided metaphors
+     and/or hype and marketing scams,
+     we will continue to be skeptical of all
+     benefit claims of "safe practical AGI".
+
+     - otherwise, *you* are going to sound like
+     someone who claims something unreasonable.
+
+:jnu
+   > Even if something is considered impossible
+   > via some mathematical model and/or theory,
+   > (eg; faster-than-speed-of-light travel)
+   > It is still inherently irrational to believe
+   > that it is 100% certain to not be possible.
+   > No one can be 100% certain about anything.
+
+   > The productive thing to do
+   > is to look for edge cases
+   > and find out how it might
+   > be possible after all.
+
+     We disagree -- there are knowable things.
+     We can be 100% certain that 2 + 2 == 4.
+     There are no "edge cases" for this --
+     it is not negotiable, nor a matter of opinion.
+
+     If you have not carefully ensured
+     that your models are both sound,
+     and consistent, in an actual worldly way,
+     then any time/effort you have spent on
+     trying to correctly "calibrate uncertainty"
+     is simply wasted.
+
+     You cannot simply circumvent the Rice Theorem
+     and/or the Halting Problem, or the CAP Theorem
+     by wishful thinking and "uncertainty engineering"
+     and calibrations.
+
+     Anyone who claims that "at some future point",
+     we/humanity will have anti-gravity machines,
+     faster than light travel (warp drives),
+     and some sort of 'time machines',
+     is going to seem inherently unreasonable,
+     and simply saying that "we cannot be 100% sure"
+     that these sorts of things "cannot happen"
+     is going to sound a bit flaky --
+     ie; does not seem to actually have a real
+     understanding of *causation* itself
+       (a concept impacted directly by *all*
+       of these three types of "technology").
+       - that all three are each examples
+       of near equivalent (structurally speaking)
+       extraordinary capabilities/functionality,
+       each/all of which, will involve
+       some real, deep, and unexpected
+       understandings of the principles of
+       General Relativity.
+
+     You are welcome to "negotiate gravity"
+     on your own time, not on ours.
+
+       That people might equivocate on the basis
+       of failing to distinguish Special Relativity
+       and General Relativity, and/or to not understand
+       the issues inherently associated with
+       "gravitions" as particles concept
+       and why they do not integrate well
+       in the Standard Model -- all of this
+       is simply to show evidence of confusion
+       about a significant number of
+       key/critical concepts.
+
+     Until/unless I hear/see some high level
+     of understanding of actual principle --
+     rather than just hopeful/hyped speculation --
+     then it is going to be very hard to take
+     your "skepticism" of us, as supplanting
+     our more reasonable skepticism of you.
+
+     Moreover, when considering x-risk issues,
+     that to have *anyone* simply elect to ignore
+     some "inconvenient" and "non-marketable" truths --
+     because they are "too busy" or "too important"
+     to review any actual principled reasons
+     (ie, the actual modeling, argument, math) supporting
+     significant safety concerns, ones involving everyone,
+     merely on the basis of some clearly faulty
+     personal belief heuristic preferences on your part,
+     is deeply ethically irresponsible in the worst way.
+
+       - such people _may_think_
+       that they can "elect to make choices"
+       regarding the well being,
+       on behalf of all other life on the planet --
+       all other people currently alive --
+         (and/or which have yet to be born,
+         for all of future time),
+       is an act at the absolute height of arrogance,
+       of hubris, of *colonialism*
+       of the very worst kind.
+         - as to actually be morally reprehensible,
+         while pretending to be an opinionated expert.
+
+     The issue here is *not* for you get to decide
+     "if we are worth your time, to read and understand";
+     rather it is for *us* to decide if you are worth our time,
+     to talk to and collaborate with, to respect,
+     in regards to anything which actually matters.

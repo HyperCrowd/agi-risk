@@ -1,0 +1,1044 @@
+TITL:
+   *"Overly Presumptive Listening", or*
+   *"Everything is made of Nails"*.
+   *By Forrest Landry*
+   *Sept 28th, 2022*.
+
+ABST:
+   How very intelligent people
+   sometimes tend to listen too presumptively,
+   in their own context, from their own POV,
+   and applying their own 'tried and true'
+   familiar intellectual tool-sets --
+   ideas/concepts/heuristics --
+   that they do not allow sufficient space and time
+   for the speaker/presenter to construct
+   wholly new modes and methods of understanding.
+
+   That the skill of learning quickly
+   can sometimes prevent them
+   from learning at all.
+
+TEXT:
+
+      > If all you have is hammer,
+      > everything nail.
+          -- anonymous.
+
+   Some number of years ago,
+   a friend named Jordan Hall
+   introduced me to this concept called
+   "The Omega Principle".
+   The basic idea was that some things,
+   some ideas, concepts, notions, feelings, etc,
+   are actually really really hard to explain,
+   and/or describe at all,
+   and that the effort needed
+   on the part of the one attempting
+   to be describing of that new idea/etc
+   was large and significant enough,
+   that the listener had to be actively involved,
+   doing all that they could
+   to make less the difficulty.
+
+   As mentioned elsewhere (&1),
+   there is a significant difference in effort
+   (and of available conversational bandwidth)
+   needed on the part of a presenter of something
+   than there is on the part of the listener(s).
+   There is moreover, a significant level of risk
+   differential associated with certain topics.
+   The asymmetry of significantly greater risk
+   inherent to the position of being the presenter
+   relative to the lessor risks to the listeners
+   is also at extreme variance,
+   not to mention the risks of social standing
+   associated by doing so, etc.
+
+   Sometimes, the combination of
+   inherent conversational asymmetry
+   and the sheer difficulties involved
+   in crossing a gap of far inferential distance,
+   especially of these happen to also be combined
+   with strong adverse conversational
+   intentions, motivations, and incentives,
+   inclusive of strong self identification/ego,
+   particularly when one has strong investments
+   into the (proposed) working idea space,
+   such as having academic or degrees,
+   significant social or professional standing,
+   or other significant emotional,
+   business, or political reasons
+   for wanting something,
+   some proof or idea or project,
+   to come out a specific way.
+
+   All of these issues combine
+   to make the possibility
+   of communicating something
+   new, different, or unexpected
+   a lot harder,
+   or maybe even impossible.
+   This essay
+   will consider only one of these aspects --
+   that which has been noticed to be associated
+   with particularly high intelligence listeners.
+   This specific pattern
+   has so far been observed
+   so very frequently
+   as to be and become
+   the basis of this writing.
+
+   Let us suggest, by way of example and metaphor,
+   that I am talking to somebody really smart
+   and happen to mention
+   that I have figured out how to build
+   some fairly exotic object named "Q" (&3).
+   Perhaps they show some excitement,
+   and so they ask me:
+
+      > "how do you build Q? --
+      > I am really interested to learn! --
+      > please tell me now".
+
+   The person seems to be some sort of builder,
+   and thus specifically knowledgeable in some way,
+   and maybe they can help with future projects?
+   Perhaps I even have some time,
+   and moreover sometimes even enjoy
+   sharing about such things,
+   and so either right then,
+   or maybe we even schedule a future meeting
+   specifically so that I can go over
+   the design and building of a Q.
+
+   I prepare for the conversation --
+   the upcoming meeting with someone thoughtful --
+   by thinking about all of the steps
+   that take us from whatever raw materials
+   that are, or may happen to be, on hand
+   to a well defined and finished Q instance.
+   Unfortunately, what I didn't know
+   going into the conversation/meeting,
+   that the other person
+   is also very skillful at working with --
+   and reasoning with --
+   hammers and nails;
+   ie; tools (concepts, heuristics, ideas)
+   that they know really well
+   and are very comfortable with.
+   All of them have served him, the listener,
+   so well and so faithfully
+   to solve so many and widely varied
+   important and practical real world problems
+   in the past,
+   that to use anything else
+   feels to them to be 'unthinkable'.
+   That not only the destination
+   was currently beyond the imaginative capability,
+   (ie; without in person facilitated assistance)
+   but that also even the 1st steps used
+   as a conveyance and means to get there
+   were also beyond the current imaginative capability,
+   (though maybe there is some hope still?).
+
+   How was I to know, in advance,
+   that talking with someone of "actual expertise"
+   would in itself become more likely a problem,
+   than an actual help in moving forward to Q?
+   Perhaps, somewhere along the way
+   of my giving a 1st (for them) summary
+   of the sequence of steps needed for Q,
+   that I happen to need to suggest
+   a transitional sub-project task,
+   which I know to be a kind of temporary scaffolding,
+   pursuant to the overall aim of building Q:
+
+      "We will need to attach a thing of type X
+      to something of type Y --
+      and we will need to have it there briefly
+      to enable the next step of our work".
+
+   Given this setup, it can be expected
+   that my conversational partner
+   might latch onto the metaphor or image
+   of attaching a board to a wall,
+   or maybe of hanging a painting,
+   and so will quickly and naturally present
+   that they already have a good working solution
+   to that sort of problem:
+
+      > "Great, I know all about how to do that:
+      > We can use a 16-penny nail.
+      > Lets move on --
+      > I am a bit rushed for time (sorry!) --
+      > perhaps please tell me the next step, or:
+      > Why does that attachment matter?".
+
+   They do this while visibly picking
+   their well worn toolbelt
+   and then grabbing a box of nails
+   from a local nearby bookshelf.
+   This leaves me in the position
+   of having to say:
+
+      "please put the hammer down"...
+
+   And before I get a chance to say more,
+   they will ask:
+
+      > "why? --
+      > what is the problem?
+      > this always works".
+
+   At that point, I might attempt to begin
+   to explain that we will need (somehow)
+   a very different functionality and outcome
+   than what can be obtained in that way,
+   using those sorts of (conceptual)
+   tools and techniques.
+
+   As part of suggesting an alternative method,
+   Perhaps I pick up, or point to
+   a nearby screw, if there is one handy --
+   maybe I even hold one up as a demo
+   and suggest that we will need these instead.
+   They say:
+
+      > "what is that thing?".
+
+   and I tell them
+
+      "it's a screw"...
+
+   And it always happens, nearly immediately,
+   before I have even had a chance to even try
+   to say anything further,
+   they interrupt again with:
+
+      > "so it's like a nail? --
+      > whats with those ridges!? --
+      > that will not work at all well as a nail --
+      > way too much friction to be practical!.
+
+      > Also, I know what I am talking about;
+      > I have been to nail school,
+      > and I have my PhD,
+      > and I have worked in industry
+      > for some 32 years now.
+      > Surely, you as an new arriving outsider
+      > do not expect to have so much hubris
+      > as to tell anyone in this community
+      > what a 'better nail' should be?".
+
+   And I have to say something like:
+
+      "no -- its different.
+      You can put it in,
+      and then later,
+      you can take it back out again".
+
+   I had maybe intended to say something like
+      "Some things can be assembled with nails,
+      but some other things cannot be,
+      and there are some advantages to using screws..."
+   but before I can get to any of that,
+   I am interrupted again:
+
+      > "So what --
+      > I can take a nail out again too.
+      > That is what the claw part of the hammer is for.
+      > Have you no understanding
+      > of the usefulness of nails and hammers?
+
+      > You clearly know nothing
+      > about good nail design.
+      > That 'screw' of yours
+      > is completely impractical --
+      > it simply will not work.
+      > Nails have been used
+      > and are well understood
+      > by engineers around the world".
+
+   To which I try to say:
+
+      "In this specific case,
+      I am very quite sure
+      that we definitely need
+      something very different
+      than a nail, in this case".
+
+   I sense that they bristle
+   at my implied claim to any sort of authority
+   contrasting to their own established credentials.
+   Yet the whole point of the conversation
+   is that maybe I do know something
+   about a longer range plan for a Q --
+   that was the question I was responding to,
+   for which this entire digression and discussion
+   is only necessary so as to enable
+   a further downstream step I know of --
+   a step that simply will not be possible otherwise,
+   making this minor conceptual point
+   into something now of a critical path feature.
+
+   Given that the entire point of the conversation
+   was for them to actually understand
+   that larger flow towards a Q,
+   that I am feeling like I should have
+   been given, by them, actually,
+   at least some real tacit permission
+   to present things in my own way,
+   in my own time,
+   at my own speed,
+   and to my conversational convenience,
+   not theirs --
+   that I should be able to do this project
+   with the tools and means and methods
+   that I have come to know to be necessary
+   through the experience of having already
+   done so previously.
+
+   Is their belief in the value of their time
+   so much greater than any recognition
+   of the value of my contribution of my time,
+   in person, to explain to them, for them,
+   at their unique personal convenience,
+   and at the expense of irreplaceable heartbeats,
+   moments taken from the context
+   of my own life, to assist theirs,
+   so completely discounted by them?
+
+   All of these thoughts pass through my mind
+   in a mere second to two,
+   but I am not fast enough.
+   While I am taking a moment to pause
+   and to to think about how
+   I might re-align the conversation,
+   and the values, and to set something of
+   a more appropriate understanding
+   of where we each are coming from,
+   they preempt the conversation again:
+
+      > "Why re-invent the wheel --
+      > my tools can do whatever your tools can --
+      > this whole conversation is a waste of my time --
+      > you clearly do not know anything
+      > about standard fasteners, do you?
+
+      > Lets move on, and assume that thing X
+      > is nailed to thing Y.
+      > Why is that important?".
+
+   At this point, I am at something of an impasse.
+   To move forward, I will need to explain
+   that the sudden forces associated with
+   the action of nailing itself, in any form,
+   is too much, and for sure will cause problems --
+   making certain steps, in certain materials,
+   strictly impossible ("that cannot pass!").
+   Small, fragile, and brittle things
+   tend not to respond at all well to impacts,
+   and moreover, to be able to remove and separate
+   gently is a key aspect of an enabling transition
+   necessary to get a specific later outcome.
+
+   Given the way the conversation has gone so far
+   I do not even know if the other person
+   will have the necessary patience,
+   let alone some sort of emotional,
+   or conversational, or value discipline.
+   There simply is not any real allowance
+   of the kind of conversational bandwidth
+   to achieve many or even most
+   of the many necessary and overlapped
+   conversational objectives
+   which are now pending.
+   Maybe I should have not met with them?
+   However, they have asked
+   why that specific sub-outcome is important,
+   and I am already here, in meeting,
+   and in order to characterize that,
+   I actually need to define it,
+   if I am going to try to proceed
+   for this existing meeting,
+   and maybe salvage the outcome.
+
+   I will have to get really creative
+   and succient with next step transitions,
+   and say a lot in a really compact way,
+   covering a lot of ground
+   while also making the essential ideas
+   maximally simple and obvious:
+
+      "We will need to have X attached to Y
+      in a way that involves a minimum of force
+      and yet allows us to also remove it later
+      also with a minimum of total force applied.
+
+      One way to achieve this,
+      is to work with an instrument or tool
+      that can apply a twisting motion to the screw.
+      This tool, commonly called a "screwdriver"
+      will maybe end up looking, to you,
+      a bit like an ice pick
+      with a specially shaped tip".
+
+   I am realizing that to mention anything about
+   "inclined planes" wrapped around cylinders,
+   and accounting for the penetrating forces
+   of the screw tip by pre- drilling
+   a properly sized hole,
+   and moreover how there is
+   an entire body of thinking about that ratio,
+   what kind of drill bit is used,
+   how the drill operates and the forces it involves,
+   all of which end up being very important too --
+   but all factors like these
+   are clearly well beyond what can be discussed now.
+   I am noticing that I am pleased that
+   I maybe figured out a conversational way
+   by which I can maybe skip
+   all of these other involved details,
+   saving a *lot* of conversational time.
+   This good feeling ends up being short lived.
+
+   Unfortunately, while I am reflecting on this,
+   they interrupt again, though I get the sense
+   that they are attempting to follow my reasoning
+   and at least seem more polite about it:
+
+      > "So it is like a hammer,
+      > except that there is less mass,
+      > and there is no claw.
+      > I still do not get why the head
+      > is to be shaped like that --
+      > that makes no sense at all".
+
+   At this point, I am feeling rather frustrated:
+   how can you ever expect to understand
+   what something *is*
+   if all you are willing to do
+   is to talk about what it *is not*?
+   I had figured that they might relate to 'ice pick'
+   without getting stuck there --
+   do they have no curiosity about "more than" ideas?
+   Maybe we can popup to a meta level
+   and review where we are in the conversation:
+
+      "I need you to slow down,
+      understand what I am trying to build here,
+      inclusive of the tools used to build it --
+      how to make them, what they do, etc.
+      Please do not expect this to resemble
+      anything you already know".
+
+   But clearly they are already really uncomfortable
+   in dealing with what is presently unknown to them
+   and moreover, are probably questioning whether
+   or why they should even give me the time of day,
+   given how 'unreasonable' and 'demanding' I am being.
+   I am risking adding conversational stress
+   by attempting to transition to a meta level process
+   requiring them to be able to maintain distinctness
+   of the now two levels of operating conversation.
+   Will they have enough discipline to manage that?
+   Clearly I have already lost nearly all "social cred"
+   with them, since my concepts 'do not make sense'
+   even at the beginning, and maybe worse later,
+   and this conversation has already gone on,
+   on something that seems irrelevant and irritating
+   far too long.
+
+   We *both* notice
+   that the listener still has no real idea,
+   no feeling for or about the larger ida,
+   as anything getting anywhere near
+   to how to actually "do a Q", etc.
+   Perhaps he/they think the entire thing
+   is some sort of delusion on my part?.
+   I may know better, but *they* have, so far,
+   no way of knowing that, *yet*.
+   There simply has not been enough time
+   or space (or energy) allowed for
+   in understanding even some
+   of the way-points along the way --
+   let alone giving some form of 'sufficient reason'
+   for them to make the journey at all.
+   If it was not for the social proof
+   of someone who has already made the journey,
+   they would probably have bailed already.
+
+   Fortunately, that person was also attending,
+   and having heard and noticed this pattern before,
+   along with a previously completed description
+   of how to get a Q,
+   and thus having more perspective
+   suggests:
+
+      > Perhaps there is a need
+      > to setup and show the contrast
+      > as in "how they are thinking right now"
+      > and "how this next bit is different?"
+      > or perhaps by deeply exploring that one thing,
+      > and then saying "this is where it fall short", etc?.
+
+   At first, this seems like a good idea.
+   After all, I do actually know what a hammer is,
+   and I have used one, many times before,
+   sometimes for some projects.
+   And so I *could* potentially try to explain
+   how I can relate to a hammer and nails perspective,
+   to show them that I understood them,
+   and accepted them, and that I agreed
+   that there were real world situations
+   in which nails were easy to use and useful
+   fasteners for all manner of applications.
+   But not *this* application, and for real reasons
+   that might only become clear later,
+   once a lot of other important stuff
+   which far downstream of this point
+   was also understood.
+
+   I notice that my having to show them repeatedly
+   that I see and understand "how they are seeing X",
+   which simply consumes available conversational bandwidth
+   as it converts their listening to me,
+   as a conversational context,
+   to my having to listen to them,
+   as a context, consuming more time,
+   and then show and prove to them, and affirm,
+   that I have actually understood their point of view --
+   which does absolutely nothing towards
+   conveying any of my new ideas or proposals to them.
+
+   Yet the fact is
+   that a screwdriver doesn't resemble a hammer.
+   Not at all.
+   Not in any useful way.
+   Each is its own thing,
+   and trying to understand one
+   in the terms and language of the other
+   is a false premise, in both directions.
+
+   On this approach,
+   I can predict
+   that I will spend all of my time
+   simply confirming what they already know,
+   and as soon as I even attempt say
+      "I want to point to something different/outside of that" --
+   that they still have not actually made
+   any new headway
+   for new grounds/basis of understanding.
+   I notice that all of the effort to show compatibility
+   ends up being a complete waste of time,
+   for it simply confuses the issue:
+   screwdrivers are not understood in terms of hammers,
+   anymore than a hammer
+   is to be understood in terms of screwdrivers.
+
+:hy2
+   People can get stuck
+   in the metaphors that they know,
+   and so cannot take in new different metaphors.
+   No matter how much I go over existing metaphors,
+   it simply does not going to really be any help
+   in providing provision to receive/learn
+   and come to know/integrate
+   new metaphors/ideas/concepts/tools.
+
+   The "How X might relate"
+   to something of what they already know
+   is only important *after*
+   there has been a chance to encounter/experience X in itself,
+   at least a little bit.
+
+   I can imagine a neutral observer asking:
+      > Ok, so then: How do you explain anything at all,
+      > when to do so, you are required to
+      > explain everything else,
+      > all at once first!?.
+
+   The problem is not just the possibility
+   of a significant inferential distance,
+   it is also the significant volume of new concepts
+   that will be needed to traverse the inferential distance
+   that will also need to be covered
+   (depending on each listener uniquely).
+   With increased conceptual volume to be covered,
+   the chances of at least one of them being --
+   or at least *seeming* --
+   fairly similar to concepts they already know
+   to the confusion of everyone,
+   greatly increases.
+   It is this seeming conceptual similarity
+   that makes the total distance traversal problem
+   so much worse.
+
+   When describing this aspect,
+   another metaphor comes to mind:
+   It is a bit like having a table top surface
+   with magnets evenly spread all about,
+   so that any falling iron filings,
+   falling from above,
+   from any above position at all
+   over the table surface,
+   will immediately be attracted into
+   at least one of the magnets --
+   none of the falling filings
+   will ever just land on the table.
+
+   In effect, this is a metaphor for
+   a well constructed conceptual net --
+   a heuristic that works really well
+   for accounting for and integrating
+   any new incoming perceptions/concepts/etc.
+   To extend this metaphor,
+   perhaps I somehow notice
+   that the actual table surface
+   is lot bigger than it seems initially,
+   and that moreover,
+   the field of existing magnets
+   does not cover all of the surface.
+   To show that there is more "space"
+   beyond the field of magnets already placed,
+   I will need to slide a new magnet through
+   this field of existing magnets
+   from the near side (where things are familiar)
+   to the far side (where the new space is),
+   so as to place the new magnet
+   in a new position.
+   And I will have to do this
+   *without* distributing or entangling
+   any of the existing magnets!.
+
+   So there is this table, with magnets,
+   and I am trying to be dragging or sliding
+   some other new magnet through
+   this now minefield of the existing ones,
+   and I am trying to get this thing
+   to a new place, a specific location.
+   Maybe that final placement is definite,
+   for some other reason, maybe coordinated
+   with other existing magnet receivers,
+   and I need to get a fairly strong magnet
+   to a rather specific place
+   to achieve some specific outcome.
+   However, the stronger and more powerful
+   the new magnet/concept I am using,
+   the worse the "stickiness factor" is.
+   The mere fact of attempting to
+   get it through the field,
+   gets much much harder,
+   the stronger the conceptual forces involved.
+
+   This ends up being a rather good metaphor
+   for trying not to get new learning
+   caught in the tools/concepts
+   that they are so used to using.
+   the ones that they know well.
+
+   It is not just the inferential distance --
+   it is something about the path
+   that is needing to be taken to get there.
+   If all proposed paths are already overrun
+   with existing well defined well known
+   and well and frequently used concepts,
+   that the action of
+   attempting 'to learn and understand' new things,
+   each of which will for sure each have
+   its own special type of gravitational pull
+   becomes especially complex.
+   To switch to another metaphor,
+   that being a presenter is a bit like
+   attempting to launching and navigate a rocket
+   deep into interstellar space,
+   through some sort of unknown territory,
+   and to create a path
+   that does not get it caught
+   in any other (concept class) planetary orbit.
+
+   The difficulty of finding a path through
+   increases very quickly with an increase
+   in the number of dense gravitational bodies,
+   and the degree to which both the number and position
+   and specific motions of all of them
+   is a-priori nearly wholly unknown
+   to the presenter.
+   Finding ones way through all of this blind
+   is not likely to be successful,
+   yet there is no other way to explore/experiment.
+   Each person, each specific listener,
+   is like their own custom galaxy
+   with their own arrangement of concepts and language
+   all of which will shape the overall outcome.
+   (or in terms of the previous metaphor,
+   their own arrangement of magnets on the table).
+   For each such person (for anyone who is intelligent)
+   they have their own language, familiar concepts, etc,
+   and thus, for each one, as a special case,
+   the presenter must try
+   to construct an exact trajectory,
+   making allowances, for no mistakes at all,
+   to find a kind of stable path
+   through all of the other things already present,
+   without getting caught in any single orbit,
+   or in the gravitation pull of any one
+   of the existing previously learned ideas.
+   Any mistakes or minor issues discovered early
+   will for sure shift completely
+   the ultimate trajectory,
+   with failure ever more likely.
+   While the ultimate "place"
+   you are trying to get them to see,
+   is maybe somehow 'the same'
+   in some sort of overall absolute universal sense,
+   the path to get there is unique for each person,
+   and is always at least simply other than
+   the places that they already know.
+   Else why bother with the communication
+   of anything new in the 1st place?
+
+   In some cases, the existing bodies,
+   as centers of gravity,
+   can be used as way-points to navigate through.
+   This can happen,
+   as long as the overall path
+   does not get stuck in any one prior.
+   A presenter can *maybe* use *some*
+   of those existing bodies *sometimes*
+   to allow the rocket to pass through.
+   Fortunately, not all personal conceptual maps
+   are so completely different from one another
+   that there are no recognizable way-points at all.
+   However, one must be careful:
+   in no case can it be assumed
+   that what *looks* the same
+   is actually the same --
+   everything must be tested, cautiously.
+
+   Moreover, despite all of these difficulties,
+   it is very frequently even more unlikely
+   that the person you are talking with
+   will far too often
+   NOT have any appreciation
+   of the effort -- of your effort,
+   on their behalf,
+   and that the extensive efforts
+   that you must make, for them, uniquely,
+   and on their personal unique behalf,
+   so as to ensure that the overall distortive effects
+   does not become a barrier to the needed transit.
+   The net effect is that the "prover" of Q,
+   will spend significant time --
+   time that cannot be recovered or re-used
+   for any other purpose --
+   will do so moreover without any thanks
+   or expression of gratitude on the part
+   of the listener/receiver, at all.
+   There is a large scale ambient cultural expectation
+   that as a teacher/presenter,
+   that you are expected and required to have
+   near infinite patience, give near unbounded time,
+   and moreover to show all relevant listeners
+   complete and total emotional patience/understanding.
+   Yet there is, in current cultural reciprocity,
+   no expectation that the "student"
+   will make any effort to account for your process,
+   your own emotions and feelings, personal ideals,
+   invested time, effort, and value, at all.
+
+   Imagine trying to explain to any contemporary
+   of Newton how Einstein was a "correction" to Newton,
+   but only if applied under certain very specific
+   types of otherwise very extreme circumstances?
+   Or worse, to anyone who had studied physics
+   to the point of having a PhD in the late 1800s,
+   the kinds of concepts that QM would have be
+   relevant towards the end of the 1900s?
+   *All* of these "new" concepts
+   would have seemed the most absurd sort of gibberish
+   to anyone who was an accredited, accomplished
+   practicing engineer and/or academic professional.
+   There is literally no way at all
+   that any of them would have had the patience
+   to take in such odd approaches, unusual tools,
+   and/or seemingly misguided ways
+   of doing things which were already well understood.
+
+   Yet I continue to notice
+   that I am still asking people
+   to put the hammer away
+   the whole time.
+
+   For it is the case,
+   in regards to AGI developments,
+   that the situation is actually quite extreme:
+   x-risk considerations demand more of concepts,
+   and of our ethics, in any social relation.
+   And the Q proof is made of screws, and not nails.
+
+   It is simply the case that the kinds of concepts
+   that will get us from what we think that we know
+   to what we actually need to know
+   are simply different in kind
+   than a lot of things
+   that people tend to use typically
+   for most more ordinary sorts of problems.
+
+   In effect, in any explanation
+   of the overall design,
+   and method of making,
+   that I might have to describe both the tool,
+   and the manner of using it,
+   before the notion of a different outcome
+   of having used it
+   would even make sense.
+   Yet if that tool,
+   well even before I have finished describing it
+   is taken out of my hand,
+   used in some other way than I intended it,
+   as if to make it "like something else",
+   then no real conveyance of understanding
+   has actually occurred.
+
+   If I am working on something fragile or small,
+   such as a brand new understanding
+   the impact of a hammer will destroy it.
+   With screw, I can manage force more closely,
+   and can therefore construct different things.
+   And for some other things,
+   even a screw is not the right tool.
+   Sometimes a new kind of problem
+   needs a new kind of tool --
+   to get a new kind of outcome --
+   and people might not have seen that before,
+   in this space.
+   Yet overall, it is my job to convey that,
+   somehow, to see the far picture.
+
+   I have to construct the tools for them
+   to even begin to understand at all.
+   If you take the tools I am using
+   and turn them into something else
+   then I cannot use them anymore
+   for what I needed them to do --
+   my time spent constructing them
+   is wasted when you preemptively
+   take them out of my hands
+   and twist them into
+   what you already believe/know.
+   I need a chance to use the tools
+   as I constructed them
+   for the purposes I built them to serve.
+
+   People are sometimes trying to understand
+   and they are doing so so hard
+   that they are latching into their worldview,
+   which means that they cannot load/understand
+   the worldview I am attempting to convey.
+
+   There is this underlying tension:
+   people do want to understand things,
+   *and* they are used to learning things
+   in the ways that have worked
+   so well for them in the past.
+   Yet to learn something new,
+   it may inherently involve even
+   new methods of learning,
+   new methods of patience and listening.
+
+   People will sometimes say that they understand
+   the things that you have previously said,
+   and maybe they even wanting to believe it,
+   but there will still always be this tension
+   between what you have actually said,
+   and the things they want to connect those
+   ideas to in their own minds.
+
+   When working with larger inferential difference,
+   I am effectively asking them --
+   requiring them --
+   for them to be uncomfortable for far longer,
+   and far more deeply,
+   than they may be typically used to.
+   This is *especially* the case
+   if they are already very intelligent.
+   It is in the space of that fluidity
+   that I am attempting to be building
+   the thing that needs to be made.
+
+   It is admitted that there can be this
+   very uncomfortable feeling of "adrift"
+   on the listeners part, real discomfort,
+   while all of this is going on.
+   Metaphorically, they might feel that they
+   are floating adrift in the middle of the Atlantic ocean,
+   not having any idea at all why they are there,
+   knowing that it is actually uncomfortable,
+   and not knowing whether there is any point
+   to the exercise at all.
+   How are they to readily believe
+   that maybe, with these new tools,
+   that I am bringing up the equivalent of
+   a conceptual submarine underneath them?
+   The bigger the object being moved,
+   and the more mass displacement,
+   the more it will probably take time --
+   more time adrift in the discomfort,
+   while the needed tools are moved
+   into the place where they are at.
+
+   The net result is that, as the presenter,
+   I will end up being required
+   to account for and imagine
+   the (maybe intense) emotional experience
+   of the person who is currently
+   listening, even if they are pulling into
+   some sort of using hammer and nails construct.
+   Tensions and discomforts above
+   will shape the conversational process.
+   As such, in return for accounting
+   for their feelings/emotions/experience,
+   it is not at all unfair for me to ask
+   that I can also be given some allowances,
+   on their part, for my feelings
+   of tension and effort and time:
+   that they will at least
+   consider and acknowledge
+   that I am using different tools and techniques,
+   and that I may actually have at least
+   some real and valid reasons for doing so.
+   I hope that they will allow for and expect
+   that these (maybe currently opaque) reasons
+   will become clear to everyone
+   in some appropriate future time.
+   However, in the interim, I can still ask,
+   I can still need them
+   to have some real actual patience
+   and understanding on their part,
+   and maybe even some emotional space,
+   for me and them
+   to understand this new space
+   in the same way I do,
+   and thus to know and allow for
+   what I am having to map and account for:
+   the way in which they themselves work,
+   as best as I can --
+   and thus to also allow for
+   at least some real application of
+   the efforts I must make on their behalf.
+
+   The personal/social risk to me, when doing this,
+   is that as soon as I start trying
+   to account for their emotions, feelings, etc,
+   there is (inherently) ego involved,
+   and thus the possibility
+   of my being manipulated emotionally.
+   This because they have investment
+   on how they see things,
+   and what outcomes become possible
+   via the channel of invested hopes and dreams.
+   As soon as those topics/aspects become involved,
+   the conversation can very easily get heated,
+   with the net result
+   that I will have ended up letting go
+   of any possible conversational authority
+   to define something about the outcome,
+   that I may have provisionally previously had.
+   Ie, the conversation becomes a failure.
+
+   Moreover, there is a risk
+   that their attempts to pull things
+   back into comfortable known metaphors
+   is due to motivated reasoning --
+   ie, they are wanting to support
+   their already prior reasons,
+   presumptions, and outcomes
+   that they reach the desired conclusions
+   in ways that they can again deploy.
+   This disturbed the future conversational field,
+   for all potential future participants.
+   These situations are actually adversarial,
+   and expression of a conflict theory
+   rather than a mistake theory (&2)
+   of communication.
+
+   This, along with the general observation
+   that people will not, and cannot ever
+   be made to understand anything
+   that their paycheck depends on
+   their not understanding --
+   basically means that there is no assurance
+   that the inferential distance can be crossed.
+   I must consider that maybe
+   no actual path exists --
+   that only a social illusion or signaling
+   of there being an involved listener,
+   and that I should not have been involved at all.
+   That motivational aspect
+   can very strongly,
+   though maybe invisibly,
+   distort all real outcomes,
+   and this too must be watched for
+   on the part of any proposed presenter.
+   However, such motivational considerations
+   are beyond the scope of this essay,
+   and will perhaps be considered elsewhere.
+
+   What can be noticed, at least by me,
+   who is especially and definitely *not*
+   an educational theorist --
+   and who moreover, given the current culture
+   of near total devaluing of any notion 
+   of teacher and/or teaching
+   that to be a teacher is probably one of
+   the very worst jobs one can have --
+   approximately of less value socially, 
+   than being a trash picker --
+   at least they are recycling!
+   The implications that this has for
+   civilization, particularly in regards to
+   inter-generational knowledge transfer
+   has yet to be fully determined.
+   In any case, 
+   teaching has to be separated from politics
+   and more fully valued,
+   if culture and civilization is to endure.
+
+   If there is actually a mutual intention
+   to arrive at someplace new --
+   some new understanding (a new Q!) --
+   it will be necessary for listening people
+   to at least try to not pull that newness
+   into their existing mindsets to quickly.
+   This is Rule Omega --
+   that every participant contribute,
+   to the best of their ability,
+   whatever aid and assistance to the speaker
+   that we may all figure out
+   how best to convey needed and necessary ideas.
+   The inferential difference will need to be crossed.
+   Once that has been done,
+   and the ideas were genuinely encountered
+   *in their own native form*
+   at least once, in some commons description,
+   *then*, and only then,
+   can people attempt,
+   if people still want to,
+   to see if their existing understandings
+   can be *increased*
+   by the application of
+   their already known tools.
+
+
+:Notes:
+
+   - 1; ie; see the list of (@ conversational asymmetries /ai_alignment_1/three_questions_out.html)
+   as described in the 2nd question.
+
+   - 2; I first encountered the notions of
+   mistake theory and conflict theory
+   at (@ link https://slatestarcodex.com/2018/01/24/conflict-vs-mistake/)
+
+   - 3; that 'Q' is as a metaphor for an AGI proof.
